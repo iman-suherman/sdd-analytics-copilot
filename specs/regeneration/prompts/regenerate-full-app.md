@@ -1,5 +1,8 @@
 # Prompt: regenerate the full application
 
+> **Prefer the single entrypoint:** [`REGENERATE.md`](./REGENERATE.md) (parallel waves + inventory).  
+> This file remains as a condensed sequential checklist.
+
 Copy everything below the line into a coding agent that has this repository’s **`specs/`**, **`semantic/`**, and ideally **`data/samples/`** available (even if `src/` was deleted).
 
 ---

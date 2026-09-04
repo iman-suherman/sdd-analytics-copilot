@@ -1,6 +1,16 @@
 # Regeneration blueprint
 
-**Purpose:** If `src/`, `scripts/`, `data/seed.ts`, and UI are deleted, an implementer (human or coding agent) can rebuild the **full** SDD Analytics Copilot from this specs tree.
+**Purpose:** If `src/`, `scripts/`, `data/seed.ts`, and UI are deleted, rebuild from this specs tree.
+
+## One prompt (preferred)
+
+Copy **[`prompts/REGENERATE.md`](./prompts/REGENERATE.md)** (everything below its `---`) into a coding agent, or:
+
+```
+@specs/regeneration/prompts/REGENERATE.md
+```
+
+Parallel automation: `bash specs/regeneration/run-parallel.sh` (see `orchestrate-parallel.md`).
 
 **Read order**
 
