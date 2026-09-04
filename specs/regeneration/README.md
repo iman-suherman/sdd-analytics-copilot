@@ -78,6 +78,11 @@ Vitest env: `AGENT_BACKEND=mock`.
 | G | Vertex + `npm run login` scripts | SDD-013 |
 | H | Acceptance tests + Bahasa demo journey polish | acceptance/*, demo-journey |
 
+### Parallel multi-agent (preferred, <30 min)
+
+See **`orchestrate-parallel.md`** + **`run-parallel.sh`** + prompts in **`prompts/parallel/`**.  
+Uses exclusive path ownership (P1–P6) and golden contracts in **`contracts/`**.
+
 ## Definition of done
 
 - `npm run demo` boots

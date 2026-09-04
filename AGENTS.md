@@ -11,7 +11,7 @@ This repo demonstrates **Spec-Driven Development**. Prefer changing specs and co
 3. Tambahkan investigasi ke dasbor eksekutif
 4. Patch widget dasbor via structured ops
 
-If source is wiped, regenerate from **`specs/regeneration/`** (blueprint + prompts) and requirements **SDD-001…013**.
+If source is wiped, regenerate from **`specs/regeneration/`** (blueprint + prompts) and requirements **SDD-001…013**. Prefer parallel multi-agent: `bash specs/regeneration/run-parallel.sh` (see `orchestrate-parallel.md`).
 
 ## Git author
 

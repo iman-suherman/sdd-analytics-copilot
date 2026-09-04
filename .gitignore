@@ -39,3 +39,6 @@ tsconfig.tsbuildinfo
 # local db (regenerate via npm run db:seed)
 /data/demo.sqlite
 /data/demo.sqlite-*
+
+# parallel regeneration logs
+/specs/regeneration/.regen-logs/
