@@ -1,14 +1,16 @@
 # Demo script
 
-1. `npm install && npm run demo`
-2. Open http://localhost:3000 → **Copilot**
-3. Ask: `How was revenue last month compared with the previous month?`
-4. Expand **QueryPlan** and **Evidence**; note APAC as the driver
-5. Ask: `Why did APAC decline?`
-6. Open **Trace** and click `execute_sqlite`
-7. Ask: `Add this investigation to an executive dashboard.`
-8. Open **Dashboard** — KPI, trend, region bar
-9. Ask: `Replace region with customer segment.`
-10. Refresh Dashboard; open **Semantic Model** for specification traces
+1. `npm install && npm run login` *(optional — Vertex)* `&& npm run demo`
+2. Open http://localhost:3000 — use company switcher (default TokoRaya)
+3. Click the **bottom-right Kopilot** bubble (or a home flow card)
+4. Ask: `Bagaimana pendapatan bulan lalu dibanding bulan sebelumnya?`
+5. Expand **Rencana Kueri** and **Bukti**; note **Sumatera** as the driver
+6. Ask: `Kenapa Sumatera turun?`
+7. Open **Jejak** and inspect `execute_sqlite` (SQL must include `company_id`)
+8. Ask: `Tambahkan investigasi ini ke dasbor eksekutif.`
+9. Open **Dasbor** — KPI, tren, bar wilayah
+10. Ask: `Ganti wilayah dengan segmen pelanggan.`
+11. Refresh Dasbor; open **Model Semantik** for specification traces
+12. Optional: Maximize the dock (fullscreen under header), then Minimize / Esc
 
-Demo clock is fixed at **2026-09-05** so “last month” is August 2026.
+Demo clock is fixed at **2026-09-05** so “bulan lalu” is August 2026.

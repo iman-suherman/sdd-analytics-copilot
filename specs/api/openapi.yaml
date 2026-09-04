@@ -2,11 +2,21 @@ openapi: 3.1.0
 info:
   title: SDD Analytics Copilot API
   version: 0.1.0
-  description: Governed analytics + agent endpoints for the SDD demo.
+  description: |
+    Governed analytics + agent endpoints for the SDD demo.
+    All analytics/chat/dashboard/trace calls are scoped by header x-company-id.
 paths:
+  /api/companies:
+    get:
+      summary: List demo companies (tenants)
+      responses:
+        "200":
+          description: Company list
   /api/analytics/query:
     post:
-      summary: Execute a validated QueryPlan
+      summary: Execute a validated QueryPlan for the active company
+      parameters:
+        - $ref: "#/components/parameters/CompanyIdHeader"
       requestBody:
         required: true
         content:
@@ -15,10 +25,12 @@ paths:
               $ref: "#/components/schemas/QueryPlan"
       responses:
         "200":
-          description: Analytics result with evidence
+          description: Analytics result with evidence (SQL includes company_id)
   /api/agent/chat:
     post:
       summary: Run the analytics copilot for one user turn
+      parameters:
+        - $ref: "#/components/parameters/CompanyIdHeader"
       requestBody:
         required: true
         content:
@@ -29,25 +41,52 @@ paths:
               properties:
                 prompt:
                   type: string
+                  description: Bahasa Indonesia natural language
                 conversationId:
                   type: string
       responses:
         "200":
-          description: Assistant message + trace id
+          description: Assistant message + payload (QueryPlan, evidence, viz) + trace id
+    get:
+      summary: Load conversation messages
+      parameters:
+        - $ref: "#/components/parameters/CompanyIdHeader"
+        - name: conversationId
+          in: query
+          required: true
+          schema:
+            type: string
   /api/semantic-model:
     get:
-      summary: Return loaded semantic model
+      summary: Return loaded semantic model (commerce.yaml)
   /api/dashboards:
     get:
       summary: List dashboards or fetch one with executed widgets
+      parameters:
+        - $ref: "#/components/parameters/CompanyIdHeader"
     put:
       summary: Save DashboardSpec
+      parameters:
+        - $ref: "#/components/parameters/CompanyIdHeader"
     patch:
       summary: Apply DashboardPatch
+      parameters:
+        - $ref: "#/components/parameters/CompanyIdHeader"
   /api/traces:
     get:
-      summary: List or fetch agent traces
+      summary: List or fetch agent traces for company
+      parameters:
+        - $ref: "#/components/parameters/CompanyIdHeader"
 components:
+  parameters:
+    CompanyIdHeader:
+      name: x-company-id
+      in: header
+      required: false
+      schema:
+        type: string
+        default: tokoraya
+      description: Active demo tenant id
   schemas:
     QueryPlan:
       type: object
@@ -59,6 +98,14 @@ components:
           type: array
           items:
             type: string
+        filters:
+          type: array
+          items:
+            type: object
+            properties:
+              dimension: { type: string }
+              op: { type: string, enum: [eq, neq, in] }
+              value: {}
         comparison:
           type: string
           enum: [previous_period, none]
@@ -72,3 +119,14 @@ components:
             granularity:
               type: string
               enum: [day, week, month]
+        limit:
+          type: integer
+          maximum: 1000
+    Company:
+      type: object
+      properties:
+        id: { type: string }
+        name: { type: string }
+        slug: { type: string }
+        sector: { type: string }
+        tagline: { type: string }

@@ -12,7 +12,7 @@ Every major capability is traceable from requirement and acceptance criteria thr
 
 ```
 Ask
-"Why did revenue fall last month?"
+"Kenapa pendapatan turun bulan lalu?"
              ↓
 Plan
 Metric: revenue
@@ -20,16 +20,16 @@ Comparison: previous month
 Breakdown: region + segment
              ↓
 Execute
-Governed semantic queries against SQLite
+Governed semantic queries against SQLite (company_id scoped)
              ↓
 Explain
-"Revenue fell 12.4%, primarily driven by APAC."
+"Pendapatan turun … terutama didorong Sumatera."
              ↓
 Visualise
-Generate evidence-backed charts
+Evidence-backed charts in the floating Kopilot dock
              ↓
 Persist
-"Add this to my executive dashboard"
+"Tambahkan investigasi ini ke dasbor eksekutif"
 ```
 
 ## Quick start
@@ -43,6 +43,17 @@ npm run demo
 Open [http://localhost:3000](http://localhost:3000).
 
 `npm run db:seed` loads commerce data from `data/samples/` (CSV per company with sector-specific columns). Regenerate those files from SQLite with `npm run data:export-csv`. Use `npm run db:seed:generate` to rebuild procedurally without CSVs.
+
+## Regenerate from specs
+
+If application code is missing, use:
+
+- Blueprint: [`specs/regeneration/README.md`](./specs/regeneration/README.md)
+- Full rebuild prompt: [`specs/regeneration/prompts/regenerate-full-app.md`](./specs/regeneration/prompts/regenerate-full-app.md)
+- Data/ops only: [`specs/regeneration/prompts/regenerate-data-and-ops.md`](./specs/regeneration/prompts/regenerate-data-and-ops.md)
+- Copilot/Vertex only: [`specs/regeneration/prompts/regenerate-copilot-vertex.md`](./specs/regeneration/prompts/regenerate-copilot-vertex.md)
+
+Requirements **SDD-001…SDD-013** document every major behaviour (tenancy, locale, CSV pipeline, dock UX, Vertex login scripts).
 
 ## Surfaces
 

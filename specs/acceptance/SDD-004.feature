@@ -1,12 +1,14 @@
-Feature: SDD-004 Conversational Analytics
+Feature: SDD-004 Analitik percakapan
+  Scenario: Pendapatan bulan lalu dengan QueryPlan terkendali
+    Given database demo sudah di-seed
+    And perusahaan aktif tokoraya
+    When pengguna bertanya "Berapa pendapatan bulan lalu?"
+    Then agen mengembalikan QueryPlan dengan metric revenue
+    And jawaban Bahasa Indonesia disertai bukti SQL berisi company_id
+    And jejak agen tersimpan
 
-  Scenario: Ask for monthly revenue
-    Given the commerce semantic model is loaded
-    And the SQLite demo database contains order data
-    When the user asks "What was revenue last month?"
-    Then the agent resolves the "revenue" metric
-    And creates a governed QueryPlan
-    And the analytics engine executes the query
-    And the answer contains the resulting revenue
-    And the evidence shows the metric definition
-    And the execution trace is persisted
+Feature: SDD-002 Pola Sumatera
+  Scenario: Sumatera Agustus lebih rendah
+    Given DEMO_AS_OF 2026-09-05
+    When pendapatan completed Sumatera Agustus 2026 dibandingkan Juli 2026 untuk tokoraya
+    Then Agustus lebih rendah secara material

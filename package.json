@@ -13,6 +13,7 @@
     "db:seed": "tsx data/seed.ts",
     "db:seed:generate": "tsx data/seed.ts --generate",
     "data:export-csv": "tsx data/export-csv.ts",
+    "pptx:sdd-demo": "node docs/pptx/build-sdd-demo-pptx.cjs",
     "demo": "npm run db:seed && next dev",
     "test": "vitest run",
     "test:watch": "vitest"
@@ -45,6 +46,7 @@
     "@types/uuid": "^10.0.0",
     "eslint": "^9",
     "eslint-config-next": "15.5.25",
+    "pptxgenjs": "^4.0.1",
     "tailwindcss": "^4",
     "tsx": "^4.21.0",
     "typescript": "^5",
