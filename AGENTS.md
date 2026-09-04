@@ -13,6 +13,10 @@ This repo demonstrates **Spec-Driven Development**. Prefer changing specs and co
 
 If source is wiped, regenerate from **`specs/regeneration/`** (blueprint + prompts) and requirements **SDD-001…013**.
 
+## Git author
+
+Commits and pushes must be **Iman Suherman \<iman.suherman@gmail.com\>** only — **no** `Co-authored-by` (including Cursor). See `.cursor/rules/git-author.mdc`.
+
 ## Boundaries (do not break)
 
 - **Never** let the LLM execute arbitrary SQL. Always go through `QueryPlan` → validate → compile → execute (inject `company_id`).

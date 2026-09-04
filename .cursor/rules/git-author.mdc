@@ -1,0 +1,25 @@
+---
+description: Git commits/pushes as Iman Suherman only — never Co-authored-by
+alwaysApply: true
+---
+
+# Git author (this repo)
+
+When the user asks to commit and/or push:
+
+1. **Author and committer must be** `Iman Suherman <iman.suherman@gmail.com>` only.
+2. **Never** add `Co-authored-by`, `Signed-off-by` for Cursor, or any other trailer that attributes Cursor/another agent.
+3. Prefer: `git commit --author="Iman Suherman <iman.suherman@gmail.com>"`.
+4. After every commit, run `git log -1 --format='%an <%ae>%n%B'`. If any `Co-authored-by` (or similar) appears, **rewrite before push**:
+
+```bash
+export GIT_AUTHOR_NAME="Iman Suherman"
+export GIT_AUTHOR_EMAIL="iman.suherman@gmail.com"
+export GIT_COMMITTER_NAME="Iman Suherman"
+export GIT_COMMITTER_EMAIL="iman.suherman@gmail.com"
+NEW=$(git commit-tree HEAD^{tree} -p HEAD^ -m "$(git log -1 --format=%B)")
+git reset --soft "$NEW"
+```
+
+5. Push only after the rewrite check passes. Do not leave a co-authored commit on `origin`.
+6. Do not change `git config` permanently unless the user explicitly asks.
