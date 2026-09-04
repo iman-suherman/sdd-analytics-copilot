@@ -1,0 +1,481 @@
+seller_id,company_id,seller_name,seller_tier,region,onboarded_at
+belinusa_cust_0001,belinusa,PT Citra Sejahtera 1,UMKM,Jawa,2024-09-21
+belinusa_cust_0002,belinusa,Toko Mitra Dagang 2,Korporasi,Sumatera,2024-07-03
+belinusa_cust_0003,belinusa,CV Maju Jaya 3,Korporasi,Jawa,2024-08-13
+belinusa_cust_0004,belinusa,PT Rasa Nusantara 4,Korporasi,Jabodetabek,2024-05-24
+belinusa_cust_0005,belinusa,PT Nusantara Digital 5,UMKM,Jawa,2024-03-04
+belinusa_cust_0006,belinusa,CV Rumah Nyaman 6,Menengah,Sumatera,2024-05-01
+belinusa_cust_0007,belinusa,CV Fashion Lokal 7,Korporasi,Sumatera,2024-09-17
+belinusa_cust_0008,belinusa,CV Karya Bangsa 8,Menengah,Jawa,2024-11-14
+belinusa_cust_0009,belinusa,CV Sumber Rejeki 9,UMKM,Jabodetabek,2024-09-07
+belinusa_cust_0010,belinusa,PT Maju Jaya 10,UMKM,Jawa,2024-06-11
+belinusa_cust_0011,belinusa,PT Mitra Dagang 11,UMKM,Sumatera,2024-06-11
+belinusa_cust_0012,belinusa,Warung Laut Biru 12,Menengah,Jabodetabek,2024-10-06
+belinusa_cust_0013,belinusa,UD Rasa Nusantara 13,Korporasi,Sumatera,2024-06-19
+belinusa_cust_0014,belinusa,CV Rasa Nusantara 14,Korporasi,Jabodetabek,2024-04-13
+belinusa_cust_0015,belinusa,CV Gunung Mas 15,Korporasi,Indonesia Timur,2024-11-26
+belinusa_cust_0016,belinusa,UD Rasa Nusantara 16,Menengah,Jabodetabek,2024-09-21
+belinusa_cust_0017,belinusa,Toko Gunung Mas 17,Korporasi,Jabodetabek,2024-07-21
+belinusa_cust_0018,belinusa,UD Anugerah Prima 18,Menengah,Indonesia Timur,2024-01-01
+belinusa_cust_0019,belinusa,CV Nusantara Digital 19,UMKM,Indonesia Timur,2024-07-03
+belinusa_cust_0020,belinusa,PT Berkah Mandiri 20,Korporasi,Jabodetabek,2024-08-24
+belinusa_cust_0021,belinusa,Warung Karya Bangsa 21,UMKM,Indonesia Timur,2024-05-05
+belinusa_cust_0022,belinusa,PT Tekno Rimba 22,Menengah,Indonesia Timur,2024-04-19
+belinusa_cust_0023,belinusa,UD Anugerah Prima 23,UMKM,Sumatera,2024-12-18
+belinusa_cust_0024,belinusa,PT Rumah Nyaman 24,Korporasi,Jawa,2024-12-14
+belinusa_cust_0025,belinusa,PT Sumber Rejeki 25,Korporasi,Indonesia Timur,2024-03-10
+belinusa_cust_0026,belinusa,CV Gunung Mas 26,Menengah,Jawa,2024-11-09
+belinusa_cust_0027,belinusa,Warung Maju Jaya 27,UMKM,Jawa,2024-11-25
+belinusa_cust_0028,belinusa,Toko Gunung Mas 28,Menengah,Indonesia Timur,2024-01-12
+belinusa_cust_0029,belinusa,CV Rumah Nyaman 29,Menengah,Jabodetabek,2024-05-11
+belinusa_cust_0030,belinusa,Warung Laut Biru 30,Menengah,Indonesia Timur,2024-12-15
+belinusa_cust_0031,belinusa,Toko Sumber Rejeki 31,Menengah,Indonesia Timur,2024-02-15
+belinusa_cust_0032,belinusa,PT Anugerah Prima 32,Menengah,Jawa,2024-02-24
+belinusa_cust_0033,belinusa,CV Pangan Sehat 33,Korporasi,Sumatera,2024-02-24
+belinusa_cust_0034,belinusa,CV Karya Bangsa 34,Korporasi,Jabodetabek,2024-04-05
+belinusa_cust_0035,belinusa,UD Gunung Mas 35,Korporasi,Jabodetabek,2024-03-11
+belinusa_cust_0036,belinusa,UD Fashion Lokal 36,UMKM,Jawa,2024-01-24
+belinusa_cust_0037,belinusa,Toko Sinar Abadi 37,Korporasi,Jabodetabek,2024-12-16
+belinusa_cust_0038,belinusa,Toko Tekno Rimba 38,UMKM,Sumatera,2024-03-15
+belinusa_cust_0039,belinusa,PT Elektronik Ceria 39,Korporasi,Jawa,2024-08-15
+belinusa_cust_0040,belinusa,Toko Elektronik Ceria 40,Korporasi,Jawa,2024-08-24
+belinusa_cust_0041,belinusa,Warung Sinar Abadi 41,UMKM,Jabodetabek,2024-03-11
+belinusa_cust_0042,belinusa,UD Rasa Nusantara 42,UMKM,Jabodetabek,2024-08-16
+belinusa_cust_0043,belinusa,Warung Bumi Lestari 43,Menengah,Sumatera,2024-12-20
+belinusa_cust_0044,belinusa,Warung Anugerah Prima 44,Korporasi,Jawa,2024-01-03
+belinusa_cust_0045,belinusa,CV Indah Makmur 45,Menengah,Indonesia Timur,2024-07-13
+belinusa_cust_0046,belinusa,CV Indah Makmur 46,UMKM,Jawa,2024-11-28
+belinusa_cust_0047,belinusa,PT Sinar Abadi 47,Korporasi,Jawa,2024-03-25
+belinusa_cust_0048,belinusa,UD Sumber Rejeki 48,Korporasi,Sumatera,2024-02-18
+belinusa_cust_0049,belinusa,CV Pangan Sehat 49,UMKM,Indonesia Timur,2024-06-07
+belinusa_cust_0050,belinusa,Warung Rasa Nusantara 50,Menengah,Jawa,2024-04-07
+belinusa_cust_0051,belinusa,Warung Nusantara Digital 51,Menengah,Jabodetabek,2024-06-22
+belinusa_cust_0052,belinusa,PT Anugerah Prima 52,Korporasi,Sumatera,2024-03-18
+belinusa_cust_0053,belinusa,Warung Nusantara Digital 53,UMKM,Indonesia Timur,2024-08-26
+belinusa_cust_0054,belinusa,Toko Tekno Rimba 54,Korporasi,Indonesia Timur,2024-01-15
+belinusa_cust_0055,belinusa,UD Anugerah Prima 55,UMKM,Jabodetabek,2024-08-19
+belinusa_cust_0056,belinusa,CV Indah Makmur 56,UMKM,Sumatera,2024-05-11
+belinusa_cust_0057,belinusa,CV Nusantara Digital 57,Korporasi,Indonesia Timur,2024-09-27
+belinusa_cust_0058,belinusa,UD Berkah Mandiri 58,UMKM,Jawa,2024-06-18
+belinusa_cust_0059,belinusa,PT Gunung Mas 59,Korporasi,Indonesia Timur,2024-04-07
+belinusa_cust_0060,belinusa,PT Sinar Abadi 60,UMKM,Jawa,2024-06-03
+belinusa_cust_0061,belinusa,Warung Maju Jaya 61,Korporasi,Jabodetabek,2024-12-26
+belinusa_cust_0062,belinusa,UD Maju Jaya 62,UMKM,Jawa,2024-06-23
+belinusa_cust_0063,belinusa,CV Indah Makmur 63,Menengah,Jabodetabek,2024-12-04
+belinusa_cust_0064,belinusa,CV Tekno Rimba 64,Menengah,Sumatera,2024-10-11
+belinusa_cust_0065,belinusa,Toko Rasa Nusantara 65,Menengah,Jabodetabek,2024-02-06
+belinusa_cust_0066,belinusa,PT Karya Bangsa 66,UMKM,Jabodetabek,2024-12-16
+belinusa_cust_0067,belinusa,CV Elektronik Ceria 67,Menengah,Jabodetabek,2024-11-20
+belinusa_cust_0068,belinusa,Warung Mitra Dagang 68,UMKM,Jabodetabek,2024-12-07
+belinusa_cust_0069,belinusa,Toko Karya Bangsa 69,Menengah,Sumatera,2024-04-23
+belinusa_cust_0070,belinusa,UD Nusantara Digital 70,Korporasi,Sumatera,2024-06-17
+belinusa_cust_0071,belinusa,Warung Sinar Abadi 71,Menengah,Sumatera,2024-07-01
+belinusa_cust_0072,belinusa,Toko Nusantara Digital 72,Korporasi,Indonesia Timur,2024-02-07
+belinusa_cust_0073,belinusa,CV Maju Jaya 73,Korporasi,Indonesia Timur,2024-09-22
+belinusa_cust_0074,belinusa,Toko Elektronik Ceria 74,UMKM,Jawa,2024-06-28
+belinusa_cust_0075,belinusa,CV Berkah Mandiri 75,Menengah,Indonesia Timur,2024-05-19
+belinusa_cust_0076,belinusa,Toko Rasa Nusantara 76,Menengah,Sumatera,2024-06-28
+belinusa_cust_0077,belinusa,Toko Rasa Nusantara 77,Korporasi,Sumatera,2024-08-24
+belinusa_cust_0078,belinusa,CV Sumber Rejeki 78,Korporasi,Jabodetabek,2024-02-10
+belinusa_cust_0079,belinusa,Toko Bumi Lestari 79,Menengah,Indonesia Timur,2024-09-10
+belinusa_cust_0080,belinusa,CV Sumber Rejeki 80,Menengah,Jabodetabek,2024-08-08
+belinusa_cust_0081,belinusa,UD Maju Jaya 81,Korporasi,Jabodetabek,2024-08-16
+belinusa_cust_0082,belinusa,UD Mitra Dagang 82,UMKM,Jabodetabek,2024-08-15
+belinusa_cust_0083,belinusa,CV Indah Makmur 83,Menengah,Indonesia Timur,2024-02-28
+belinusa_cust_0084,belinusa,CV Sinar Abadi 84,Menengah,Jawa,2024-04-06
+belinusa_cust_0085,belinusa,Warung Sumber Rejeki 85,UMKM,Jawa,2024-06-11
+belinusa_cust_0086,belinusa,Toko Bumi Lestari 86,Menengah,Sumatera,2024-08-07
+belinusa_cust_0087,belinusa,CV Berkah Mandiri 87,UMKM,Indonesia Timur,2024-11-16
+belinusa_cust_0088,belinusa,Warung Batik Cantik 88,UMKM,Sumatera,2024-06-21
+belinusa_cust_0089,belinusa,UD Sinar Abadi 89,UMKM,Indonesia Timur,2024-07-17
+belinusa_cust_0090,belinusa,Warung Karya Bangsa 90,Korporasi,Sumatera,2024-10-23
+belinusa_cust_0091,belinusa,UD Elektronik Ceria 91,Korporasi,Indonesia Timur,2024-07-15
+belinusa_cust_0092,belinusa,PT Pangan Sehat 92,Menengah,Jabodetabek,2024-04-06
+belinusa_cust_0093,belinusa,CV Batik Cantik 93,UMKM,Jawa,2024-12-14
+belinusa_cust_0094,belinusa,CV Tekno Rimba 94,UMKM,Jawa,2024-11-20
+belinusa_cust_0095,belinusa,UD Nusantara Digital 95,UMKM,Jawa,2024-03-02
+belinusa_cust_0096,belinusa,Warung Indah Makmur 96,Menengah,Jawa,2024-10-06
+belinusa_cust_0097,belinusa,UD Nusantara Digital 97,Menengah,Jawa,2024-01-04
+belinusa_cust_0098,belinusa,CV Sinar Abadi 98,Korporasi,Indonesia Timur,2024-03-16
+belinusa_cust_0099,belinusa,Warung Pangan Sehat 99,Korporasi,Sumatera,2024-10-10
+belinusa_cust_0100,belinusa,PT Karya Bangsa 100,UMKM,Sumatera,2024-11-15
+belinusa_cust_0101,belinusa,Toko Berkah Mandiri 101,Menengah,Indonesia Timur,2024-04-05
+belinusa_cust_0102,belinusa,PT Gunung Mas 102,Menengah,Jawa,2024-11-20
+belinusa_cust_0103,belinusa,CV Anugerah Prima 103,Korporasi,Sumatera,2024-10-21
+belinusa_cust_0104,belinusa,UD Sinar Abadi 104,UMKM,Indonesia Timur,2024-11-06
+belinusa_cust_0105,belinusa,UD Rumah Nyaman 105,Menengah,Jawa,2024-01-21
+belinusa_cust_0106,belinusa,Warung Anugerah Prima 106,Korporasi,Jawa,2024-09-03
+belinusa_cust_0107,belinusa,UD Maju Jaya 107,UMKM,Jabodetabek,2024-05-16
+belinusa_cust_0108,belinusa,Warung Rasa Nusantara 108,Menengah,Sumatera,2024-05-19
+belinusa_cust_0109,belinusa,PT Mitra Dagang 109,Menengah,Jawa,2024-01-02
+belinusa_cust_0110,belinusa,Toko Sumber Rejeki 110,Korporasi,Jabodetabek,2024-11-02
+belinusa_cust_0111,belinusa,Warung Berkah Mandiri 111,UMKM,Indonesia Timur,2024-08-02
+belinusa_cust_0112,belinusa,CV Tekno Rimba 112,Menengah,Jabodetabek,2024-12-02
+belinusa_cust_0113,belinusa,Warung Anugerah Prima 113,Menengah,Sumatera,2024-10-12
+belinusa_cust_0114,belinusa,UD Gunung Mas 114,Korporasi,Sumatera,2024-06-09
+belinusa_cust_0115,belinusa,Toko Mitra Dagang 115,UMKM,Jawa,2024-05-26
+belinusa_cust_0116,belinusa,CV Karya Bangsa 116,Menengah,Indonesia Timur,2024-11-21
+belinusa_cust_0117,belinusa,PT Pangan Sehat 117,Korporasi,Jabodetabek,2024-09-04
+belinusa_cust_0118,belinusa,Warung Nusantara Digital 118,UMKM,Indonesia Timur,2024-12-04
+belinusa_cust_0119,belinusa,UD Nusantara Digital 119,UMKM,Indonesia Timur,2024-05-21
+belinusa_cust_0120,belinusa,UD Citra Sejahtera 120,Korporasi,Jawa,2024-02-23
+belinusa_cust_0121,belinusa,UD Indah Makmur 121,UMKM,Jawa,2024-12-20
+belinusa_cust_0122,belinusa,Warung Indah Makmur 122,Korporasi,Jawa,2024-01-22
+belinusa_cust_0123,belinusa,Warung Mitra Dagang 123,Korporasi,Jawa,2024-09-09
+belinusa_cust_0124,belinusa,Toko Citra Sejahtera 124,Menengah,Indonesia Timur,2024-04-19
+belinusa_cust_0125,belinusa,CV Anugerah Prima 125,Menengah,Jawa,2024-02-04
+belinusa_cust_0126,belinusa,Toko Pangan Sehat 126,UMKM,Jabodetabek,2024-04-05
+belinusa_cust_0127,belinusa,PT Tekno Rimba 127,Korporasi,Indonesia Timur,2024-04-22
+belinusa_cust_0128,belinusa,UD Citra Sejahtera 128,UMKM,Indonesia Timur,2024-09-24
+belinusa_cust_0129,belinusa,Toko Indah Makmur 129,Korporasi,Jabodetabek,2024-06-22
+belinusa_cust_0130,belinusa,CV Elektronik Ceria 130,UMKM,Sumatera,2024-06-03
+belinusa_cust_0131,belinusa,CV Pangan Sehat 131,Menengah,Jabodetabek,2024-06-22
+belinusa_cust_0132,belinusa,Toko Maju Jaya 132,Menengah,Jawa,2024-02-23
+belinusa_cust_0133,belinusa,UD Bumi Lestari 133,Korporasi,Jawa,2024-01-24
+belinusa_cust_0134,belinusa,Toko Fashion Lokal 134,UMKM,Indonesia Timur,2024-04-06
+belinusa_cust_0135,belinusa,Warung Tekno Rimba 135,Menengah,Indonesia Timur,2024-10-03
+belinusa_cust_0136,belinusa,PT Citra Sejahtera 136,Menengah,Jawa,2024-01-05
+belinusa_cust_0137,belinusa,PT Karya Bangsa 137,UMKM,Jabodetabek,2024-12-23
+belinusa_cust_0138,belinusa,Warung Rumah Nyaman 138,Korporasi,Sumatera,2024-07-22
+belinusa_cust_0139,belinusa,PT Bumi Lestari 139,UMKM,Jawa,2024-06-07
+belinusa_cust_0140,belinusa,Warung Pangan Sehat 140,UMKM,Sumatera,2024-07-18
+belinusa_cust_0141,belinusa,CV Sinar Abadi 141,UMKM,Jabodetabek,2024-06-04
+belinusa_cust_0142,belinusa,PT Fashion Lokal 142,Korporasi,Sumatera,2024-02-20
+belinusa_cust_0143,belinusa,Warung Berkah Mandiri 143,UMKM,Indonesia Timur,2024-03-20
+belinusa_cust_0144,belinusa,Toko Laut Biru 144,UMKM,Sumatera,2024-11-05
+belinusa_cust_0145,belinusa,CV Berkah Mandiri 145,Menengah,Jawa,2024-12-03
+belinusa_cust_0146,belinusa,Warung Tekno Rimba 146,Menengah,Sumatera,2024-11-03
+belinusa_cust_0147,belinusa,CV Rasa Nusantara 147,Korporasi,Indonesia Timur,2024-07-17
+belinusa_cust_0148,belinusa,CV Gunung Mas 148,Korporasi,Jawa,2024-06-23
+belinusa_cust_0149,belinusa,CV Pangan Sehat 149,Korporasi,Jawa,2024-09-06
+belinusa_cust_0150,belinusa,CV Maju Jaya 150,Korporasi,Jabodetabek,2024-06-27
+belinusa_cust_0151,belinusa,CV Anugerah Prima 151,UMKM,Sumatera,2024-11-11
+belinusa_cust_0152,belinusa,Warung Anugerah Prima 152,Menengah,Sumatera,2024-08-28
+belinusa_cust_0153,belinusa,UD Karya Bangsa 153,Menengah,Sumatera,2024-02-21
+belinusa_cust_0154,belinusa,Toko Batik Cantik 154,UMKM,Jawa,2024-01-17
+belinusa_cust_0155,belinusa,CV Maju Jaya 155,Menengah,Sumatera,2024-05-18
+belinusa_cust_0156,belinusa,Warung Fashion Lokal 156,Menengah,Jabodetabek,2024-11-19
+belinusa_cust_0157,belinusa,Toko Nusantara Digital 157,Korporasi,Sumatera,2024-12-23
+belinusa_cust_0158,belinusa,PT Maju Jaya 158,UMKM,Jabodetabek,2024-05-20
+belinusa_cust_0159,belinusa,PT Bumi Lestari 159,Menengah,Sumatera,2024-11-03
+belinusa_cust_0160,belinusa,PT Nusantara Digital 160,Korporasi,Sumatera,2024-01-05
+belinusa_cust_0161,belinusa,Toko Laut Biru 161,UMKM,Indonesia Timur,2024-11-02
+belinusa_cust_0162,belinusa,Toko Berkah Mandiri 162,Korporasi,Sumatera,2024-01-01
+belinusa_cust_0163,belinusa,Warung Elektronik Ceria 163,UMKM,Sumatera,2024-01-17
+belinusa_cust_0164,belinusa,Warung Berkah Mandiri 164,Korporasi,Sumatera,2024-07-05
+belinusa_cust_0165,belinusa,UD Elektronik Ceria 165,UMKM,Jabodetabek,2024-11-05
+belinusa_cust_0166,belinusa,Warung Mitra Dagang 166,Korporasi,Jawa,2024-12-21
+belinusa_cust_0167,belinusa,PT Sumber Rejeki 167,UMKM,Indonesia Timur,2024-11-14
+belinusa_cust_0168,belinusa,UD Anugerah Prima 168,Menengah,Sumatera,2024-12-26
+belinusa_cust_0169,belinusa,CV Fashion Lokal 169,Korporasi,Jabodetabek,2024-11-28
+belinusa_cust_0170,belinusa,Warung Tekno Rimba 170,Menengah,Jawa,2024-04-23
+belinusa_cust_0171,belinusa,CV Tekno Rimba 171,Korporasi,Jabodetabek,2024-03-13
+belinusa_cust_0172,belinusa,UD Indah Makmur 172,Korporasi,Sumatera,2024-05-14
+belinusa_cust_0173,belinusa,PT Bumi Lestari 173,Korporasi,Jabodetabek,2024-02-17
+belinusa_cust_0174,belinusa,PT Elektronik Ceria 174,Korporasi,Indonesia Timur,2024-01-17
+belinusa_cust_0175,belinusa,PT Anugerah Prima 175,UMKM,Indonesia Timur,2024-03-15
+belinusa_cust_0176,belinusa,PT Citra Sejahtera 176,Menengah,Jabodetabek,2024-09-02
+belinusa_cust_0177,belinusa,Warung Indah Makmur 177,Korporasi,Jawa,2024-02-06
+belinusa_cust_0178,belinusa,PT Indah Makmur 178,Korporasi,Jawa,2024-02-28
+belinusa_cust_0179,belinusa,UD Fashion Lokal 179,Korporasi,Indonesia Timur,2024-11-02
+belinusa_cust_0180,belinusa,Warung Nusantara Digital 180,Korporasi,Jawa,2024-05-24
+belinusa_cust_0181,belinusa,UD Sumber Rejeki 181,UMKM,Sumatera,2024-10-09
+belinusa_cust_0182,belinusa,Warung Laut Biru 182,Menengah,Jabodetabek,2024-12-20
+belinusa_cust_0183,belinusa,PT Citra Sejahtera 183,Menengah,Jawa,2024-08-11
+belinusa_cust_0184,belinusa,Warung Anugerah Prima 184,Menengah,Indonesia Timur,2024-03-14
+belinusa_cust_0185,belinusa,CV Nusantara Digital 185,UMKM,Sumatera,2024-09-27
+belinusa_cust_0186,belinusa,Toko Fashion Lokal 186,Korporasi,Sumatera,2024-10-20
+belinusa_cust_0187,belinusa,Warung Berkah Mandiri 187,Korporasi,Jabodetabek,2024-06-28
+belinusa_cust_0188,belinusa,PT Laut Biru 188,Korporasi,Jabodetabek,2024-12-20
+belinusa_cust_0189,belinusa,Toko Nusantara Digital 189,UMKM,Sumatera,2024-02-09
+belinusa_cust_0190,belinusa,PT Anugerah Prima 190,Menengah,Indonesia Timur,2024-04-04
+belinusa_cust_0191,belinusa,Toko Laut Biru 191,UMKM,Jawa,2024-07-28
+belinusa_cust_0192,belinusa,Warung Berkah Mandiri 192,Korporasi,Jabodetabek,2024-08-14
+belinusa_cust_0193,belinusa,UD Mitra Dagang 193,Menengah,Indonesia Timur,2024-01-22
+belinusa_cust_0194,belinusa,PT Elektronik Ceria 194,UMKM,Jawa,2024-12-01
+belinusa_cust_0195,belinusa,Warung Citra Sejahtera 195,UMKM,Jawa,2024-06-19
+belinusa_cust_0196,belinusa,Toko Laut Biru 196,Korporasi,Jabodetabek,2024-06-14
+belinusa_cust_0197,belinusa,CV Sumber Rejeki 197,Menengah,Indonesia Timur,2024-10-07
+belinusa_cust_0198,belinusa,UD Laut Biru 198,Korporasi,Jawa,2024-09-11
+belinusa_cust_0199,belinusa,CV Batik Cantik 199,UMKM,Sumatera,2024-05-10
+belinusa_cust_0200,belinusa,CV Tekno Rimba 200,Korporasi,Jawa,2024-04-03
+belinusa_cust_0201,belinusa,PT Bumi Lestari 201,UMKM,Sumatera,2024-01-28
+belinusa_cust_0202,belinusa,Toko Indah Makmur 202,UMKM,Jabodetabek,2024-10-02
+belinusa_cust_0203,belinusa,PT Citra Sejahtera 203,Korporasi,Indonesia Timur,2024-04-09
+belinusa_cust_0204,belinusa,Toko Maju Jaya 204,UMKM,Jabodetabek,2024-01-25
+belinusa_cust_0205,belinusa,CV Rasa Nusantara 205,UMKM,Sumatera,2024-11-28
+belinusa_cust_0206,belinusa,PT Rasa Nusantara 206,Korporasi,Jabodetabek,2024-01-18
+belinusa_cust_0207,belinusa,Warung Bumi Lestari 207,Menengah,Jabodetabek,2024-09-11
+belinusa_cust_0208,belinusa,Warung Batik Cantik 208,UMKM,Jabodetabek,2024-02-12
+belinusa_cust_0209,belinusa,UD Bumi Lestari 209,UMKM,Jabodetabek,2024-04-27
+belinusa_cust_0210,belinusa,UD Bumi Lestari 210,Menengah,Jabodetabek,2024-07-22
+belinusa_cust_0211,belinusa,Warung Indah Makmur 211,Korporasi,Jawa,2024-08-02
+belinusa_cust_0212,belinusa,UD Berkah Mandiri 212,UMKM,Jabodetabek,2024-12-04
+belinusa_cust_0213,belinusa,Warung Bumi Lestari 213,UMKM,Jabodetabek,2024-09-22
+belinusa_cust_0214,belinusa,UD Sinar Abadi 214,Menengah,Sumatera,2024-01-10
+belinusa_cust_0215,belinusa,UD Laut Biru 215,Menengah,Sumatera,2024-10-04
+belinusa_cust_0216,belinusa,CV Karya Bangsa 216,UMKM,Indonesia Timur,2024-07-12
+belinusa_cust_0217,belinusa,Warung Citra Sejahtera 217,UMKM,Indonesia Timur,2024-04-22
+belinusa_cust_0218,belinusa,CV Tekno Rimba 218,Korporasi,Jawa,2024-06-04
+belinusa_cust_0219,belinusa,Warung Elektronik Ceria 219,Korporasi,Jabodetabek,2024-08-13
+belinusa_cust_0220,belinusa,Warung Tekno Rimba 220,UMKM,Sumatera,2024-01-26
+belinusa_cust_0221,belinusa,CV Karya Bangsa 221,UMKM,Jawa,2024-02-12
+belinusa_cust_0222,belinusa,CV Fashion Lokal 222,Korporasi,Jabodetabek,2024-03-04
+belinusa_cust_0223,belinusa,CV Bumi Lestari 223,UMKM,Sumatera,2024-06-10
+belinusa_cust_0224,belinusa,Warung Bumi Lestari 224,UMKM,Jabodetabek,2024-07-14
+belinusa_cust_0225,belinusa,PT Rumah Nyaman 225,Korporasi,Jawa,2024-07-14
+belinusa_cust_0226,belinusa,CV Batik Cantik 226,UMKM,Sumatera,2024-09-20
+belinusa_cust_0227,belinusa,CV Tekno Rimba 227,Korporasi,Jabodetabek,2024-08-21
+belinusa_cust_0228,belinusa,Toko Bumi Lestari 228,UMKM,Sumatera,2024-01-21
+belinusa_cust_0229,belinusa,PT Sumber Rejeki 229,Korporasi,Jabodetabek,2024-09-10
+belinusa_cust_0230,belinusa,Toko Sumber Rejeki 230,Menengah,Indonesia Timur,2024-04-04
+belinusa_cust_0231,belinusa,Toko Indah Makmur 231,Menengah,Jabodetabek,2024-07-08
+belinusa_cust_0232,belinusa,Warung Sinar Abadi 232,Korporasi,Jabodetabek,2024-02-26
+belinusa_cust_0233,belinusa,UD Citra Sejahtera 233,Korporasi,Jawa,2024-11-16
+belinusa_cust_0234,belinusa,CV Anugerah Prima 234,Menengah,Sumatera,2024-09-28
+belinusa_cust_0235,belinusa,Warung Karya Bangsa 235,UMKM,Jabodetabek,2024-06-25
+belinusa_cust_0236,belinusa,CV Elektronik Ceria 236,Menengah,Indonesia Timur,2024-12-25
+belinusa_cust_0237,belinusa,UD Elektronik Ceria 237,UMKM,Indonesia Timur,2024-05-20
+belinusa_cust_0238,belinusa,Toko Citra Sejahtera 238,Menengah,Indonesia Timur,2024-01-03
+belinusa_cust_0239,belinusa,PT Karya Bangsa 239,Menengah,Jawa,2024-01-27
+belinusa_cust_0240,belinusa,UD Fashion Lokal 240,Korporasi,Jawa,2024-11-15
+belinusa_cust_0241,belinusa,UD Laut Biru 241,Korporasi,Jawa,2024-07-12
+belinusa_cust_0242,belinusa,Toko Sinar Abadi 242,UMKM,Jawa,2024-08-08
+belinusa_cust_0243,belinusa,Toko Sumber Rejeki 243,UMKM,Jawa,2024-12-20
+belinusa_cust_0244,belinusa,CV Elektronik Ceria 244,Menengah,Sumatera,2024-05-02
+belinusa_cust_0245,belinusa,CV Batik Cantik 245,Menengah,Jawa,2024-09-21
+belinusa_cust_0246,belinusa,CV Citra Sejahtera 246,Korporasi,Indonesia Timur,2024-05-11
+belinusa_cust_0247,belinusa,CV Laut Biru 247,UMKM,Sumatera,2024-03-13
+belinusa_cust_0248,belinusa,CV Gunung Mas 248,Menengah,Jawa,2024-08-26
+belinusa_cust_0249,belinusa,Toko Elektronik Ceria 249,Korporasi,Jabodetabek,2024-12-10
+belinusa_cust_0250,belinusa,Toko Elektronik Ceria 250,UMKM,Jawa,2024-05-09
+belinusa_cust_0251,belinusa,Warung Berkah Mandiri 251,Menengah,Indonesia Timur,2024-02-25
+belinusa_cust_0252,belinusa,UD Gunung Mas 252,Menengah,Sumatera,2024-08-26
+belinusa_cust_0253,belinusa,Warung Sumber Rejeki 253,UMKM,Sumatera,2024-05-10
+belinusa_cust_0254,belinusa,Warung Pangan Sehat 254,Menengah,Jabodetabek,2024-03-14
+belinusa_cust_0255,belinusa,UD Bumi Lestari 255,UMKM,Jawa,2024-10-23
+belinusa_cust_0256,belinusa,Warung Elektronik Ceria 256,UMKM,Jawa,2024-12-20
+belinusa_cust_0257,belinusa,Warung Pangan Sehat 257,Korporasi,Sumatera,2024-04-01
+belinusa_cust_0258,belinusa,Toko Gunung Mas 258,Menengah,Sumatera,2024-09-13
+belinusa_cust_0259,belinusa,PT Batik Cantik 259,UMKM,Jawa,2024-02-13
+belinusa_cust_0260,belinusa,PT Indah Makmur 260,Menengah,Sumatera,2024-02-23
+belinusa_cust_0261,belinusa,Warung Mitra Dagang 261,Menengah,Jabodetabek,2024-01-26
+belinusa_cust_0262,belinusa,UD Citra Sejahtera 262,Korporasi,Sumatera,2024-02-02
+belinusa_cust_0263,belinusa,Warung Indah Makmur 263,Menengah,Sumatera,2024-01-25
+belinusa_cust_0264,belinusa,Warung Rumah Nyaman 264,UMKM,Jawa,2024-12-02
+belinusa_cust_0265,belinusa,UD Tekno Rimba 265,Korporasi,Indonesia Timur,2024-07-18
+belinusa_cust_0266,belinusa,PT Elektronik Ceria 266,Korporasi,Indonesia Timur,2024-09-20
+belinusa_cust_0267,belinusa,PT Indah Makmur 267,Korporasi,Sumatera,2024-03-05
+belinusa_cust_0268,belinusa,UD Sumber Rejeki 268,Korporasi,Jawa,2024-03-03
+belinusa_cust_0269,belinusa,UD Batik Cantik 269,UMKM,Indonesia Timur,2024-12-13
+belinusa_cust_0270,belinusa,CV Karya Bangsa 270,UMKM,Indonesia Timur,2024-04-26
+belinusa_cust_0271,belinusa,PT Bumi Lestari 271,UMKM,Indonesia Timur,2024-09-02
+belinusa_cust_0272,belinusa,CV Rumah Nyaman 272,UMKM,Sumatera,2024-05-08
+belinusa_cust_0273,belinusa,Warung Rasa Nusantara 273,Menengah,Sumatera,2024-06-25
+belinusa_cust_0274,belinusa,PT Indah Makmur 274,Menengah,Indonesia Timur,2024-06-21
+belinusa_cust_0275,belinusa,UD Fashion Lokal 275,Korporasi,Sumatera,2024-06-19
+belinusa_cust_0276,belinusa,Toko Batik Cantik 276,UMKM,Indonesia Timur,2024-06-03
+belinusa_cust_0277,belinusa,Toko Anugerah Prima 277,Menengah,Indonesia Timur,2024-02-13
+belinusa_cust_0278,belinusa,Toko Tekno Rimba 278,UMKM,Jawa,2024-04-18
+belinusa_cust_0279,belinusa,UD Pangan Sehat 279,Korporasi,Jabodetabek,2024-12-20
+belinusa_cust_0280,belinusa,Warung Indah Makmur 280,Menengah,Jabodetabek,2024-12-18
+belinusa_cust_0281,belinusa,CV Tekno Rimba 281,UMKM,Sumatera,2024-06-17
+belinusa_cust_0282,belinusa,CV Fashion Lokal 282,UMKM,Jabodetabek,2024-09-27
+belinusa_cust_0283,belinusa,UD Maju Jaya 283,Menengah,Jabodetabek,2024-08-28
+belinusa_cust_0284,belinusa,Toko Citra Sejahtera 284,Menengah,Sumatera,2024-11-26
+belinusa_cust_0285,belinusa,Toko Nusantara Digital 285,UMKM,Jabodetabek,2024-11-10
+belinusa_cust_0286,belinusa,CV Rasa Nusantara 286,Korporasi,Indonesia Timur,2024-04-22
+belinusa_cust_0287,belinusa,CV Berkah Mandiri 287,Korporasi,Indonesia Timur,2024-01-13
+belinusa_cust_0288,belinusa,CV Bumi Lestari 288,UMKM,Jabodetabek,2024-05-19
+belinusa_cust_0289,belinusa,Toko Anugerah Prima 289,UMKM,Sumatera,2024-12-04
+belinusa_cust_0290,belinusa,CV Rasa Nusantara 290,Menengah,Sumatera,2024-08-12
+belinusa_cust_0291,belinusa,Toko Sinar Abadi 291,UMKM,Indonesia Timur,2024-10-03
+belinusa_cust_0292,belinusa,CV Laut Biru 292,UMKM,Sumatera,2024-06-14
+belinusa_cust_0293,belinusa,Warung Tekno Rimba 293,Menengah,Sumatera,2024-02-18
+belinusa_cust_0294,belinusa,UD Gunung Mas 294,Menengah,Jawa,2024-03-25
+belinusa_cust_0295,belinusa,Warung Bumi Lestari 295,Korporasi,Jawa,2024-08-14
+belinusa_cust_0296,belinusa,UD Fashion Lokal 296,UMKM,Sumatera,2024-09-10
+belinusa_cust_0297,belinusa,CV Maju Jaya 297,UMKM,Sumatera,2024-02-19
+belinusa_cust_0298,belinusa,UD Citra Sejahtera 298,Korporasi,Sumatera,2024-08-16
+belinusa_cust_0299,belinusa,Warung Sinar Abadi 299,Korporasi,Indonesia Timur,2024-05-27
+belinusa_cust_0300,belinusa,UD Karya Bangsa 300,Menengah,Sumatera,2024-09-13
+belinusa_cust_0301,belinusa,Toko Karya Bangsa 301,Korporasi,Jawa,2024-10-14
+belinusa_cust_0302,belinusa,CV Nusantara Digital 302,Korporasi,Jawa,2024-04-12
+belinusa_cust_0303,belinusa,CV Sumber Rejeki 303,UMKM,Jawa,2024-09-20
+belinusa_cust_0304,belinusa,Warung Sinar Abadi 304,Korporasi,Jawa,2024-11-09
+belinusa_cust_0305,belinusa,Toko Indah Makmur 305,Korporasi,Jabodetabek,2024-04-17
+belinusa_cust_0306,belinusa,CV Citra Sejahtera 306,Menengah,Indonesia Timur,2024-04-01
+belinusa_cust_0307,belinusa,PT Gunung Mas 307,UMKM,Jabodetabek,2024-12-16
+belinusa_cust_0308,belinusa,CV Batik Cantik 308,Korporasi,Jabodetabek,2024-07-23
+belinusa_cust_0309,belinusa,Warung Sumber Rejeki 309,Menengah,Indonesia Timur,2024-10-07
+belinusa_cust_0310,belinusa,UD Karya Bangsa 310,UMKM,Sumatera,2024-02-02
+belinusa_cust_0311,belinusa,Warung Bumi Lestari 311,Menengah,Jawa,2024-04-10
+belinusa_cust_0312,belinusa,CV Anugerah Prima 312,UMKM,Jawa,2024-04-09
+belinusa_cust_0313,belinusa,Warung Rasa Nusantara 313,UMKM,Sumatera,2024-06-07
+belinusa_cust_0314,belinusa,PT Karya Bangsa 314,Menengah,Jabodetabek,2024-09-17
+belinusa_cust_0315,belinusa,Toko Rasa Nusantara 315,Menengah,Jawa,2024-11-13
+belinusa_cust_0316,belinusa,PT Rumah Nyaman 316,Korporasi,Sumatera,2024-04-09
+belinusa_cust_0317,belinusa,Toko Tekno Rimba 317,Menengah,Sumatera,2024-09-16
+belinusa_cust_0318,belinusa,Toko Gunung Mas 318,UMKM,Indonesia Timur,2024-09-28
+belinusa_cust_0319,belinusa,UD Nusantara Digital 319,Menengah,Jabodetabek,2024-09-04
+belinusa_cust_0320,belinusa,PT Pangan Sehat 320,Korporasi,Sumatera,2024-03-26
+belinusa_cust_0321,belinusa,Toko Elektronik Ceria 321,Korporasi,Jabodetabek,2024-08-17
+belinusa_cust_0322,belinusa,CV Tekno Rimba 322,Menengah,Sumatera,2024-11-01
+belinusa_cust_0323,belinusa,Warung Rumah Nyaman 323,Menengah,Sumatera,2024-08-06
+belinusa_cust_0324,belinusa,Toko Nusantara Digital 324,Menengah,Indonesia Timur,2024-03-11
+belinusa_cust_0325,belinusa,Warung Rumah Nyaman 325,Menengah,Jawa,2024-08-14
+belinusa_cust_0326,belinusa,PT Rasa Nusantara 326,Korporasi,Jabodetabek,2024-02-24
+belinusa_cust_0327,belinusa,CV Rasa Nusantara 327,UMKM,Indonesia Timur,2024-09-06
+belinusa_cust_0328,belinusa,PT Berkah Mandiri 328,Korporasi,Indonesia Timur,2024-12-01
+belinusa_cust_0329,belinusa,Toko Indah Makmur 329,Korporasi,Jabodetabek,2024-12-23
+belinusa_cust_0330,belinusa,Warung Maju Jaya 330,Menengah,Sumatera,2024-12-02
+belinusa_cust_0331,belinusa,Toko Berkah Mandiri 331,Korporasi,Sumatera,2024-03-24
+belinusa_cust_0332,belinusa,UD Fashion Lokal 332,UMKM,Indonesia Timur,2024-03-22
+belinusa_cust_0333,belinusa,UD Nusantara Digital 333,Menengah,Jawa,2024-07-08
+belinusa_cust_0334,belinusa,PT Batik Cantik 334,UMKM,Jabodetabek,2024-02-20
+belinusa_cust_0335,belinusa,UD Sinar Abadi 335,UMKM,Sumatera,2024-10-09
+belinusa_cust_0336,belinusa,UD Maju Jaya 336,Menengah,Jabodetabek,2024-09-11
+belinusa_cust_0337,belinusa,CV Maju Jaya 337,Korporasi,Indonesia Timur,2024-06-15
+belinusa_cust_0338,belinusa,UD Sumber Rejeki 338,UMKM,Jabodetabek,2024-11-04
+belinusa_cust_0339,belinusa,Warung Citra Sejahtera 339,UMKM,Jabodetabek,2024-03-15
+belinusa_cust_0340,belinusa,UD Batik Cantik 340,Menengah,Indonesia Timur,2024-01-06
+belinusa_cust_0341,belinusa,UD Indah Makmur 341,UMKM,Indonesia Timur,2024-12-15
+belinusa_cust_0342,belinusa,Warung Maju Jaya 342,Menengah,Sumatera,2024-08-03
+belinusa_cust_0343,belinusa,Warung Bumi Lestari 343,UMKM,Sumatera,2024-04-11
+belinusa_cust_0344,belinusa,CV Rumah Nyaman 344,UMKM,Sumatera,2024-04-06
+belinusa_cust_0345,belinusa,UD Rasa Nusantara 345,Korporasi,Jabodetabek,2024-08-13
+belinusa_cust_0346,belinusa,Warung Pangan Sehat 346,Korporasi,Jabodetabek,2024-12-26
+belinusa_cust_0347,belinusa,Warung Rasa Nusantara 347,UMKM,Indonesia Timur,2024-01-27
+belinusa_cust_0348,belinusa,Warung Sinar Abadi 348,UMKM,Jabodetabek,2024-09-16
+belinusa_cust_0349,belinusa,CV Rasa Nusantara 349,Menengah,Jawa,2024-10-17
+belinusa_cust_0350,belinusa,UD Sinar Abadi 350,UMKM,Jabodetabek,2024-07-26
+belinusa_cust_0351,belinusa,Warung Bumi Lestari 351,UMKM,Sumatera,2024-04-27
+belinusa_cust_0352,belinusa,Warung Bumi Lestari 352,UMKM,Jabodetabek,2024-08-06
+belinusa_cust_0353,belinusa,UD Pangan Sehat 353,Menengah,Jawa,2024-03-21
+belinusa_cust_0354,belinusa,Toko Nusantara Digital 354,UMKM,Jawa,2024-10-06
+belinusa_cust_0355,belinusa,CV Anugerah Prima 355,Korporasi,Sumatera,2024-09-22
+belinusa_cust_0356,belinusa,CV Mitra Dagang 356,Menengah,Indonesia Timur,2024-11-28
+belinusa_cust_0357,belinusa,UD Bumi Lestari 357,UMKM,Indonesia Timur,2024-01-27
+belinusa_cust_0358,belinusa,PT Nusantara Digital 358,UMKM,Jabodetabek,2024-10-14
+belinusa_cust_0359,belinusa,UD Pangan Sehat 359,Menengah,Indonesia Timur,2024-05-28
+belinusa_cust_0360,belinusa,Warung Gunung Mas 360,Menengah,Jawa,2024-04-17
+belinusa_cust_0361,belinusa,PT Laut Biru 361,Korporasi,Sumatera,2024-05-10
+belinusa_cust_0362,belinusa,Toko Mitra Dagang 362,Menengah,Sumatera,2024-11-22
+belinusa_cust_0363,belinusa,Toko Tekno Rimba 363,Menengah,Sumatera,2024-04-15
+belinusa_cust_0364,belinusa,UD Indah Makmur 364,Menengah,Jawa,2024-09-10
+belinusa_cust_0365,belinusa,CV Karya Bangsa 365,UMKM,Jabodetabek,2024-08-13
+belinusa_cust_0366,belinusa,UD Batik Cantik 366,Korporasi,Jabodetabek,2024-10-17
+belinusa_cust_0367,belinusa,Warung Gunung Mas 367,UMKM,Sumatera,2024-07-12
+belinusa_cust_0368,belinusa,Toko Batik Cantik 368,UMKM,Jawa,2024-05-26
+belinusa_cust_0369,belinusa,PT Indah Makmur 369,Menengah,Indonesia Timur,2024-09-20
+belinusa_cust_0370,belinusa,CV Tekno Rimba 370,Menengah,Sumatera,2024-12-05
+belinusa_cust_0371,belinusa,UD Tekno Rimba 371,Korporasi,Jabodetabek,2024-07-18
+belinusa_cust_0372,belinusa,Warung Laut Biru 372,UMKM,Indonesia Timur,2024-08-09
+belinusa_cust_0373,belinusa,Warung Laut Biru 373,Korporasi,Jawa,2024-07-05
+belinusa_cust_0374,belinusa,Toko Rumah Nyaman 374,Korporasi,Indonesia Timur,2024-12-02
+belinusa_cust_0375,belinusa,PT Nusantara Digital 375,UMKM,Jawa,2024-02-03
+belinusa_cust_0376,belinusa,Toko Nusantara Digital 376,UMKM,Jabodetabek,2024-05-02
+belinusa_cust_0377,belinusa,Warung Tekno Rimba 377,Menengah,Jawa,2024-12-09
+belinusa_cust_0378,belinusa,Warung Laut Biru 378,Korporasi,Sumatera,2024-05-12
+belinusa_cust_0379,belinusa,Toko Karya Bangsa 379,UMKM,Sumatera,2024-01-18
+belinusa_cust_0380,belinusa,PT Rasa Nusantara 380,Korporasi,Sumatera,2024-11-14
+belinusa_cust_0381,belinusa,Toko Rasa Nusantara 381,Korporasi,Sumatera,2024-05-08
+belinusa_cust_0382,belinusa,Warung Batik Cantik 382,Menengah,Sumatera,2024-11-08
+belinusa_cust_0383,belinusa,UD Rasa Nusantara 383,UMKM,Indonesia Timur,2024-10-09
+belinusa_cust_0384,belinusa,UD Batik Cantik 384,UMKM,Jawa,2024-05-10
+belinusa_cust_0385,belinusa,PT Karya Bangsa 385,UMKM,Jabodetabek,2024-03-02
+belinusa_cust_0386,belinusa,PT Sinar Abadi 386,Menengah,Sumatera,2024-06-22
+belinusa_cust_0387,belinusa,UD Batik Cantik 387,Menengah,Jawa,2024-09-20
+belinusa_cust_0388,belinusa,PT Rumah Nyaman 388,Menengah,Jawa,2024-06-18
+belinusa_cust_0389,belinusa,CV Laut Biru 389,UMKM,Jawa,2024-03-27
+belinusa_cust_0390,belinusa,CV Tekno Rimba 390,UMKM,Sumatera,2024-03-10
+belinusa_cust_0391,belinusa,Toko Elektronik Ceria 391,Korporasi,Jabodetabek,2024-05-16
+belinusa_cust_0392,belinusa,UD Pangan Sehat 392,UMKM,Jawa,2024-08-14
+belinusa_cust_0393,belinusa,CV Fashion Lokal 393,UMKM,Jabodetabek,2024-03-11
+belinusa_cust_0394,belinusa,Warung Batik Cantik 394,Menengah,Indonesia Timur,2024-02-24
+belinusa_cust_0395,belinusa,CV Bumi Lestari 395,Menengah,Sumatera,2024-09-01
+belinusa_cust_0396,belinusa,Warung Laut Biru 396,Menengah,Sumatera,2024-04-28
+belinusa_cust_0397,belinusa,PT Batik Cantik 397,Menengah,Jabodetabek,2024-12-10
+belinusa_cust_0398,belinusa,Warung Rumah Nyaman 398,UMKM,Indonesia Timur,2024-03-16
+belinusa_cust_0399,belinusa,Warung Citra Sejahtera 399,Korporasi,Jabodetabek,2024-03-12
+belinusa_cust_0400,belinusa,PT Fashion Lokal 400,Korporasi,Indonesia Timur,2024-07-17
+belinusa_cust_0401,belinusa,PT Bumi Lestari 401,Menengah,Sumatera,2024-07-22
+belinusa_cust_0402,belinusa,Toko Pangan Sehat 402,Menengah,Jabodetabek,2024-07-28
+belinusa_cust_0403,belinusa,Toko Gunung Mas 403,Korporasi,Sumatera,2024-06-16
+belinusa_cust_0404,belinusa,Toko Batik Cantik 404,UMKM,Jawa,2024-12-03
+belinusa_cust_0405,belinusa,CV Elektronik Ceria 405,UMKM,Sumatera,2024-09-25
+belinusa_cust_0406,belinusa,PT Nusantara Digital 406,Menengah,Jabodetabek,2024-09-23
+belinusa_cust_0407,belinusa,Warung Indah Makmur 407,Korporasi,Jawa,2024-07-04
+belinusa_cust_0408,belinusa,Toko Rasa Nusantara 408,Korporasi,Jawa,2024-04-04
+belinusa_cust_0409,belinusa,Toko Tekno Rimba 409,UMKM,Jabodetabek,2024-10-27
+belinusa_cust_0410,belinusa,PT Laut Biru 410,Menengah,Indonesia Timur,2024-10-23
+belinusa_cust_0411,belinusa,UD Sumber Rejeki 411,UMKM,Jawa,2024-05-11
+belinusa_cust_0412,belinusa,Warung Gunung Mas 412,Korporasi,Sumatera,2024-10-18
+belinusa_cust_0413,belinusa,Toko Rumah Nyaman 413,Menengah,Sumatera,2024-08-16
+belinusa_cust_0414,belinusa,Warung Citra Sejahtera 414,UMKM,Jabodetabek,2024-02-18
+belinusa_cust_0415,belinusa,Warung Fashion Lokal 415,UMKM,Indonesia Timur,2024-02-28
+belinusa_cust_0416,belinusa,CV Tekno Rimba 416,UMKM,Jabodetabek,2024-01-26
+belinusa_cust_0417,belinusa,Toko Sumber Rejeki 417,Korporasi,Jawa,2024-10-19
+belinusa_cust_0418,belinusa,UD Anugerah Prima 418,Menengah,Sumatera,2024-01-08
+belinusa_cust_0419,belinusa,Warung Maju Jaya 419,Korporasi,Sumatera,2024-02-16
+belinusa_cust_0420,belinusa,CV Tekno Rimba 420,UMKM,Jawa,2024-02-15
+belinusa_cust_0421,belinusa,CV Laut Biru 421,Menengah,Jawa,2024-10-02
+belinusa_cust_0422,belinusa,Warung Elektronik Ceria 422,UMKM,Jabodetabek,2024-09-04
+belinusa_cust_0423,belinusa,UD Bumi Lestari 423,UMKM,Indonesia Timur,2024-11-10
+belinusa_cust_0424,belinusa,PT Sinar Abadi 424,Menengah,Jawa,2024-03-04
+belinusa_cust_0425,belinusa,PT Karya Bangsa 425,UMKM,Jawa,2024-06-06
+belinusa_cust_0426,belinusa,CV Berkah Mandiri 426,Korporasi,Indonesia Timur,2024-05-05
+belinusa_cust_0427,belinusa,PT Batik Cantik 427,UMKM,Sumatera,2024-10-02
+belinusa_cust_0428,belinusa,PT Indah Makmur 428,Menengah,Jabodetabek,2024-05-14
+belinusa_cust_0429,belinusa,PT Maju Jaya 429,Menengah,Indonesia Timur,2024-01-21
+belinusa_cust_0430,belinusa,CV Indah Makmur 430,Korporasi,Indonesia Timur,2024-04-11
+belinusa_cust_0431,belinusa,CV Mitra Dagang 431,Menengah,Jabodetabek,2024-04-10
+belinusa_cust_0432,belinusa,PT Mitra Dagang 432,UMKM,Jawa,2024-08-04
+belinusa_cust_0433,belinusa,Toko Anugerah Prima 433,UMKM,Jawa,2024-12-21
+belinusa_cust_0434,belinusa,Warung Batik Cantik 434,Korporasi,Sumatera,2024-06-17
+belinusa_cust_0435,belinusa,UD Mitra Dagang 435,UMKM,Jabodetabek,2024-11-06
+belinusa_cust_0436,belinusa,PT Nusantara Digital 436,UMKM,Indonesia Timur,2024-05-18
+belinusa_cust_0437,belinusa,Warung Elektronik Ceria 437,Korporasi,Jawa,2024-09-13
+belinusa_cust_0438,belinusa,UD Batik Cantik 438,Korporasi,Sumatera,2024-08-03
+belinusa_cust_0439,belinusa,PT Karya Bangsa 439,UMKM,Sumatera,2024-08-27
+belinusa_cust_0440,belinusa,Warung Pangan Sehat 440,Korporasi,Jabodetabek,2024-10-27
+belinusa_cust_0441,belinusa,Warung Rasa Nusantara 441,Menengah,Indonesia Timur,2024-12-27
+belinusa_cust_0442,belinusa,PT Citra Sejahtera 442,Korporasi,Indonesia Timur,2024-07-26
+belinusa_cust_0443,belinusa,CV Bumi Lestari 443,Korporasi,Sumatera,2024-02-25
+belinusa_cust_0444,belinusa,Warung Sinar Abadi 444,Menengah,Indonesia Timur,2024-12-09
+belinusa_cust_0445,belinusa,UD Citra Sejahtera 445,UMKM,Sumatera,2024-09-22
+belinusa_cust_0446,belinusa,PT Citra Sejahtera 446,Korporasi,Jabodetabek,2024-05-07
+belinusa_cust_0447,belinusa,UD Pangan Sehat 447,Korporasi,Indonesia Timur,2024-11-27
+belinusa_cust_0448,belinusa,Warung Berkah Mandiri 448,Menengah,Jawa,2024-03-12
+belinusa_cust_0449,belinusa,PT Karya Bangsa 449,UMKM,Jawa,2024-05-10
+belinusa_cust_0450,belinusa,CV Maju Jaya 450,Korporasi,Indonesia Timur,2024-01-05
+belinusa_cust_0451,belinusa,Warung Batik Cantik 451,Menengah,Indonesia Timur,2024-10-09
+belinusa_cust_0452,belinusa,Toko Batik Cantik 452,Korporasi,Jawa,2024-05-13
+belinusa_cust_0453,belinusa,Warung Batik Cantik 453,Korporasi,Jabodetabek,2024-02-24
+belinusa_cust_0454,belinusa,PT Pangan Sehat 454,Menengah,Indonesia Timur,2024-10-05
+belinusa_cust_0455,belinusa,CV Pangan Sehat 455,Korporasi,Jawa,2024-06-08
+belinusa_cust_0456,belinusa,PT Sumber Rejeki 456,Menengah,Jawa,2024-07-24
+belinusa_cust_0457,belinusa,UD Rumah Nyaman 457,Menengah,Jabodetabek,2024-01-13
+belinusa_cust_0458,belinusa,UD Sinar Abadi 458,Korporasi,Indonesia Timur,2024-06-19
+belinusa_cust_0459,belinusa,CV Fashion Lokal 459,Menengah,Jabodetabek,2024-02-12
+belinusa_cust_0460,belinusa,CV Sumber Rejeki 460,Korporasi,Jawa,2024-07-13
+belinusa_cust_0461,belinusa,CV Rumah Nyaman 461,UMKM,Sumatera,2024-10-27
+belinusa_cust_0462,belinusa,PT Laut Biru 462,Menengah,Indonesia Timur,2024-07-12
+belinusa_cust_0463,belinusa,CV Rasa Nusantara 463,Menengah,Indonesia Timur,2024-09-03
+belinusa_cust_0464,belinusa,CV Maju Jaya 464,Korporasi,Jawa,2024-09-02
+belinusa_cust_0465,belinusa,UD Bumi Lestari 465,Korporasi,Sumatera,2024-11-15
+belinusa_cust_0466,belinusa,UD Maju Jaya 466,UMKM,Jawa,2024-10-07
+belinusa_cust_0467,belinusa,Toko Laut Biru 467,Menengah,Jabodetabek,2024-10-14
+belinusa_cust_0468,belinusa,PT Rumah Nyaman 468,UMKM,Indonesia Timur,2024-02-05
+belinusa_cust_0469,belinusa,Warung Karya Bangsa 469,Korporasi,Jabodetabek,2024-09-09
+belinusa_cust_0470,belinusa,CV Indah Makmur 470,UMKM,Sumatera,2024-07-05
+belinusa_cust_0471,belinusa,Warung Rasa Nusantara 471,Menengah,Sumatera,2024-02-24
+belinusa_cust_0472,belinusa,UD Mitra Dagang 472,Menengah,Indonesia Timur,2024-04-15
+belinusa_cust_0473,belinusa,PT Berkah Mandiri 473,Korporasi,Indonesia Timur,2024-01-01
+belinusa_cust_0474,belinusa,Warung Maju Jaya 474,Menengah,Jabodetabek,2024-10-11
+belinusa_cust_0475,belinusa,UD Sumber Rejeki 475,UMKM,Sumatera,2024-02-01
+belinusa_cust_0476,belinusa,Toko Fashion Lokal 476,Menengah,Jawa,2024-09-27
+belinusa_cust_0477,belinusa,CV Fashion Lokal 477,UMKM,Jabodetabek,2024-11-18
+belinusa_cust_0478,belinusa,UD Berkah Mandiri 478,UMKM,Sumatera,2024-12-14
+belinusa_cust_0479,belinusa,Warung Rumah Nyaman 479,Korporasi,Jawa,2024-05-22
+belinusa_cust_0480,belinusa,UD Indah Makmur 480,Menengah,Sumatera,2024-04-07

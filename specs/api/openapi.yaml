@@ -1,0 +1,74 @@
+openapi: 3.1.0
+info:
+  title: SDD Analytics Copilot API
+  version: 0.1.0
+  description: Governed analytics + agent endpoints for the SDD demo.
+paths:
+  /api/analytics/query:
+    post:
+      summary: Execute a validated QueryPlan
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/QueryPlan"
+      responses:
+        "200":
+          description: Analytics result with evidence
+  /api/agent/chat:
+    post:
+      summary: Run the analytics copilot for one user turn
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [prompt]
+              properties:
+                prompt:
+                  type: string
+                conversationId:
+                  type: string
+      responses:
+        "200":
+          description: Assistant message + trace id
+  /api/semantic-model:
+    get:
+      summary: Return loaded semantic model
+  /api/dashboards:
+    get:
+      summary: List dashboards or fetch one with executed widgets
+    put:
+      summary: Save DashboardSpec
+    patch:
+      summary: Apply DashboardPatch
+  /api/traces:
+    get:
+      summary: List or fetch agent traces
+components:
+  schemas:
+    QueryPlan:
+      type: object
+      required: [metric]
+      properties:
+        metric:
+          type: string
+        dimensions:
+          type: array
+          items:
+            type: string
+        comparison:
+          type: string
+          enum: [previous_period, none]
+        time:
+          type: object
+          properties:
+            dimension:
+              type: string
+            range:
+              type: string
+            granularity:
+              type: string
+              enum: [day, week, month]

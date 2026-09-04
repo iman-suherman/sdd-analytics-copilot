@@ -1,0 +1,451 @@
+partner_id,company_id,partner_name,partner_type,service_city_region,joined_at
+gocepat_cust_0001,gocepat,CV Laut Biru 1,UMKM,Jabodetabek,2024-07-19
+gocepat_cust_0002,gocepat,CV Karya Bangsa 2,UMKM,Sumatera,2024-03-03
+gocepat_cust_0003,gocepat,PT Sumber Rejeki 3,UMKM,Jawa,2024-06-04
+gocepat_cust_0004,gocepat,PT Batik Cantik 4,Korporasi,Jabodetabek,2024-10-08
+gocepat_cust_0005,gocepat,Warung Sumber Rejeki 5,Menengah,Jabodetabek,2024-01-13
+gocepat_cust_0006,gocepat,PT Sinar Abadi 6,UMKM,Sumatera,2024-08-02
+gocepat_cust_0007,gocepat,PT Nusantara Digital 7,Korporasi,Sumatera,2024-08-04
+gocepat_cust_0008,gocepat,CV Karya Bangsa 8,Menengah,Indonesia Timur,2024-02-22
+gocepat_cust_0009,gocepat,CV Batik Cantik 9,Menengah,Jabodetabek,2024-12-05
+gocepat_cust_0010,gocepat,PT Rasa Nusantara 10,Menengah,Indonesia Timur,2024-05-22
+gocepat_cust_0011,gocepat,CV Citra Sejahtera 11,Menengah,Sumatera,2024-06-25
+gocepat_cust_0012,gocepat,PT Sinar Abadi 12,Menengah,Jabodetabek,2024-08-19
+gocepat_cust_0013,gocepat,Toko Citra Sejahtera 13,Korporasi,Indonesia Timur,2024-09-19
+gocepat_cust_0014,gocepat,PT Elektronik Ceria 14,UMKM,Sumatera,2024-09-24
+gocepat_cust_0015,gocepat,PT Anugerah Prima 15,Menengah,Indonesia Timur,2024-08-16
+gocepat_cust_0016,gocepat,Warung Pangan Sehat 16,Korporasi,Sumatera,2024-07-27
+gocepat_cust_0017,gocepat,PT Mitra Dagang 17,Korporasi,Jabodetabek,2024-09-28
+gocepat_cust_0018,gocepat,PT Elektronik Ceria 18,Menengah,Sumatera,2024-02-25
+gocepat_cust_0019,gocepat,Toko Bumi Lestari 19,UMKM,Sumatera,2024-06-11
+gocepat_cust_0020,gocepat,Toko Tekno Rimba 20,Korporasi,Sumatera,2024-06-21
+gocepat_cust_0021,gocepat,Toko Maju Jaya 21,Menengah,Sumatera,2024-04-08
+gocepat_cust_0022,gocepat,UD Citra Sejahtera 22,UMKM,Jabodetabek,2024-11-24
+gocepat_cust_0023,gocepat,CV Fashion Lokal 23,Korporasi,Jawa,2024-04-09
+gocepat_cust_0024,gocepat,UD Fashion Lokal 24,UMKM,Indonesia Timur,2024-08-23
+gocepat_cust_0025,gocepat,UD Elektronik Ceria 25,Menengah,Sumatera,2024-05-17
+gocepat_cust_0026,gocepat,PT Maju Jaya 26,Menengah,Sumatera,2024-04-21
+gocepat_cust_0027,gocepat,Toko Bumi Lestari 27,Menengah,Jawa,2024-01-23
+gocepat_cust_0028,gocepat,UD Maju Jaya 28,Korporasi,Jawa,2024-03-19
+gocepat_cust_0029,gocepat,UD Indah Makmur 29,Menengah,Jawa,2024-01-12
+gocepat_cust_0030,gocepat,Warung Mitra Dagang 30,Korporasi,Sumatera,2024-08-16
+gocepat_cust_0031,gocepat,PT Fashion Lokal 31,UMKM,Sumatera,2024-11-18
+gocepat_cust_0032,gocepat,Toko Berkah Mandiri 32,UMKM,Indonesia Timur,2024-11-15
+gocepat_cust_0033,gocepat,UD Batik Cantik 33,UMKM,Sumatera,2024-07-04
+gocepat_cust_0034,gocepat,Warung Rumah Nyaman 34,Menengah,Jabodetabek,2024-04-12
+gocepat_cust_0035,gocepat,UD Rumah Nyaman 35,Menengah,Jawa,2024-07-02
+gocepat_cust_0036,gocepat,CV Mitra Dagang 36,Menengah,Sumatera,2024-07-05
+gocepat_cust_0037,gocepat,CV Pangan Sehat 37,Menengah,Indonesia Timur,2024-03-12
+gocepat_cust_0038,gocepat,UD Nusantara Digital 38,Menengah,Jawa,2024-02-19
+gocepat_cust_0039,gocepat,Warung Indah Makmur 39,Menengah,Jawa,2024-05-10
+gocepat_cust_0040,gocepat,Toko Laut Biru 40,Korporasi,Sumatera,2024-06-17
+gocepat_cust_0041,gocepat,CV Citra Sejahtera 41,UMKM,Indonesia Timur,2024-10-10
+gocepat_cust_0042,gocepat,UD Anugerah Prima 42,Menengah,Jawa,2024-05-06
+gocepat_cust_0043,gocepat,CV Sumber Rejeki 43,Korporasi,Jabodetabek,2024-12-06
+gocepat_cust_0044,gocepat,Toko Laut Biru 44,Korporasi,Jabodetabek,2024-06-19
+gocepat_cust_0045,gocepat,Warung Nusantara Digital 45,Menengah,Jawa,2024-09-05
+gocepat_cust_0046,gocepat,UD Gunung Mas 46,UMKM,Jawa,2024-08-27
+gocepat_cust_0047,gocepat,PT Elektronik Ceria 47,Menengah,Jawa,2024-06-16
+gocepat_cust_0048,gocepat,Warung Gunung Mas 48,UMKM,Jabodetabek,2024-08-24
+gocepat_cust_0049,gocepat,Toko Sinar Abadi 49,UMKM,Indonesia Timur,2024-04-03
+gocepat_cust_0050,gocepat,CV Indah Makmur 50,Menengah,Jabodetabek,2024-12-19
+gocepat_cust_0051,gocepat,Toko Tekno Rimba 51,UMKM,Sumatera,2024-02-20
+gocepat_cust_0052,gocepat,PT Karya Bangsa 52,Korporasi,Sumatera,2024-06-03
+gocepat_cust_0053,gocepat,UD Citra Sejahtera 53,Menengah,Indonesia Timur,2024-03-14
+gocepat_cust_0054,gocepat,Toko Pangan Sehat 54,Menengah,Jabodetabek,2024-04-20
+gocepat_cust_0055,gocepat,PT Mitra Dagang 55,Korporasi,Jawa,2024-03-01
+gocepat_cust_0056,gocepat,Toko Karya Bangsa 56,UMKM,Jawa,2024-09-05
+gocepat_cust_0057,gocepat,Toko Fashion Lokal 57,Menengah,Jawa,2024-09-19
+gocepat_cust_0058,gocepat,PT Berkah Mandiri 58,Korporasi,Sumatera,2024-04-08
+gocepat_cust_0059,gocepat,UD Bumi Lestari 59,UMKM,Sumatera,2024-08-11
+gocepat_cust_0060,gocepat,PT Citra Sejahtera 60,Korporasi,Jawa,2024-04-23
+gocepat_cust_0061,gocepat,Warung Tekno Rimba 61,Korporasi,Jabodetabek,2024-08-28
+gocepat_cust_0062,gocepat,Warung Sumber Rejeki 62,Korporasi,Jawa,2024-02-06
+gocepat_cust_0063,gocepat,Toko Nusantara Digital 63,Korporasi,Sumatera,2024-11-08
+gocepat_cust_0064,gocepat,CV Nusantara Digital 64,Menengah,Indonesia Timur,2024-06-04
+gocepat_cust_0065,gocepat,PT Anugerah Prima 65,Korporasi,Indonesia Timur,2024-07-24
+gocepat_cust_0066,gocepat,UD Pangan Sehat 66,Menengah,Jabodetabek,2024-10-26
+gocepat_cust_0067,gocepat,Warung Gunung Mas 67,UMKM,Indonesia Timur,2024-05-04
+gocepat_cust_0068,gocepat,PT Nusantara Digital 68,Menengah,Jabodetabek,2024-06-15
+gocepat_cust_0069,gocepat,UD Karya Bangsa 69,Menengah,Sumatera,2024-01-15
+gocepat_cust_0070,gocepat,CV Tekno Rimba 70,Korporasi,Jawa,2024-02-28
+gocepat_cust_0071,gocepat,CV Fashion Lokal 71,UMKM,Jabodetabek,2024-09-03
+gocepat_cust_0072,gocepat,UD Anugerah Prima 72,UMKM,Jawa,2024-01-18
+gocepat_cust_0073,gocepat,UD Karya Bangsa 73,Menengah,Sumatera,2024-05-06
+gocepat_cust_0074,gocepat,Toko Anugerah Prima 74,Korporasi,Indonesia Timur,2024-07-26
+gocepat_cust_0075,gocepat,Toko Elektronik Ceria 75,Korporasi,Indonesia Timur,2024-03-09
+gocepat_cust_0076,gocepat,PT Berkah Mandiri 76,Menengah,Jabodetabek,2024-11-18
+gocepat_cust_0077,gocepat,CV Sinar Abadi 77,Korporasi,Sumatera,2024-04-19
+gocepat_cust_0078,gocepat,Toko Gunung Mas 78,Korporasi,Jabodetabek,2024-04-01
+gocepat_cust_0079,gocepat,CV Nusantara Digital 79,Menengah,Jabodetabek,2024-08-19
+gocepat_cust_0080,gocepat,Warung Indah Makmur 80,UMKM,Indonesia Timur,2024-04-22
+gocepat_cust_0081,gocepat,Warung Citra Sejahtera 81,UMKM,Indonesia Timur,2024-01-10
+gocepat_cust_0082,gocepat,PT Anugerah Prima 82,Korporasi,Jabodetabek,2024-01-06
+gocepat_cust_0083,gocepat,PT Batik Cantik 83,Korporasi,Indonesia Timur,2024-09-24
+gocepat_cust_0084,gocepat,UD Rasa Nusantara 84,UMKM,Jabodetabek,2024-04-08
+gocepat_cust_0085,gocepat,UD Pangan Sehat 85,Menengah,Jawa,2024-11-08
+gocepat_cust_0086,gocepat,PT Anugerah Prima 86,Menengah,Sumatera,2024-08-15
+gocepat_cust_0087,gocepat,UD Elektronik Ceria 87,Korporasi,Jawa,2024-03-06
+gocepat_cust_0088,gocepat,PT Sinar Abadi 88,Korporasi,Jabodetabek,2024-05-19
+gocepat_cust_0089,gocepat,PT Maju Jaya 89,Korporasi,Sumatera,2024-10-20
+gocepat_cust_0090,gocepat,PT Elektronik Ceria 90,Menengah,Indonesia Timur,2024-04-09
+gocepat_cust_0091,gocepat,Toko Laut Biru 91,Menengah,Jabodetabek,2024-03-11
+gocepat_cust_0092,gocepat,Toko Indah Makmur 92,Korporasi,Sumatera,2024-10-23
+gocepat_cust_0093,gocepat,Warung Laut Biru 93,Menengah,Jabodetabek,2024-11-10
+gocepat_cust_0094,gocepat,Warung Pangan Sehat 94,UMKM,Jawa,2024-10-15
+gocepat_cust_0095,gocepat,PT Tekno Rimba 95,Korporasi,Jawa,2024-03-22
+gocepat_cust_0096,gocepat,UD Rasa Nusantara 96,Menengah,Indonesia Timur,2024-04-27
+gocepat_cust_0097,gocepat,PT Mitra Dagang 97,Menengah,Jawa,2024-10-22
+gocepat_cust_0098,gocepat,CV Citra Sejahtera 98,UMKM,Jawa,2024-11-14
+gocepat_cust_0099,gocepat,PT Tekno Rimba 99,Menengah,Jawa,2024-09-01
+gocepat_cust_0100,gocepat,Warung Elektronik Ceria 100,Menengah,Jawa,2024-03-14
+gocepat_cust_0101,gocepat,CV Pangan Sehat 101,Korporasi,Indonesia Timur,2024-09-07
+gocepat_cust_0102,gocepat,CV Rasa Nusantara 102,Menengah,Jabodetabek,2024-04-20
+gocepat_cust_0103,gocepat,CV Rumah Nyaman 103,Korporasi,Indonesia Timur,2024-05-10
+gocepat_cust_0104,gocepat,Warung Karya Bangsa 104,Menengah,Indonesia Timur,2024-06-18
+gocepat_cust_0105,gocepat,Toko Citra Sejahtera 105,Menengah,Sumatera,2024-09-16
+gocepat_cust_0106,gocepat,Warung Pangan Sehat 106,UMKM,Indonesia Timur,2024-01-22
+gocepat_cust_0107,gocepat,PT Karya Bangsa 107,UMKM,Sumatera,2024-07-14
+gocepat_cust_0108,gocepat,CV Sumber Rejeki 108,Korporasi,Jawa,2024-03-13
+gocepat_cust_0109,gocepat,CV Sumber Rejeki 109,UMKM,Sumatera,2024-05-10
+gocepat_cust_0110,gocepat,Toko Fashion Lokal 110,Korporasi,Indonesia Timur,2024-05-13
+gocepat_cust_0111,gocepat,PT Batik Cantik 111,UMKM,Sumatera,2024-11-20
+gocepat_cust_0112,gocepat,UD Sumber Rejeki 112,Menengah,Jawa,2024-03-09
+gocepat_cust_0113,gocepat,CV Rasa Nusantara 113,UMKM,Jabodetabek,2024-10-13
+gocepat_cust_0114,gocepat,PT Rasa Nusantara 114,Menengah,Jabodetabek,2024-02-28
+gocepat_cust_0115,gocepat,CV Fashion Lokal 115,UMKM,Jabodetabek,2024-09-08
+gocepat_cust_0116,gocepat,Warung Sinar Abadi 116,Menengah,Jabodetabek,2024-03-25
+gocepat_cust_0117,gocepat,UD Berkah Mandiri 117,Korporasi,Sumatera,2024-02-14
+gocepat_cust_0118,gocepat,PT Fashion Lokal 118,Korporasi,Indonesia Timur,2024-10-15
+gocepat_cust_0119,gocepat,UD Maju Jaya 119,UMKM,Sumatera,2024-10-22
+gocepat_cust_0120,gocepat,CV Fashion Lokal 120,Menengah,Sumatera,2024-11-01
+gocepat_cust_0121,gocepat,Warung Batik Cantik 121,Korporasi,Jawa,2024-04-14
+gocepat_cust_0122,gocepat,Toko Sumber Rejeki 122,UMKM,Jabodetabek,2024-09-26
+gocepat_cust_0123,gocepat,UD Indah Makmur 123,Korporasi,Sumatera,2024-02-08
+gocepat_cust_0124,gocepat,Warung Gunung Mas 124,Korporasi,Sumatera,2024-12-18
+gocepat_cust_0125,gocepat,UD Karya Bangsa 125,Korporasi,Indonesia Timur,2024-11-03
+gocepat_cust_0126,gocepat,UD Citra Sejahtera 126,Korporasi,Sumatera,2024-08-28
+gocepat_cust_0127,gocepat,CV Pangan Sehat 127,Menengah,Jawa,2024-12-22
+gocepat_cust_0128,gocepat,CV Laut Biru 128,Korporasi,Jabodetabek,2024-10-27
+gocepat_cust_0129,gocepat,UD Nusantara Digital 129,Menengah,Jabodetabek,2024-08-24
+gocepat_cust_0130,gocepat,PT Bumi Lestari 130,UMKM,Jawa,2024-04-08
+gocepat_cust_0131,gocepat,Toko Rumah Nyaman 131,UMKM,Indonesia Timur,2024-06-22
+gocepat_cust_0132,gocepat,CV Rumah Nyaman 132,Menengah,Jabodetabek,2024-10-21
+gocepat_cust_0133,gocepat,UD Fashion Lokal 133,UMKM,Jabodetabek,2024-03-02
+gocepat_cust_0134,gocepat,UD Karya Bangsa 134,Korporasi,Sumatera,2024-08-24
+gocepat_cust_0135,gocepat,Warung Laut Biru 135,Korporasi,Indonesia Timur,2024-12-18
+gocepat_cust_0136,gocepat,PT Sumber Rejeki 136,Korporasi,Sumatera,2024-05-10
+gocepat_cust_0137,gocepat,Warung Gunung Mas 137,Korporasi,Sumatera,2024-10-16
+gocepat_cust_0138,gocepat,Warung Tekno Rimba 138,Menengah,Jabodetabek,2024-03-09
+gocepat_cust_0139,gocepat,PT Sumber Rejeki 139,Korporasi,Jabodetabek,2024-05-11
+gocepat_cust_0140,gocepat,CV Anugerah Prima 140,Menengah,Indonesia Timur,2024-10-14
+gocepat_cust_0141,gocepat,CV Indah Makmur 141,Korporasi,Sumatera,2024-10-04
+gocepat_cust_0142,gocepat,UD Tekno Rimba 142,Menengah,Sumatera,2024-04-03
+gocepat_cust_0143,gocepat,PT Tekno Rimba 143,UMKM,Indonesia Timur,2024-10-24
+gocepat_cust_0144,gocepat,Warung Rasa Nusantara 144,UMKM,Indonesia Timur,2024-02-24
+gocepat_cust_0145,gocepat,UD Berkah Mandiri 145,UMKM,Jawa,2024-02-21
+gocepat_cust_0146,gocepat,PT Anugerah Prima 146,Korporasi,Sumatera,2024-06-11
+gocepat_cust_0147,gocepat,CV Pangan Sehat 147,Menengah,Indonesia Timur,2024-03-03
+gocepat_cust_0148,gocepat,CV Elektronik Ceria 148,Menengah,Jawa,2024-10-27
+gocepat_cust_0149,gocepat,PT Nusantara Digital 149,UMKM,Jabodetabek,2024-05-13
+gocepat_cust_0150,gocepat,UD Berkah Mandiri 150,Korporasi,Jawa,2024-01-09
+gocepat_cust_0151,gocepat,PT Mitra Dagang 151,Menengah,Indonesia Timur,2024-05-16
+gocepat_cust_0152,gocepat,PT Berkah Mandiri 152,Menengah,Jawa,2024-11-09
+gocepat_cust_0153,gocepat,PT Laut Biru 153,Menengah,Jawa,2024-07-28
+gocepat_cust_0154,gocepat,Toko Fashion Lokal 154,Korporasi,Indonesia Timur,2024-04-15
+gocepat_cust_0155,gocepat,Warung Maju Jaya 155,Menengah,Indonesia Timur,2024-03-12
+gocepat_cust_0156,gocepat,UD Karya Bangsa 156,Menengah,Indonesia Timur,2024-01-21
+gocepat_cust_0157,gocepat,PT Laut Biru 157,UMKM,Sumatera,2024-05-19
+gocepat_cust_0158,gocepat,PT Bumi Lestari 158,Menengah,Sumatera,2024-12-05
+gocepat_cust_0159,gocepat,Toko Laut Biru 159,UMKM,Indonesia Timur,2024-02-14
+gocepat_cust_0160,gocepat,UD Laut Biru 160,Menengah,Jabodetabek,2024-07-18
+gocepat_cust_0161,gocepat,CV Nusantara Digital 161,UMKM,Indonesia Timur,2024-11-07
+gocepat_cust_0162,gocepat,CV Rasa Nusantara 162,Menengah,Jawa,2024-08-20
+gocepat_cust_0163,gocepat,Warung Indah Makmur 163,Korporasi,Indonesia Timur,2024-08-22
+gocepat_cust_0164,gocepat,Toko Laut Biru 164,UMKM,Jawa,2024-01-14
+gocepat_cust_0165,gocepat,PT Rumah Nyaman 165,Menengah,Jawa,2024-07-02
+gocepat_cust_0166,gocepat,UD Indah Makmur 166,UMKM,Indonesia Timur,2024-12-25
+gocepat_cust_0167,gocepat,UD Karya Bangsa 167,UMKM,Sumatera,2024-05-24
+gocepat_cust_0168,gocepat,UD Laut Biru 168,Menengah,Indonesia Timur,2024-03-03
+gocepat_cust_0169,gocepat,PT Mitra Dagang 169,Menengah,Jabodetabek,2024-08-10
+gocepat_cust_0170,gocepat,Warung Batik Cantik 170,Korporasi,Jabodetabek,2024-06-05
+gocepat_cust_0171,gocepat,Warung Berkah Mandiri 171,Menengah,Jawa,2024-09-01
+gocepat_cust_0172,gocepat,Warung Citra Sejahtera 172,Menengah,Sumatera,2024-02-17
+gocepat_cust_0173,gocepat,CV Nusantara Digital 173,UMKM,Indonesia Timur,2024-03-10
+gocepat_cust_0174,gocepat,UD Fashion Lokal 174,Menengah,Jabodetabek,2024-10-19
+gocepat_cust_0175,gocepat,CV Bumi Lestari 175,Korporasi,Jabodetabek,2024-05-12
+gocepat_cust_0176,gocepat,Toko Indah Makmur 176,Korporasi,Indonesia Timur,2024-11-26
+gocepat_cust_0177,gocepat,CV Sinar Abadi 177,UMKM,Sumatera,2024-01-04
+gocepat_cust_0178,gocepat,Warung Batik Cantik 178,Korporasi,Indonesia Timur,2024-02-18
+gocepat_cust_0179,gocepat,PT Rumah Nyaman 179,Menengah,Jabodetabek,2024-02-20
+gocepat_cust_0180,gocepat,UD Sumber Rejeki 180,Menengah,Sumatera,2024-11-05
+gocepat_cust_0181,gocepat,Warung Sumber Rejeki 181,Menengah,Jabodetabek,2024-09-16
+gocepat_cust_0182,gocepat,Toko Citra Sejahtera 182,Menengah,Jawa,2024-03-09
+gocepat_cust_0183,gocepat,CV Sumber Rejeki 183,UMKM,Sumatera,2024-11-06
+gocepat_cust_0184,gocepat,Warung Nusantara Digital 184,UMKM,Jabodetabek,2024-08-04
+gocepat_cust_0185,gocepat,PT Gunung Mas 185,UMKM,Jawa,2024-02-14
+gocepat_cust_0186,gocepat,PT Maju Jaya 186,Menengah,Sumatera,2024-02-07
+gocepat_cust_0187,gocepat,Toko Anugerah Prima 187,Korporasi,Indonesia Timur,2024-09-07
+gocepat_cust_0188,gocepat,Warung Maju Jaya 188,Korporasi,Jabodetabek,2024-08-02
+gocepat_cust_0189,gocepat,Toko Sinar Abadi 189,Korporasi,Sumatera,2024-11-21
+gocepat_cust_0190,gocepat,PT Sinar Abadi 190,Menengah,Jabodetabek,2024-05-28
+gocepat_cust_0191,gocepat,Toko Berkah Mandiri 191,UMKM,Jabodetabek,2024-05-26
+gocepat_cust_0192,gocepat,UD Bumi Lestari 192,UMKM,Indonesia Timur,2024-09-24
+gocepat_cust_0193,gocepat,CV Nusantara Digital 193,Menengah,Jabodetabek,2024-10-17
+gocepat_cust_0194,gocepat,UD Rasa Nusantara 194,Korporasi,Sumatera,2024-10-20
+gocepat_cust_0195,gocepat,UD Gunung Mas 195,UMKM,Indonesia Timur,2024-09-08
+gocepat_cust_0196,gocepat,Toko Rumah Nyaman 196,UMKM,Indonesia Timur,2024-11-05
+gocepat_cust_0197,gocepat,PT Laut Biru 197,Korporasi,Indonesia Timur,2024-09-19
+gocepat_cust_0198,gocepat,UD Mitra Dagang 198,UMKM,Jawa,2024-05-16
+gocepat_cust_0199,gocepat,UD Rumah Nyaman 199,UMKM,Jabodetabek,2024-08-03
+gocepat_cust_0200,gocepat,CV Bumi Lestari 200,Korporasi,Sumatera,2024-10-24
+gocepat_cust_0201,gocepat,UD Gunung Mas 201,UMKM,Indonesia Timur,2024-09-14
+gocepat_cust_0202,gocepat,Toko Sumber Rejeki 202,Menengah,Indonesia Timur,2024-06-14
+gocepat_cust_0203,gocepat,PT Fashion Lokal 203,Menengah,Jabodetabek,2024-12-15
+gocepat_cust_0204,gocepat,Warung Elektronik Ceria 204,UMKM,Jawa,2024-09-06
+gocepat_cust_0205,gocepat,Warung Maju Jaya 205,Menengah,Jabodetabek,2024-10-17
+gocepat_cust_0206,gocepat,UD Batik Cantik 206,Korporasi,Indonesia Timur,2024-07-19
+gocepat_cust_0207,gocepat,UD Rasa Nusantara 207,Korporasi,Jabodetabek,2024-06-06
+gocepat_cust_0208,gocepat,Warung Sumber Rejeki 208,Menengah,Jawa,2024-05-27
+gocepat_cust_0209,gocepat,Warung Gunung Mas 209,Korporasi,Jawa,2024-12-18
+gocepat_cust_0210,gocepat,Warung Batik Cantik 210,Korporasi,Jawa,2024-09-22
+gocepat_cust_0211,gocepat,Warung Berkah Mandiri 211,UMKM,Jawa,2024-04-06
+gocepat_cust_0212,gocepat,UD Nusantara Digital 212,Korporasi,Sumatera,2024-01-10
+gocepat_cust_0213,gocepat,CV Fashion Lokal 213,Korporasi,Jawa,2024-04-19
+gocepat_cust_0214,gocepat,CV Batik Cantik 214,Menengah,Jawa,2024-02-08
+gocepat_cust_0215,gocepat,Warung Mitra Dagang 215,Menengah,Indonesia Timur,2024-04-05
+gocepat_cust_0216,gocepat,PT Laut Biru 216,UMKM,Jawa,2024-04-15
+gocepat_cust_0217,gocepat,Toko Laut Biru 217,Menengah,Jabodetabek,2024-03-17
+gocepat_cust_0218,gocepat,Toko Gunung Mas 218,UMKM,Jawa,2024-08-19
+gocepat_cust_0219,gocepat,UD Gunung Mas 219,Korporasi,Jawa,2024-04-07
+gocepat_cust_0220,gocepat,PT Mitra Dagang 220,UMKM,Jawa,2024-01-18
+gocepat_cust_0221,gocepat,Warung Pangan Sehat 221,UMKM,Jawa,2024-11-01
+gocepat_cust_0222,gocepat,PT Citra Sejahtera 222,Menengah,Indonesia Timur,2024-10-03
+gocepat_cust_0223,gocepat,CV Pangan Sehat 223,UMKM,Indonesia Timur,2024-06-08
+gocepat_cust_0224,gocepat,Toko Maju Jaya 224,Menengah,Jabodetabek,2024-07-12
+gocepat_cust_0225,gocepat,Toko Bumi Lestari 225,Menengah,Indonesia Timur,2024-04-14
+gocepat_cust_0226,gocepat,Toko Pangan Sehat 226,UMKM,Jawa,2024-05-10
+gocepat_cust_0227,gocepat,PT Nusantara Digital 227,Korporasi,Sumatera,2024-08-21
+gocepat_cust_0228,gocepat,PT Citra Sejahtera 228,UMKM,Sumatera,2024-10-11
+gocepat_cust_0229,gocepat,Toko Mitra Dagang 229,Menengah,Jawa,2024-05-20
+gocepat_cust_0230,gocepat,Toko Batik Cantik 230,Menengah,Indonesia Timur,2024-11-03
+gocepat_cust_0231,gocepat,Toko Tekno Rimba 231,Korporasi,Indonesia Timur,2024-02-11
+gocepat_cust_0232,gocepat,CV Berkah Mandiri 232,UMKM,Jawa,2024-04-28
+gocepat_cust_0233,gocepat,Toko Mitra Dagang 233,Menengah,Jawa,2024-02-22
+gocepat_cust_0234,gocepat,Toko Laut Biru 234,UMKM,Jawa,2024-01-07
+gocepat_cust_0235,gocepat,Warung Tekno Rimba 235,UMKM,Indonesia Timur,2024-06-03
+gocepat_cust_0236,gocepat,Warung Gunung Mas 236,Korporasi,Sumatera,2024-03-11
+gocepat_cust_0237,gocepat,Toko Nusantara Digital 237,UMKM,Sumatera,2024-07-13
+gocepat_cust_0238,gocepat,Toko Nusantara Digital 238,Menengah,Jawa,2024-12-16
+gocepat_cust_0239,gocepat,CV Laut Biru 239,Menengah,Jabodetabek,2024-10-27
+gocepat_cust_0240,gocepat,CV Karya Bangsa 240,Korporasi,Sumatera,2024-05-06
+gocepat_cust_0241,gocepat,PT Karya Bangsa 241,Korporasi,Jabodetabek,2024-12-11
+gocepat_cust_0242,gocepat,Toko Rumah Nyaman 242,Korporasi,Jabodetabek,2024-04-15
+gocepat_cust_0243,gocepat,CV Elektronik Ceria 243,Menengah,Sumatera,2024-10-28
+gocepat_cust_0244,gocepat,CV Maju Jaya 244,Korporasi,Jabodetabek,2024-12-12
+gocepat_cust_0245,gocepat,Toko Karya Bangsa 245,Menengah,Indonesia Timur,2024-04-03
+gocepat_cust_0246,gocepat,PT Elektronik Ceria 246,Menengah,Sumatera,2024-09-18
+gocepat_cust_0247,gocepat,UD Elektronik Ceria 247,Korporasi,Jabodetabek,2024-11-17
+gocepat_cust_0248,gocepat,UD Karya Bangsa 248,Korporasi,Jawa,2024-03-13
+gocepat_cust_0249,gocepat,PT Rasa Nusantara 249,Menengah,Jabodetabek,2024-03-21
+gocepat_cust_0250,gocepat,UD Laut Biru 250,Menengah,Jawa,2024-08-27
+gocepat_cust_0251,gocepat,Warung Rasa Nusantara 251,Menengah,Jabodetabek,2024-09-16
+gocepat_cust_0252,gocepat,Warung Mitra Dagang 252,Menengah,Indonesia Timur,2024-06-11
+gocepat_cust_0253,gocepat,Warung Anugerah Prima 253,UMKM,Indonesia Timur,2024-08-25
+gocepat_cust_0254,gocepat,CV Pangan Sehat 254,UMKM,Indonesia Timur,2024-08-12
+gocepat_cust_0255,gocepat,UD Indah Makmur 255,UMKM,Jabodetabek,2024-09-18
+gocepat_cust_0256,gocepat,PT Sumber Rejeki 256,Menengah,Jawa,2024-08-06
+gocepat_cust_0257,gocepat,UD Maju Jaya 257,Korporasi,Sumatera,2024-03-28
+gocepat_cust_0258,gocepat,UD Maju Jaya 258,Menengah,Sumatera,2024-12-22
+gocepat_cust_0259,gocepat,UD Anugerah Prima 259,UMKM,Jabodetabek,2024-10-26
+gocepat_cust_0260,gocepat,UD Sumber Rejeki 260,Menengah,Jabodetabek,2024-06-24
+gocepat_cust_0261,gocepat,Toko Berkah Mandiri 261,UMKM,Sumatera,2024-05-28
+gocepat_cust_0262,gocepat,UD Gunung Mas 262,UMKM,Sumatera,2024-09-03
+gocepat_cust_0263,gocepat,CV Bumi Lestari 263,Menengah,Sumatera,2024-02-12
+gocepat_cust_0264,gocepat,CV Laut Biru 264,UMKM,Jawa,2024-09-04
+gocepat_cust_0265,gocepat,Toko Maju Jaya 265,Menengah,Indonesia Timur,2024-06-27
+gocepat_cust_0266,gocepat,PT Pangan Sehat 266,Menengah,Indonesia Timur,2024-04-10
+gocepat_cust_0267,gocepat,UD Maju Jaya 267,Menengah,Indonesia Timur,2024-11-14
+gocepat_cust_0268,gocepat,PT Bumi Lestari 268,UMKM,Jawa,2024-12-12
+gocepat_cust_0269,gocepat,PT Laut Biru 269,UMKM,Indonesia Timur,2024-05-18
+gocepat_cust_0270,gocepat,CV Bumi Lestari 270,UMKM,Jabodetabek,2024-10-15
+gocepat_cust_0271,gocepat,UD Citra Sejahtera 271,UMKM,Indonesia Timur,2024-01-07
+gocepat_cust_0272,gocepat,Warung Maju Jaya 272,Korporasi,Jawa,2024-11-14
+gocepat_cust_0273,gocepat,CV Anugerah Prima 273,UMKM,Jabodetabek,2024-02-04
+gocepat_cust_0274,gocepat,Warung Rumah Nyaman 274,Menengah,Sumatera,2024-08-23
+gocepat_cust_0275,gocepat,Toko Anugerah Prima 275,UMKM,Jawa,2024-12-09
+gocepat_cust_0276,gocepat,Warung Batik Cantik 276,Korporasi,Indonesia Timur,2024-11-05
+gocepat_cust_0277,gocepat,Warung Sumber Rejeki 277,Menengah,Jawa,2024-04-06
+gocepat_cust_0278,gocepat,UD Maju Jaya 278,Menengah,Indonesia Timur,2024-09-18
+gocepat_cust_0279,gocepat,PT Elektronik Ceria 279,Korporasi,Jawa,2024-07-08
+gocepat_cust_0280,gocepat,UD Sumber Rejeki 280,Menengah,Sumatera,2024-09-14
+gocepat_cust_0281,gocepat,Toko Citra Sejahtera 281,UMKM,Indonesia Timur,2024-10-03
+gocepat_cust_0282,gocepat,Toko Sinar Abadi 282,Menengah,Sumatera,2024-03-26
+gocepat_cust_0283,gocepat,PT Rumah Nyaman 283,Korporasi,Indonesia Timur,2024-06-20
+gocepat_cust_0284,gocepat,Warung Pangan Sehat 284,Menengah,Sumatera,2024-08-10
+gocepat_cust_0285,gocepat,PT Laut Biru 285,UMKM,Indonesia Timur,2024-05-03
+gocepat_cust_0286,gocepat,PT Maju Jaya 286,Menengah,Jawa,2024-11-11
+gocepat_cust_0287,gocepat,Warung Mitra Dagang 287,UMKM,Jabodetabek,2024-11-12
+gocepat_cust_0288,gocepat,Warung Batik Cantik 288,Korporasi,Indonesia Timur,2024-02-20
+gocepat_cust_0289,gocepat,UD Indah Makmur 289,UMKM,Jawa,2024-08-24
+gocepat_cust_0290,gocepat,Toko Bumi Lestari 290,UMKM,Jabodetabek,2024-10-17
+gocepat_cust_0291,gocepat,Warung Fashion Lokal 291,UMKM,Sumatera,2024-07-17
+gocepat_cust_0292,gocepat,Warung Sumber Rejeki 292,UMKM,Jabodetabek,2024-02-23
+gocepat_cust_0293,gocepat,Toko Mitra Dagang 293,Menengah,Sumatera,2024-02-27
+gocepat_cust_0294,gocepat,PT Anugerah Prima 294,Menengah,Indonesia Timur,2024-04-03
+gocepat_cust_0295,gocepat,Toko Laut Biru 295,Menengah,Jabodetabek,2024-06-11
+gocepat_cust_0296,gocepat,Toko Laut Biru 296,UMKM,Jawa,2024-02-20
+gocepat_cust_0297,gocepat,Toko Maju Jaya 297,UMKM,Jabodetabek,2024-10-15
+gocepat_cust_0298,gocepat,Warung Pangan Sehat 298,UMKM,Jawa,2024-08-24
+gocepat_cust_0299,gocepat,Toko Mitra Dagang 299,Korporasi,Jawa,2024-12-04
+gocepat_cust_0300,gocepat,PT Karya Bangsa 300,Korporasi,Sumatera,2024-07-07
+gocepat_cust_0301,gocepat,Toko Rasa Nusantara 301,Korporasi,Sumatera,2024-03-21
+gocepat_cust_0302,gocepat,Toko Citra Sejahtera 302,UMKM,Jabodetabek,2024-06-08
+gocepat_cust_0303,gocepat,UD Bumi Lestari 303,Korporasi,Sumatera,2024-10-24
+gocepat_cust_0304,gocepat,PT Tekno Rimba 304,UMKM,Jabodetabek,2024-11-11
+gocepat_cust_0305,gocepat,Toko Tekno Rimba 305,Korporasi,Sumatera,2024-10-07
+gocepat_cust_0306,gocepat,PT Sumber Rejeki 306,Korporasi,Indonesia Timur,2024-04-03
+gocepat_cust_0307,gocepat,Toko Tekno Rimba 307,Korporasi,Jawa,2024-07-22
+gocepat_cust_0308,gocepat,Toko Batik Cantik 308,Menengah,Indonesia Timur,2024-04-22
+gocepat_cust_0309,gocepat,PT Gunung Mas 309,Menengah,Jabodetabek,2024-03-12
+gocepat_cust_0310,gocepat,CV Sinar Abadi 310,UMKM,Jawa,2024-04-11
+gocepat_cust_0311,gocepat,Toko Pangan Sehat 311,Korporasi,Jabodetabek,2024-10-28
+gocepat_cust_0312,gocepat,UD Maju Jaya 312,UMKM,Jabodetabek,2024-09-22
+gocepat_cust_0313,gocepat,PT Rasa Nusantara 313,Menengah,Jabodetabek,2024-08-17
+gocepat_cust_0314,gocepat,Toko Anugerah Prima 314,Korporasi,Jabodetabek,2024-02-22
+gocepat_cust_0315,gocepat,Warung Tekno Rimba 315,Menengah,Sumatera,2024-03-19
+gocepat_cust_0316,gocepat,CV Batik Cantik 316,UMKM,Indonesia Timur,2024-02-13
+gocepat_cust_0317,gocepat,PT Anugerah Prima 317,Menengah,Jabodetabek,2024-09-21
+gocepat_cust_0318,gocepat,Warung Laut Biru 318,Korporasi,Sumatera,2024-03-28
+gocepat_cust_0319,gocepat,UD Bumi Lestari 319,Menengah,Jawa,2024-02-20
+gocepat_cust_0320,gocepat,PT Batik Cantik 320,UMKM,Indonesia Timur,2024-11-27
+gocepat_cust_0321,gocepat,UD Tekno Rimba 321,UMKM,Jawa,2024-03-01
+gocepat_cust_0322,gocepat,CV Maju Jaya 322,UMKM,Jawa,2024-12-05
+gocepat_cust_0323,gocepat,UD Karya Bangsa 323,Korporasi,Jabodetabek,2024-06-02
+gocepat_cust_0324,gocepat,Toko Mitra Dagang 324,Menengah,Jawa,2024-05-26
+gocepat_cust_0325,gocepat,UD Bumi Lestari 325,UMKM,Indonesia Timur,2024-07-04
+gocepat_cust_0326,gocepat,CV Sumber Rejeki 326,Menengah,Sumatera,2024-03-11
+gocepat_cust_0327,gocepat,Warung Karya Bangsa 327,Menengah,Jabodetabek,2024-01-16
+gocepat_cust_0328,gocepat,Toko Anugerah Prima 328,Korporasi,Jabodetabek,2024-09-09
+gocepat_cust_0329,gocepat,UD Sinar Abadi 329,Menengah,Sumatera,2024-02-03
+gocepat_cust_0330,gocepat,Warung Tekno Rimba 330,Menengah,Indonesia Timur,2024-11-21
+gocepat_cust_0331,gocepat,PT Citra Sejahtera 331,Korporasi,Indonesia Timur,2024-05-19
+gocepat_cust_0332,gocepat,Toko Bumi Lestari 332,UMKM,Sumatera,2024-04-15
+gocepat_cust_0333,gocepat,Warung Citra Sejahtera 333,Korporasi,Jabodetabek,2024-04-22
+gocepat_cust_0334,gocepat,Toko Indah Makmur 334,Menengah,Jabodetabek,2024-06-18
+gocepat_cust_0335,gocepat,Warung Gunung Mas 335,UMKM,Jawa,2024-07-19
+gocepat_cust_0336,gocepat,CV Sumber Rejeki 336,UMKM,Jabodetabek,2024-08-24
+gocepat_cust_0337,gocepat,Warung Citra Sejahtera 337,UMKM,Sumatera,2024-09-23
+gocepat_cust_0338,gocepat,Warung Bumi Lestari 338,Korporasi,Sumatera,2024-10-28
+gocepat_cust_0339,gocepat,PT Nusantara Digital 339,Korporasi,Sumatera,2024-01-13
+gocepat_cust_0340,gocepat,Warung Laut Biru 340,Korporasi,Jabodetabek,2024-12-26
+gocepat_cust_0341,gocepat,PT Tekno Rimba 341,Korporasi,Indonesia Timur,2024-11-05
+gocepat_cust_0342,gocepat,UD Citra Sejahtera 342,UMKM,Jawa,2024-10-14
+gocepat_cust_0343,gocepat,CV Bumi Lestari 343,Menengah,Jabodetabek,2024-03-13
+gocepat_cust_0344,gocepat,Warung Anugerah Prima 344,Korporasi,Jabodetabek,2024-01-08
+gocepat_cust_0345,gocepat,UD Batik Cantik 345,Korporasi,Indonesia Timur,2024-02-26
+gocepat_cust_0346,gocepat,Toko Karya Bangsa 346,UMKM,Indonesia Timur,2024-02-01
+gocepat_cust_0347,gocepat,UD Laut Biru 347,UMKM,Jabodetabek,2024-03-12
+gocepat_cust_0348,gocepat,Warung Mitra Dagang 348,UMKM,Indonesia Timur,2024-10-21
+gocepat_cust_0349,gocepat,UD Indah Makmur 349,UMKM,Jabodetabek,2024-07-20
+gocepat_cust_0350,gocepat,Toko Indah Makmur 350,Korporasi,Indonesia Timur,2024-12-23
+gocepat_cust_0351,gocepat,Warung Fashion Lokal 351,Korporasi,Jawa,2024-05-12
+gocepat_cust_0352,gocepat,Warung Laut Biru 352,UMKM,Sumatera,2024-11-13
+gocepat_cust_0353,gocepat,CV Bumi Lestari 353,UMKM,Indonesia Timur,2024-02-05
+gocepat_cust_0354,gocepat,UD Sumber Rejeki 354,Korporasi,Sumatera,2024-06-23
+gocepat_cust_0355,gocepat,PT Sumber Rejeki 355,UMKM,Jawa,2024-12-09
+gocepat_cust_0356,gocepat,PT Karya Bangsa 356,UMKM,Jawa,2024-02-18
+gocepat_cust_0357,gocepat,Toko Pangan Sehat 357,Korporasi,Jawa,2024-05-07
+gocepat_cust_0358,gocepat,UD Indah Makmur 358,Menengah,Indonesia Timur,2024-04-10
+gocepat_cust_0359,gocepat,Warung Bumi Lestari 359,UMKM,Indonesia Timur,2024-06-01
+gocepat_cust_0360,gocepat,Warung Tekno Rimba 360,Menengah,Jawa,2024-09-25
+gocepat_cust_0361,gocepat,PT Pangan Sehat 361,Menengah,Indonesia Timur,2024-08-12
+gocepat_cust_0362,gocepat,CV Bumi Lestari 362,Menengah,Jawa,2024-06-15
+gocepat_cust_0363,gocepat,CV Indah Makmur 363,UMKM,Jabodetabek,2024-12-17
+gocepat_cust_0364,gocepat,PT Tekno Rimba 364,UMKM,Jawa,2024-08-01
+gocepat_cust_0365,gocepat,Warung Fashion Lokal 365,Menengah,Indonesia Timur,2024-04-21
+gocepat_cust_0366,gocepat,UD Karya Bangsa 366,Menengah,Indonesia Timur,2024-05-12
+gocepat_cust_0367,gocepat,Toko Maju Jaya 367,Menengah,Sumatera,2024-07-20
+gocepat_cust_0368,gocepat,Warung Tekno Rimba 368,UMKM,Indonesia Timur,2024-10-06
+gocepat_cust_0369,gocepat,UD Maju Jaya 369,Korporasi,Indonesia Timur,2024-02-07
+gocepat_cust_0370,gocepat,CV Fashion Lokal 370,UMKM,Jabodetabek,2024-09-03
+gocepat_cust_0371,gocepat,UD Indah Makmur 371,UMKM,Indonesia Timur,2024-09-28
+gocepat_cust_0372,gocepat,CV Elektronik Ceria 372,UMKM,Jawa,2024-04-18
+gocepat_cust_0373,gocepat,PT Elektronik Ceria 373,Korporasi,Jabodetabek,2024-06-06
+gocepat_cust_0374,gocepat,CV Sumber Rejeki 374,UMKM,Indonesia Timur,2024-05-09
+gocepat_cust_0375,gocepat,UD Maju Jaya 375,UMKM,Sumatera,2024-05-05
+gocepat_cust_0376,gocepat,Toko Citra Sejahtera 376,Menengah,Indonesia Timur,2024-11-09
+gocepat_cust_0377,gocepat,Warung Indah Makmur 377,UMKM,Jabodetabek,2024-02-28
+gocepat_cust_0378,gocepat,UD Sumber Rejeki 378,UMKM,Jawa,2024-12-12
+gocepat_cust_0379,gocepat,CV Citra Sejahtera 379,Menengah,Indonesia Timur,2024-11-24
+gocepat_cust_0380,gocepat,PT Fashion Lokal 380,UMKM,Indonesia Timur,2024-03-11
+gocepat_cust_0381,gocepat,UD Gunung Mas 381,Korporasi,Indonesia Timur,2024-10-03
+gocepat_cust_0382,gocepat,Toko Sinar Abadi 382,Menengah,Jawa,2024-06-19
+gocepat_cust_0383,gocepat,UD Elektronik Ceria 383,Korporasi,Jabodetabek,2024-09-10
+gocepat_cust_0384,gocepat,UD Nusantara Digital 384,UMKM,Sumatera,2024-09-03
+gocepat_cust_0385,gocepat,PT Sumber Rejeki 385,Korporasi,Jabodetabek,2024-12-11
+gocepat_cust_0386,gocepat,UD Pangan Sehat 386,UMKM,Sumatera,2024-08-03
+gocepat_cust_0387,gocepat,CV Sinar Abadi 387,Menengah,Indonesia Timur,2024-01-27
+gocepat_cust_0388,gocepat,PT Indah Makmur 388,UMKM,Sumatera,2024-12-24
+gocepat_cust_0389,gocepat,PT Fashion Lokal 389,Korporasi,Sumatera,2024-10-25
+gocepat_cust_0390,gocepat,Toko Citra Sejahtera 390,UMKM,Indonesia Timur,2024-08-09
+gocepat_cust_0391,gocepat,PT Berkah Mandiri 391,Menengah,Indonesia Timur,2024-04-17
+gocepat_cust_0392,gocepat,Warung Berkah Mandiri 392,Korporasi,Sumatera,2024-06-23
+gocepat_cust_0393,gocepat,Warung Elektronik Ceria 393,Korporasi,Jabodetabek,2024-07-28
+gocepat_cust_0394,gocepat,CV Elektronik Ceria 394,UMKM,Indonesia Timur,2024-08-03
+gocepat_cust_0395,gocepat,Warung Fashion Lokal 395,UMKM,Indonesia Timur,2024-01-24
+gocepat_cust_0396,gocepat,UD Gunung Mas 396,Menengah,Jabodetabek,2024-05-21
+gocepat_cust_0397,gocepat,Toko Nusantara Digital 397,Korporasi,Jabodetabek,2024-05-01
+gocepat_cust_0398,gocepat,PT Fashion Lokal 398,Menengah,Sumatera,2024-09-03
+gocepat_cust_0399,gocepat,CV Tekno Rimba 399,Menengah,Jawa,2024-03-18
+gocepat_cust_0400,gocepat,Toko Sumber Rejeki 400,Menengah,Jawa,2024-10-01
+gocepat_cust_0401,gocepat,CV Mitra Dagang 401,Korporasi,Indonesia Timur,2024-05-28
+gocepat_cust_0402,gocepat,CV Rumah Nyaman 402,Menengah,Jabodetabek,2024-07-08
+gocepat_cust_0403,gocepat,UD Rumah Nyaman 403,Korporasi,Jawa,2024-05-18
+gocepat_cust_0404,gocepat,UD Tekno Rimba 404,Korporasi,Sumatera,2024-12-18
+gocepat_cust_0405,gocepat,CV Laut Biru 405,Korporasi,Jawa,2024-07-07
+gocepat_cust_0406,gocepat,Warung Anugerah Prima 406,Menengah,Jabodetabek,2024-04-10
+gocepat_cust_0407,gocepat,Toko Pangan Sehat 407,Korporasi,Jabodetabek,2024-02-19
+gocepat_cust_0408,gocepat,CV Sumber Rejeki 408,Menengah,Jawa,2024-03-26
+gocepat_cust_0409,gocepat,PT Indah Makmur 409,UMKM,Sumatera,2024-10-18
+gocepat_cust_0410,gocepat,CV Sumber Rejeki 410,UMKM,Indonesia Timur,2024-04-05
+gocepat_cust_0411,gocepat,CV Tekno Rimba 411,Menengah,Jabodetabek,2024-06-07
+gocepat_cust_0412,gocepat,UD Sinar Abadi 412,Korporasi,Jawa,2024-07-15
+gocepat_cust_0413,gocepat,PT Nusantara Digital 413,Korporasi,Jawa,2024-10-15
+gocepat_cust_0414,gocepat,UD Sinar Abadi 414,UMKM,Sumatera,2024-06-24
+gocepat_cust_0415,gocepat,Toko Citra Sejahtera 415,Menengah,Jawa,2024-03-19
+gocepat_cust_0416,gocepat,CV Elektronik Ceria 416,Menengah,Indonesia Timur,2024-10-04
+gocepat_cust_0417,gocepat,PT Sumber Rejeki 417,Menengah,Jabodetabek,2024-03-08
+gocepat_cust_0418,gocepat,Warung Citra Sejahtera 418,Menengah,Jawa,2024-05-06
+gocepat_cust_0419,gocepat,PT Anugerah Prima 419,UMKM,Jabodetabek,2024-11-15
+gocepat_cust_0420,gocepat,UD Citra Sejahtera 420,UMKM,Jabodetabek,2024-07-28
+gocepat_cust_0421,gocepat,UD Sinar Abadi 421,Menengah,Indonesia Timur,2024-04-18
+gocepat_cust_0422,gocepat,Warung Citra Sejahtera 422,Korporasi,Indonesia Timur,2024-04-24
+gocepat_cust_0423,gocepat,CV Gunung Mas 423,UMKM,Jabodetabek,2024-02-05
+gocepat_cust_0424,gocepat,Warung Rasa Nusantara 424,Menengah,Jabodetabek,2024-11-20
+gocepat_cust_0425,gocepat,PT Berkah Mandiri 425,UMKM,Jabodetabek,2024-11-03
+gocepat_cust_0426,gocepat,CV Gunung Mas 426,Korporasi,Jabodetabek,2024-10-16
+gocepat_cust_0427,gocepat,CV Maju Jaya 427,UMKM,Jawa,2024-01-03
+gocepat_cust_0428,gocepat,CV Anugerah Prima 428,Korporasi,Jabodetabek,2024-06-07
+gocepat_cust_0429,gocepat,Toko Anugerah Prima 429,Menengah,Jawa,2024-06-03
+gocepat_cust_0430,gocepat,PT Elektronik Ceria 430,Menengah,Jabodetabek,2024-09-13
+gocepat_cust_0431,gocepat,UD Rumah Nyaman 431,Korporasi,Jawa,2024-07-03
+gocepat_cust_0432,gocepat,UD Tekno Rimba 432,UMKM,Sumatera,2024-02-11
+gocepat_cust_0433,gocepat,PT Pangan Sehat 433,Korporasi,Jabodetabek,2024-12-04
+gocepat_cust_0434,gocepat,CV Laut Biru 434,Menengah,Sumatera,2024-01-28
+gocepat_cust_0435,gocepat,Toko Gunung Mas 435,Menengah,Jabodetabek,2024-01-18
+gocepat_cust_0436,gocepat,Warung Pangan Sehat 436,Menengah,Jabodetabek,2024-10-25
+gocepat_cust_0437,gocepat,Warung Karya Bangsa 437,UMKM,Sumatera,2024-03-25
+gocepat_cust_0438,gocepat,Toko Bumi Lestari 438,Menengah,Jabodetabek,2024-07-10
+gocepat_cust_0439,gocepat,Toko Sinar Abadi 439,Korporasi,Jawa,2024-07-10
+gocepat_cust_0440,gocepat,Toko Sumber Rejeki 440,UMKM,Jabodetabek,2024-12-24
+gocepat_cust_0441,gocepat,Warung Sinar Abadi 441,Menengah,Jawa,2024-01-11
+gocepat_cust_0442,gocepat,PT Fashion Lokal 442,UMKM,Jawa,2024-06-12
+gocepat_cust_0443,gocepat,Warung Rumah Nyaman 443,Menengah,Sumatera,2024-11-23
+gocepat_cust_0444,gocepat,UD Nusantara Digital 444,Korporasi,Indonesia Timur,2024-11-11
+gocepat_cust_0445,gocepat,CV Anugerah Prima 445,Korporasi,Sumatera,2024-05-14
+gocepat_cust_0446,gocepat,Toko Sinar Abadi 446,UMKM,Jabodetabek,2024-12-04
+gocepat_cust_0447,gocepat,Warung Maju Jaya 447,Menengah,Jawa,2024-03-19
+gocepat_cust_0448,gocepat,Toko Nusantara Digital 448,UMKM,Indonesia Timur,2024-10-18
+gocepat_cust_0449,gocepat,PT Bumi Lestari 449,Korporasi,Jabodetabek,2024-12-11
+gocepat_cust_0450,gocepat,PT Nusantara Digital 450,UMKM,Jawa,2024-12-24

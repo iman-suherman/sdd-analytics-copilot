@@ -1,0 +1,56 @@
+{
+  "name": "sdd-analytics-copilot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Spec-driven AI analytics SaaS demo with a Copilot-style agent, governed SQLite queries, semantic metrics, and AI-generated dashboards.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "login": "node scripts/gcp-adc-login.cjs",
+    "generate-env": "node scripts/generate-env.cjs",
+    "db:seed": "tsx data/seed.ts",
+    "db:seed:generate": "tsx data/seed.ts --generate",
+    "data:export-csv": "tsx data/export-csv.ts",
+    "demo": "npm run db:seed && next dev",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@google/genai": "^2.21.0",
+    "better-sqlite3": "^13.0.3",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "drizzle-orm": "^0.45.2",
+    "echarts": "^6.1.0",
+    "echarts-for-react": "^3.0.6",
+    "lucide-react": "^1.41.0",
+    "next": "15.5.25",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-markdown": "^10.1.0",
+    "tailwind-merge": "^3.6.0",
+    "uuid": "^14.0.2",
+    "yaml": "^2.9.0",
+    "zod": "^4.5.4"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/uuid": "^10.0.0",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.25",
+    "tailwindcss": "^4",
+    "tsx": "^4.21.0",
+    "typescript": "^5",
+    "vitest": "^3.2.4"
+  },
+  "overrides": {
+    "postcss": "8.5.28"
+  }
+}

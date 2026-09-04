@@ -1,0 +1,301 @@
+shipper_id,company_id,shipper_name,shipper_segment,origin_hub,contract_start
+angkutprima_cust_0001,angkutprima,Toko Rasa Nusantara 1,UMKM,Sumatera,2024-08-01
+angkutprima_cust_0002,angkutprima,CV Rasa Nusantara 2,Menengah,Jawa,2024-10-27
+angkutprima_cust_0003,angkutprima,Toko Sinar Abadi 3,UMKM,Jabodetabek,2024-11-18
+angkutprima_cust_0004,angkutprima,UD Tekno Rimba 4,Korporasi,Jabodetabek,2024-11-07
+angkutprima_cust_0005,angkutprima,Toko Laut Biru 5,Menengah,Sumatera,2024-10-19
+angkutprima_cust_0006,angkutprima,Warung Pangan Sehat 6,UMKM,Indonesia Timur,2024-05-26
+angkutprima_cust_0007,angkutprima,Toko Rasa Nusantara 7,Korporasi,Sumatera,2024-05-07
+angkutprima_cust_0008,angkutprima,UD Elektronik Ceria 8,UMKM,Jabodetabek,2024-11-26
+angkutprima_cust_0009,angkutprima,PT Batik Cantik 9,Korporasi,Jawa,2024-02-11
+angkutprima_cust_0010,angkutprima,UD Elektronik Ceria 10,Korporasi,Jawa,2024-06-23
+angkutprima_cust_0011,angkutprima,PT Tekno Rimba 11,UMKM,Indonesia Timur,2024-10-28
+angkutprima_cust_0012,angkutprima,PT Nusantara Digital 12,UMKM,Sumatera,2024-11-03
+angkutprima_cust_0013,angkutprima,CV Fashion Lokal 13,UMKM,Indonesia Timur,2024-09-21
+angkutprima_cust_0014,angkutprima,PT Pangan Sehat 14,UMKM,Indonesia Timur,2024-03-14
+angkutprima_cust_0015,angkutprima,Warung Nusantara Digital 15,UMKM,Jawa,2024-05-15
+angkutprima_cust_0016,angkutprima,UD Fashion Lokal 16,Menengah,Jawa,2024-01-17
+angkutprima_cust_0017,angkutprima,Warung Citra Sejahtera 17,Korporasi,Indonesia Timur,2024-04-24
+angkutprima_cust_0018,angkutprima,PT Berkah Mandiri 18,UMKM,Indonesia Timur,2024-08-24
+angkutprima_cust_0019,angkutprima,Warung Sinar Abadi 19,Korporasi,Sumatera,2024-03-27
+angkutprima_cust_0020,angkutprima,PT Indah Makmur 20,Menengah,Jabodetabek,2024-10-11
+angkutprima_cust_0021,angkutprima,CV Laut Biru 21,UMKM,Sumatera,2024-05-28
+angkutprima_cust_0022,angkutprima,CV Citra Sejahtera 22,Menengah,Sumatera,2024-06-11
+angkutprima_cust_0023,angkutprima,Toko Sumber Rejeki 23,UMKM,Indonesia Timur,2024-03-02
+angkutprima_cust_0024,angkutprima,CV Batik Cantik 24,Korporasi,Indonesia Timur,2024-01-17
+angkutprima_cust_0025,angkutprima,Toko Fashion Lokal 25,Menengah,Indonesia Timur,2024-01-28
+angkutprima_cust_0026,angkutprima,Warung Nusantara Digital 26,Korporasi,Jabodetabek,2024-11-06
+angkutprima_cust_0027,angkutprima,Toko Berkah Mandiri 27,UMKM,Sumatera,2024-01-12
+angkutprima_cust_0028,angkutprima,CV Fashion Lokal 28,Menengah,Sumatera,2024-09-23
+angkutprima_cust_0029,angkutprima,UD Fashion Lokal 29,Korporasi,Jabodetabek,2024-08-10
+angkutprima_cust_0030,angkutprima,Warung Nusantara Digital 30,Korporasi,Jabodetabek,2024-11-08
+angkutprima_cust_0031,angkutprima,Warung Indah Makmur 31,Menengah,Sumatera,2024-06-14
+angkutprima_cust_0032,angkutprima,Toko Gunung Mas 32,UMKM,Jabodetabek,2024-02-15
+angkutprima_cust_0033,angkutprima,Toko Berkah Mandiri 33,Menengah,Sumatera,2024-10-07
+angkutprima_cust_0034,angkutprima,Toko Anugerah Prima 34,UMKM,Sumatera,2024-05-24
+angkutprima_cust_0035,angkutprima,Toko Rumah Nyaman 35,Korporasi,Sumatera,2024-06-09
+angkutprima_cust_0036,angkutprima,UD Pangan Sehat 36,Korporasi,Jabodetabek,2024-05-12
+angkutprima_cust_0037,angkutprima,Toko Anugerah Prima 37,UMKM,Sumatera,2024-04-17
+angkutprima_cust_0038,angkutprima,UD Bumi Lestari 38,Menengah,Jabodetabek,2024-03-11
+angkutprima_cust_0039,angkutprima,Toko Citra Sejahtera 39,Menengah,Jabodetabek,2024-11-07
+angkutprima_cust_0040,angkutprima,UD Karya Bangsa 40,Menengah,Jabodetabek,2024-08-03
+angkutprima_cust_0041,angkutprima,PT Pangan Sehat 41,UMKM,Jawa,2024-08-18
+angkutprima_cust_0042,angkutprima,UD Gunung Mas 42,Menengah,Sumatera,2024-10-28
+angkutprima_cust_0043,angkutprima,Toko Nusantara Digital 43,Korporasi,Jabodetabek,2024-12-04
+angkutprima_cust_0044,angkutprima,Toko Tekno Rimba 44,UMKM,Sumatera,2024-08-21
+angkutprima_cust_0045,angkutprima,Warung Karya Bangsa 45,Menengah,Jawa,2024-11-05
+angkutprima_cust_0046,angkutprima,Toko Nusantara Digital 46,UMKM,Sumatera,2024-07-03
+angkutprima_cust_0047,angkutprima,Warung Karya Bangsa 47,UMKM,Indonesia Timur,2024-01-25
+angkutprima_cust_0048,angkutprima,Toko Fashion Lokal 48,Korporasi,Jawa,2024-12-18
+angkutprima_cust_0049,angkutprima,CV Sumber Rejeki 49,Korporasi,Indonesia Timur,2024-12-11
+angkutprima_cust_0050,angkutprima,CV Tekno Rimba 50,Korporasi,Jawa,2024-04-05
+angkutprima_cust_0051,angkutprima,Toko Rasa Nusantara 51,Menengah,Jawa,2024-08-27
+angkutprima_cust_0052,angkutprima,CV Fashion Lokal 52,Menengah,Indonesia Timur,2024-07-02
+angkutprima_cust_0053,angkutprima,CV Berkah Mandiri 53,UMKM,Jabodetabek,2024-07-01
+angkutprima_cust_0054,angkutprima,Warung Citra Sejahtera 54,Korporasi,Jabodetabek,2024-05-22
+angkutprima_cust_0055,angkutprima,CV Sinar Abadi 55,UMKM,Indonesia Timur,2024-05-08
+angkutprima_cust_0056,angkutprima,PT Nusantara Digital 56,Korporasi,Indonesia Timur,2024-08-19
+angkutprima_cust_0057,angkutprima,CV Indah Makmur 57,UMKM,Sumatera,2024-06-12
+angkutprima_cust_0058,angkutprima,PT Tekno Rimba 58,Menengah,Sumatera,2024-08-12
+angkutprima_cust_0059,angkutprima,CV Fashion Lokal 59,UMKM,Jawa,2024-11-10
+angkutprima_cust_0060,angkutprima,CV Nusantara Digital 60,UMKM,Jawa,2024-09-04
+angkutprima_cust_0061,angkutprima,PT Rumah Nyaman 61,Menengah,Jabodetabek,2024-07-22
+angkutprima_cust_0062,angkutprima,Warung Indah Makmur 62,UMKM,Sumatera,2024-06-11
+angkutprima_cust_0063,angkutprima,Warung Elektronik Ceria 63,Korporasi,Jabodetabek,2024-12-20
+angkutprima_cust_0064,angkutprima,UD Tekno Rimba 64,UMKM,Indonesia Timur,2024-06-21
+angkutprima_cust_0065,angkutprima,UD Indah Makmur 65,Korporasi,Jawa,2024-12-20
+angkutprima_cust_0066,angkutprima,Toko Bumi Lestari 66,UMKM,Sumatera,2024-04-09
+angkutprima_cust_0067,angkutprima,Warung Gunung Mas 67,UMKM,Sumatera,2024-03-10
+angkutprima_cust_0068,angkutprima,Warung Rumah Nyaman 68,Menengah,Sumatera,2024-10-20
+angkutprima_cust_0069,angkutprima,Toko Rumah Nyaman 69,Menengah,Jawa,2024-03-14
+angkutprima_cust_0070,angkutprima,UD Batik Cantik 70,UMKM,Jawa,2024-10-01
+angkutprima_cust_0071,angkutprima,Warung Rasa Nusantara 71,UMKM,Jawa,2024-04-02
+angkutprima_cust_0072,angkutprima,Toko Sinar Abadi 72,Menengah,Indonesia Timur,2024-11-21
+angkutprima_cust_0073,angkutprima,Warung Berkah Mandiri 73,Menengah,Sumatera,2024-03-12
+angkutprima_cust_0074,angkutprima,CV Anugerah Prima 74,Korporasi,Sumatera,2024-04-09
+angkutprima_cust_0075,angkutprima,UD Citra Sejahtera 75,Menengah,Sumatera,2024-11-07
+angkutprima_cust_0076,angkutprima,Warung Fashion Lokal 76,Menengah,Sumatera,2024-11-09
+angkutprima_cust_0077,angkutprima,PT Maju Jaya 77,Korporasi,Indonesia Timur,2024-11-16
+angkutprima_cust_0078,angkutprima,Warung Sumber Rejeki 78,Korporasi,Indonesia Timur,2024-01-11
+angkutprima_cust_0079,angkutprima,Toko Rasa Nusantara 79,Korporasi,Indonesia Timur,2024-11-11
+angkutprima_cust_0080,angkutprima,Toko Rumah Nyaman 80,Menengah,Jabodetabek,2024-03-14
+angkutprima_cust_0081,angkutprima,PT Maju Jaya 81,Menengah,Jabodetabek,2024-08-19
+angkutprima_cust_0082,angkutprima,CV Sumber Rejeki 82,Menengah,Jawa,2024-07-22
+angkutprima_cust_0083,angkutprima,Warung Batik Cantik 83,UMKM,Indonesia Timur,2024-12-21
+angkutprima_cust_0084,angkutprima,CV Rasa Nusantara 84,Korporasi,Jabodetabek,2024-04-10
+angkutprima_cust_0085,angkutprima,Toko Fashion Lokal 85,Korporasi,Jawa,2024-11-24
+angkutprima_cust_0086,angkutprima,PT Anugerah Prima 86,UMKM,Indonesia Timur,2024-11-14
+angkutprima_cust_0087,angkutprima,CV Karya Bangsa 87,UMKM,Jabodetabek,2024-07-25
+angkutprima_cust_0088,angkutprima,PT Mitra Dagang 88,Menengah,Jabodetabek,2024-06-02
+angkutprima_cust_0089,angkutprima,CV Gunung Mas 89,UMKM,Sumatera,2024-12-26
+angkutprima_cust_0090,angkutprima,CV Batik Cantik 90,Menengah,Indonesia Timur,2024-02-10
+angkutprima_cust_0091,angkutprima,Warung Fashion Lokal 91,Menengah,Indonesia Timur,2024-03-15
+angkutprima_cust_0092,angkutprima,CV Citra Sejahtera 92,Menengah,Sumatera,2024-08-04
+angkutprima_cust_0093,angkutprima,UD Elektronik Ceria 93,Korporasi,Jawa,2024-01-08
+angkutprima_cust_0094,angkutprima,CV Sinar Abadi 94,Korporasi,Sumatera,2024-03-05
+angkutprima_cust_0095,angkutprima,CV Citra Sejahtera 95,UMKM,Sumatera,2024-05-21
+angkutprima_cust_0096,angkutprima,UD Citra Sejahtera 96,Menengah,Indonesia Timur,2024-03-22
+angkutprima_cust_0097,angkutprima,PT Karya Bangsa 97,Korporasi,Sumatera,2024-12-27
+angkutprima_cust_0098,angkutprima,Toko Rumah Nyaman 98,UMKM,Jabodetabek,2024-02-14
+angkutprima_cust_0099,angkutprima,CV Nusantara Digital 99,Korporasi,Indonesia Timur,2024-03-04
+angkutprima_cust_0100,angkutprima,CV Maju Jaya 100,UMKM,Jawa,2024-01-12
+angkutprima_cust_0101,angkutprima,CV Tekno Rimba 101,UMKM,Indonesia Timur,2024-07-03
+angkutprima_cust_0102,angkutprima,CV Sumber Rejeki 102,Menengah,Sumatera,2024-12-06
+angkutprima_cust_0103,angkutprima,Toko Sinar Abadi 103,Korporasi,Jabodetabek,2024-04-22
+angkutprima_cust_0104,angkutprima,PT Mitra Dagang 104,Menengah,Indonesia Timur,2024-12-21
+angkutprima_cust_0105,angkutprima,CV Sumber Rejeki 105,Menengah,Jabodetabek,2024-02-12
+angkutprima_cust_0106,angkutprima,Warung Laut Biru 106,Menengah,Sumatera,2024-09-13
+angkutprima_cust_0107,angkutprima,CV Nusantara Digital 107,UMKM,Jabodetabek,2024-10-28
+angkutprima_cust_0108,angkutprima,Warung Karya Bangsa 108,Menengah,Sumatera,2024-07-13
+angkutprima_cust_0109,angkutprima,Toko Berkah Mandiri 109,Menengah,Indonesia Timur,2024-01-28
+angkutprima_cust_0110,angkutprima,Warung Elektronik Ceria 110,Korporasi,Indonesia Timur,2024-12-07
+angkutprima_cust_0111,angkutprima,Warung Nusantara Digital 111,UMKM,Jawa,2024-02-25
+angkutprima_cust_0112,angkutprima,Toko Sumber Rejeki 112,Menengah,Indonesia Timur,2024-10-01
+angkutprima_cust_0113,angkutprima,PT Maju Jaya 113,Korporasi,Indonesia Timur,2024-04-11
+angkutprima_cust_0114,angkutprima,Toko Sinar Abadi 114,Korporasi,Indonesia Timur,2024-07-07
+angkutprima_cust_0115,angkutprima,UD Indah Makmur 115,UMKM,Sumatera,2024-07-05
+angkutprima_cust_0116,angkutprima,Toko Nusantara Digital 116,Korporasi,Indonesia Timur,2024-11-20
+angkutprima_cust_0117,angkutprima,Toko Maju Jaya 117,Korporasi,Jawa,2024-04-23
+angkutprima_cust_0118,angkutprima,PT Elektronik Ceria 118,Korporasi,Indonesia Timur,2024-11-09
+angkutprima_cust_0119,angkutprima,CV Laut Biru 119,UMKM,Sumatera,2024-07-06
+angkutprima_cust_0120,angkutprima,UD Pangan Sehat 120,UMKM,Jawa,2024-05-15
+angkutprima_cust_0121,angkutprima,CV Maju Jaya 121,Korporasi,Sumatera,2024-08-13
+angkutprima_cust_0122,angkutprima,UD Rumah Nyaman 122,UMKM,Jabodetabek,2024-09-15
+angkutprima_cust_0123,angkutprima,UD Berkah Mandiri 123,UMKM,Jabodetabek,2024-09-25
+angkutprima_cust_0124,angkutprima,Warung Karya Bangsa 124,Menengah,Indonesia Timur,2024-06-14
+angkutprima_cust_0125,angkutprima,CV Bumi Lestari 125,Korporasi,Sumatera,2024-11-13
+angkutprima_cust_0126,angkutprima,UD Rasa Nusantara 126,UMKM,Sumatera,2024-12-02
+angkutprima_cust_0127,angkutprima,PT Karya Bangsa 127,Menengah,Sumatera,2024-07-28
+angkutprima_cust_0128,angkutprima,Warung Pangan Sehat 128,Menengah,Sumatera,2024-10-02
+angkutprima_cust_0129,angkutprima,Warung Indah Makmur 129,Menengah,Jabodetabek,2024-12-03
+angkutprima_cust_0130,angkutprima,CV Citra Sejahtera 130,UMKM,Jawa,2024-05-10
+angkutprima_cust_0131,angkutprima,Toko Maju Jaya 131,UMKM,Jabodetabek,2024-08-04
+angkutprima_cust_0132,angkutprima,Toko Elektronik Ceria 132,UMKM,Jawa,2024-12-05
+angkutprima_cust_0133,angkutprima,Warung Sinar Abadi 133,Menengah,Sumatera,2024-11-13
+angkutprima_cust_0134,angkutprima,Toko Sinar Abadi 134,Korporasi,Jabodetabek,2024-04-14
+angkutprima_cust_0135,angkutprima,Toko Nusantara Digital 135,Menengah,Indonesia Timur,2024-03-20
+angkutprima_cust_0136,angkutprima,Toko Batik Cantik 136,Korporasi,Jawa,2024-01-03
+angkutprima_cust_0137,angkutprima,CV Bumi Lestari 137,UMKM,Sumatera,2024-06-21
+angkutprima_cust_0138,angkutprima,Warung Rumah Nyaman 138,Menengah,Sumatera,2024-09-05
+angkutprima_cust_0139,angkutprima,CV Rumah Nyaman 139,Korporasi,Jawa,2024-04-18
+angkutprima_cust_0140,angkutprima,PT Nusantara Digital 140,UMKM,Jawa,2024-06-17
+angkutprima_cust_0141,angkutprima,Warung Fashion Lokal 141,Korporasi,Indonesia Timur,2024-01-11
+angkutprima_cust_0142,angkutprima,PT Fashion Lokal 142,Menengah,Jabodetabek,2024-05-26
+angkutprima_cust_0143,angkutprima,CV Pangan Sehat 143,Korporasi,Jawa,2024-10-15
+angkutprima_cust_0144,angkutprima,UD Berkah Mandiri 144,UMKM,Sumatera,2024-11-14
+angkutprima_cust_0145,angkutprima,Toko Maju Jaya 145,UMKM,Indonesia Timur,2024-01-22
+angkutprima_cust_0146,angkutprima,UD Mitra Dagang 146,UMKM,Sumatera,2024-01-04
+angkutprima_cust_0147,angkutprima,Toko Berkah Mandiri 147,UMKM,Indonesia Timur,2024-10-02
+angkutprima_cust_0148,angkutprima,CV Indah Makmur 148,UMKM,Jawa,2024-09-09
+angkutprima_cust_0149,angkutprima,PT Tekno Rimba 149,Menengah,Indonesia Timur,2024-02-05
+angkutprima_cust_0150,angkutprima,Warung Nusantara Digital 150,UMKM,Sumatera,2024-04-03
+angkutprima_cust_0151,angkutprima,CV Citra Sejahtera 151,Korporasi,Indonesia Timur,2024-01-17
+angkutprima_cust_0152,angkutprima,CV Pangan Sehat 152,Korporasi,Jawa,2024-12-18
+angkutprima_cust_0153,angkutprima,Warung Fashion Lokal 153,UMKM,Indonesia Timur,2024-02-07
+angkutprima_cust_0154,angkutprima,UD Fashion Lokal 154,UMKM,Indonesia Timur,2024-02-20
+angkutprima_cust_0155,angkutprima,PT Gunung Mas 155,Menengah,Jabodetabek,2024-08-19
+angkutprima_cust_0156,angkutprima,PT Sumber Rejeki 156,Korporasi,Indonesia Timur,2024-03-02
+angkutprima_cust_0157,angkutprima,Warung Maju Jaya 157,UMKM,Jabodetabek,2024-03-04
+angkutprima_cust_0158,angkutprima,Toko Fashion Lokal 158,Menengah,Jabodetabek,2024-06-05
+angkutprima_cust_0159,angkutprima,CV Mitra Dagang 159,Menengah,Jabodetabek,2024-08-18
+angkutprima_cust_0160,angkutprima,UD Gunung Mas 160,UMKM,Jabodetabek,2024-03-24
+angkutprima_cust_0161,angkutprima,Warung Rasa Nusantara 161,Menengah,Indonesia Timur,2024-01-06
+angkutprima_cust_0162,angkutprima,Warung Maju Jaya 162,Menengah,Indonesia Timur,2024-03-14
+angkutprima_cust_0163,angkutprima,Warung Anugerah Prima 163,Korporasi,Jawa,2024-02-28
+angkutprima_cust_0164,angkutprima,Toko Nusantara Digital 164,UMKM,Sumatera,2024-05-25
+angkutprima_cust_0165,angkutprima,Toko Tekno Rimba 165,Korporasi,Sumatera,2024-09-26
+angkutprima_cust_0166,angkutprima,Warung Anugerah Prima 166,Menengah,Jawa,2024-09-11
+angkutprima_cust_0167,angkutprima,UD Mitra Dagang 167,UMKM,Jabodetabek,2024-09-04
+angkutprima_cust_0168,angkutprima,UD Anugerah Prima 168,Korporasi,Indonesia Timur,2024-09-03
+angkutprima_cust_0169,angkutprima,PT Karya Bangsa 169,Korporasi,Jabodetabek,2024-12-12
+angkutprima_cust_0170,angkutprima,UD Sinar Abadi 170,UMKM,Jawa,2024-08-11
+angkutprima_cust_0171,angkutprima,Warung Batik Cantik 171,Menengah,Indonesia Timur,2024-11-04
+angkutprima_cust_0172,angkutprima,Toko Anugerah Prima 172,UMKM,Indonesia Timur,2024-09-04
+angkutprima_cust_0173,angkutprima,Warung Batik Cantik 173,Korporasi,Jawa,2024-07-04
+angkutprima_cust_0174,angkutprima,Warung Sumber Rejeki 174,UMKM,Jawa,2024-05-07
+angkutprima_cust_0175,angkutprima,UD Nusantara Digital 175,Menengah,Jawa,2024-01-19
+angkutprima_cust_0176,angkutprima,Toko Anugerah Prima 176,UMKM,Sumatera,2024-08-04
+angkutprima_cust_0177,angkutprima,CV Batik Cantik 177,Menengah,Indonesia Timur,2024-06-10
+angkutprima_cust_0178,angkutprima,CV Berkah Mandiri 178,UMKM,Jawa,2024-05-14
+angkutprima_cust_0179,angkutprima,PT Batik Cantik 179,Korporasi,Sumatera,2024-11-09
+angkutprima_cust_0180,angkutprima,CV Mitra Dagang 180,UMKM,Jabodetabek,2024-12-23
+angkutprima_cust_0181,angkutprima,Toko Rasa Nusantara 181,UMKM,Indonesia Timur,2024-08-21
+angkutprima_cust_0182,angkutprima,Warung Karya Bangsa 182,UMKM,Jawa,2024-02-25
+angkutprima_cust_0183,angkutprima,Toko Batik Cantik 183,UMKM,Jabodetabek,2024-01-11
+angkutprima_cust_0184,angkutprima,CV Maju Jaya 184,UMKM,Jawa,2024-12-03
+angkutprima_cust_0185,angkutprima,PT Rasa Nusantara 185,Menengah,Indonesia Timur,2024-07-07
+angkutprima_cust_0186,angkutprima,UD Bumi Lestari 186,UMKM,Jawa,2024-06-21
+angkutprima_cust_0187,angkutprima,CV Karya Bangsa 187,Menengah,Sumatera,2024-01-10
+angkutprima_cust_0188,angkutprima,Warung Maju Jaya 188,Menengah,Jabodetabek,2024-05-28
+angkutprima_cust_0189,angkutprima,Warung Karya Bangsa 189,UMKM,Jabodetabek,2024-04-19
+angkutprima_cust_0190,angkutprima,Warung Mitra Dagang 190,UMKM,Jawa,2024-05-03
+angkutprima_cust_0191,angkutprima,PT Fashion Lokal 191,Korporasi,Sumatera,2024-09-24
+angkutprima_cust_0192,angkutprima,UD Sumber Rejeki 192,Menengah,Jawa,2024-06-09
+angkutprima_cust_0193,angkutprima,PT Sinar Abadi 193,Korporasi,Indonesia Timur,2024-07-04
+angkutprima_cust_0194,angkutprima,Warung Citra Sejahtera 194,Korporasi,Sumatera,2024-08-23
+angkutprima_cust_0195,angkutprima,Toko Anugerah Prima 195,Menengah,Jabodetabek,2024-12-15
+angkutprima_cust_0196,angkutprima,Toko Karya Bangsa 196,UMKM,Indonesia Timur,2024-02-11
+angkutprima_cust_0197,angkutprima,Warung Bumi Lestari 197,UMKM,Jabodetabek,2024-12-16
+angkutprima_cust_0198,angkutprima,Warung Indah Makmur 198,Korporasi,Jabodetabek,2024-02-07
+angkutprima_cust_0199,angkutprima,CV Citra Sejahtera 199,Menengah,Indonesia Timur,2024-03-28
+angkutprima_cust_0200,angkutprima,Warung Gunung Mas 200,Korporasi,Jawa,2024-11-13
+angkutprima_cust_0201,angkutprima,UD Pangan Sehat 201,Menengah,Sumatera,2024-01-04
+angkutprima_cust_0202,angkutprima,UD Tekno Rimba 202,UMKM,Indonesia Timur,2024-08-27
+angkutprima_cust_0203,angkutprima,CV Nusantara Digital 203,Menengah,Jabodetabek,2024-07-20
+angkutprima_cust_0204,angkutprima,Warung Citra Sejahtera 204,Menengah,Jabodetabek,2024-04-09
+angkutprima_cust_0205,angkutprima,Toko Indah Makmur 205,Korporasi,Jawa,2024-01-22
+angkutprima_cust_0206,angkutprima,UD Elektronik Ceria 206,UMKM,Jabodetabek,2024-09-18
+angkutprima_cust_0207,angkutprima,PT Mitra Dagang 207,Menengah,Jabodetabek,2024-04-08
+angkutprima_cust_0208,angkutprima,UD Sumber Rejeki 208,Menengah,Jabodetabek,2024-11-05
+angkutprima_cust_0209,angkutprima,UD Batik Cantik 209,Korporasi,Jawa,2024-12-27
+angkutprima_cust_0210,angkutprima,Toko Maju Jaya 210,Menengah,Sumatera,2024-02-10
+angkutprima_cust_0211,angkutprima,CV Pangan Sehat 211,Menengah,Indonesia Timur,2024-07-08
+angkutprima_cust_0212,angkutprima,Warung Sinar Abadi 212,Korporasi,Jabodetabek,2024-03-21
+angkutprima_cust_0213,angkutprima,Toko Pangan Sehat 213,Menengah,Jabodetabek,2024-06-19
+angkutprima_cust_0214,angkutprima,Toko Indah Makmur 214,UMKM,Jawa,2024-01-20
+angkutprima_cust_0215,angkutprima,PT Elektronik Ceria 215,Menengah,Jawa,2024-08-13
+angkutprima_cust_0216,angkutprima,Toko Sinar Abadi 216,Korporasi,Jabodetabek,2024-05-27
+angkutprima_cust_0217,angkutprima,Toko Sumber Rejeki 217,Korporasi,Jabodetabek,2024-07-17
+angkutprima_cust_0218,angkutprima,PT Indah Makmur 218,UMKM,Indonesia Timur,2024-11-28
+angkutprima_cust_0219,angkutprima,Toko Elektronik Ceria 219,Korporasi,Indonesia Timur,2024-07-27
+angkutprima_cust_0220,angkutprima,PT Mitra Dagang 220,Menengah,Sumatera,2024-05-21
+angkutprima_cust_0221,angkutprima,UD Nusantara Digital 221,Korporasi,Sumatera,2024-01-26
+angkutprima_cust_0222,angkutprima,UD Anugerah Prima 222,UMKM,Sumatera,2024-12-03
+angkutprima_cust_0223,angkutprima,Toko Pangan Sehat 223,UMKM,Sumatera,2024-11-07
+angkutprima_cust_0224,angkutprima,PT Batik Cantik 224,Korporasi,Jabodetabek,2024-07-09
+angkutprima_cust_0225,angkutprima,CV Batik Cantik 225,Korporasi,Indonesia Timur,2024-06-17
+angkutprima_cust_0226,angkutprima,Warung Sumber Rejeki 226,Menengah,Sumatera,2024-03-02
+angkutprima_cust_0227,angkutprima,UD Rumah Nyaman 227,UMKM,Indonesia Timur,2024-01-17
+angkutprima_cust_0228,angkutprima,PT Karya Bangsa 228,Menengah,Sumatera,2024-05-01
+angkutprima_cust_0229,angkutprima,PT Rumah Nyaman 229,Korporasi,Jawa,2024-02-24
+angkutprima_cust_0230,angkutprima,CV Gunung Mas 230,UMKM,Jabodetabek,2024-09-23
+angkutprima_cust_0231,angkutprima,Warung Laut Biru 231,Korporasi,Indonesia Timur,2024-12-03
+angkutprima_cust_0232,angkutprima,CV Gunung Mas 232,UMKM,Jabodetabek,2024-07-01
+angkutprima_cust_0233,angkutprima,Toko Batik Cantik 233,Menengah,Indonesia Timur,2024-08-04
+angkutprima_cust_0234,angkutprima,UD Karya Bangsa 234,Menengah,Sumatera,2024-10-09
+angkutprima_cust_0235,angkutprima,Toko Rasa Nusantara 235,UMKM,Jawa,2024-02-02
+angkutprima_cust_0236,angkutprima,PT Pangan Sehat 236,Korporasi,Sumatera,2024-06-07
+angkutprima_cust_0237,angkutprima,Warung Pangan Sehat 237,UMKM,Indonesia Timur,2024-03-04
+angkutprima_cust_0238,angkutprima,CV Sumber Rejeki 238,Menengah,Jabodetabek,2024-05-28
+angkutprima_cust_0239,angkutprima,CV Maju Jaya 239,UMKM,Sumatera,2024-06-04
+angkutprima_cust_0240,angkutprima,PT Sinar Abadi 240,Menengah,Jabodetabek,2024-09-13
+angkutprima_cust_0241,angkutprima,Warung Sinar Abadi 241,Menengah,Sumatera,2024-11-27
+angkutprima_cust_0242,angkutprima,Warung Gunung Mas 242,UMKM,Sumatera,2024-08-12
+angkutprima_cust_0243,angkutprima,Warung Gunung Mas 243,UMKM,Jabodetabek,2024-05-03
+angkutprima_cust_0244,angkutprima,Warung Nusantara Digital 244,Menengah,Sumatera,2024-10-23
+angkutprima_cust_0245,angkutprima,UD Nusantara Digital 245,UMKM,Sumatera,2024-10-02
+angkutprima_cust_0246,angkutprima,PT Maju Jaya 246,Korporasi,Jabodetabek,2024-02-06
+angkutprima_cust_0247,angkutprima,Toko Batik Cantik 247,Menengah,Indonesia Timur,2024-01-22
+angkutprima_cust_0248,angkutprima,Toko Bumi Lestari 248,Menengah,Jawa,2024-07-10
+angkutprima_cust_0249,angkutprima,Warung Anugerah Prima 249,UMKM,Indonesia Timur,2024-02-11
+angkutprima_cust_0250,angkutprima,PT Batik Cantik 250,UMKM,Sumatera,2024-05-03
+angkutprima_cust_0251,angkutprima,Warung Anugerah Prima 251,Korporasi,Sumatera,2024-10-07
+angkutprima_cust_0252,angkutprima,Warung Pangan Sehat 252,Menengah,Sumatera,2024-07-13
+angkutprima_cust_0253,angkutprima,Warung Sumber Rejeki 253,UMKM,Sumatera,2024-10-22
+angkutprima_cust_0254,angkutprima,PT Bumi Lestari 254,Korporasi,Sumatera,2024-08-19
+angkutprima_cust_0255,angkutprima,Toko Sinar Abadi 255,UMKM,Jabodetabek,2024-06-22
+angkutprima_cust_0256,angkutprima,PT Elektronik Ceria 256,Menengah,Jawa,2024-04-08
+angkutprima_cust_0257,angkutprima,PT Batik Cantik 257,Korporasi,Jabodetabek,2024-06-06
+angkutprima_cust_0258,angkutprima,PT Batik Cantik 258,Korporasi,Jawa,2024-01-09
+angkutprima_cust_0259,angkutprima,CV Anugerah Prima 259,Korporasi,Indonesia Timur,2024-09-22
+angkutprima_cust_0260,angkutprima,UD Karya Bangsa 260,UMKM,Indonesia Timur,2024-08-23
+angkutprima_cust_0261,angkutprima,Toko Rasa Nusantara 261,UMKM,Jawa,2024-06-22
+angkutprima_cust_0262,angkutprima,CV Mitra Dagang 262,Menengah,Indonesia Timur,2024-03-20
+angkutprima_cust_0263,angkutprima,UD Maju Jaya 263,Menengah,Sumatera,2024-02-03
+angkutprima_cust_0264,angkutprima,UD Sinar Abadi 264,Menengah,Sumatera,2024-12-15
+angkutprima_cust_0265,angkutprima,CV Citra Sejahtera 265,UMKM,Sumatera,2024-12-05
+angkutprima_cust_0266,angkutprima,Warung Berkah Mandiri 266,UMKM,Indonesia Timur,2024-02-04
+angkutprima_cust_0267,angkutprima,CV Laut Biru 267,Korporasi,Jawa,2024-04-01
+angkutprima_cust_0268,angkutprima,Warung Sinar Abadi 268,Korporasi,Jawa,2024-05-14
+angkutprima_cust_0269,angkutprima,Warung Anugerah Prima 269,Korporasi,Indonesia Timur,2024-10-24
+angkutprima_cust_0270,angkutprima,CV Nusantara Digital 270,Korporasi,Jawa,2024-01-20
+angkutprima_cust_0271,angkutprima,CV Sumber Rejeki 271,Menengah,Indonesia Timur,2024-02-26
+angkutprima_cust_0272,angkutprima,PT Laut Biru 272,Korporasi,Jawa,2024-12-22
+angkutprima_cust_0273,angkutprima,Warung Mitra Dagang 273,Korporasi,Sumatera,2024-07-04
+angkutprima_cust_0274,angkutprima,UD Gunung Mas 274,Korporasi,Sumatera,2024-03-26
+angkutprima_cust_0275,angkutprima,Warung Pangan Sehat 275,Menengah,Jawa,2024-06-17
+angkutprima_cust_0276,angkutprima,Warung Anugerah Prima 276,Menengah,Sumatera,2024-03-06
+angkutprima_cust_0277,angkutprima,UD Sinar Abadi 277,Menengah,Indonesia Timur,2024-10-11
+angkutprima_cust_0278,angkutprima,UD Fashion Lokal 278,Menengah,Indonesia Timur,2024-02-26
+angkutprima_cust_0279,angkutprima,Warung Anugerah Prima 279,Korporasi,Jawa,2024-03-03
+angkutprima_cust_0280,angkutprima,Warung Nusantara Digital 280,Korporasi,Indonesia Timur,2024-10-05
+angkutprima_cust_0281,angkutprima,UD Berkah Mandiri 281,Korporasi,Jawa,2024-09-15
+angkutprima_cust_0282,angkutprima,UD Tekno Rimba 282,UMKM,Sumatera,2024-04-26
+angkutprima_cust_0283,angkutprima,CV Berkah Mandiri 283,UMKM,Indonesia Timur,2024-08-27
+angkutprima_cust_0284,angkutprima,Warung Anugerah Prima 284,UMKM,Jawa,2024-12-10
+angkutprima_cust_0285,angkutprima,UD Mitra Dagang 285,Menengah,Sumatera,2024-05-27
+angkutprima_cust_0286,angkutprima,Warung Nusantara Digital 286,UMKM,Jabodetabek,2024-01-28
+angkutprima_cust_0287,angkutprima,CV Maju Jaya 287,Menengah,Sumatera,2024-04-03
+angkutprima_cust_0288,angkutprima,Toko Batik Cantik 288,UMKM,Sumatera,2024-10-05
+angkutprima_cust_0289,angkutprima,CV Sinar Abadi 289,Menengah,Jabodetabek,2024-07-03
+angkutprima_cust_0290,angkutprima,Warung Citra Sejahtera 290,UMKM,Jawa,2024-07-19
+angkutprima_cust_0291,angkutprima,PT Maju Jaya 291,Menengah,Jawa,2024-09-04
+angkutprima_cust_0292,angkutprima,Warung Rumah Nyaman 292,Korporasi,Jabodetabek,2024-04-14
+angkutprima_cust_0293,angkutprima,PT Anugerah Prima 293,Korporasi,Jawa,2024-01-06
+angkutprima_cust_0294,angkutprima,Warung Laut Biru 294,UMKM,Jawa,2024-03-26
+angkutprima_cust_0295,angkutprima,UD Bumi Lestari 295,Korporasi,Jabodetabek,2024-07-07
+angkutprima_cust_0296,angkutprima,CV Berkah Mandiri 296,UMKM,Jawa,2024-12-15
+angkutprima_cust_0297,angkutprima,PT Fashion Lokal 297,Menengah,Indonesia Timur,2024-01-20
+angkutprima_cust_0298,angkutprima,Toko Berkah Mandiri 298,Korporasi,Jabodetabek,2024-02-22
+angkutprima_cust_0299,angkutprima,Warung Maju Jaya 299,Menengah,Jabodetabek,2024-06-28
+angkutprima_cust_0300,angkutprima,PT Anugerah Prima 300,Menengah,Jabodetabek,2024-03-01

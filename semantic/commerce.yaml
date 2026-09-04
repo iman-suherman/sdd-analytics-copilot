@@ -1,0 +1,66 @@
+model: commerce
+label: Analitik Perdagangan Indonesia
+description: Lapisan semantik atas dataset e-commerce SQLite berbahasa Indonesia.
+
+tables:
+  customers:
+    primary_key: id
+  products:
+    primary_key: id
+  orders:
+    primary_key: id
+    joins:
+      - table: customers
+        on: orders.customer_id = customers.id
+  order_items:
+    primary_key: id
+    joins:
+      - table: orders
+        on: order_items.order_id = orders.id
+      - table: products
+        on: order_items.product_id = products.id
+
+metrics:
+  revenue:
+    label: Pendapatan
+    description: Pendapatan bersih dari pesanan yang selesai (status completed)
+    type: sum
+    field: orders.net_amount
+    filters:
+      - field: orders.status
+        op: eq
+        value: completed
+  orders:
+    label: Pesanan
+    description: Jumlah pesanan selesai yang unik
+    type: count_distinct
+    field: orders.id
+    filters:
+      - field: orders.status
+        op: eq
+        value: completed
+  customers:
+    label: Pelanggan
+    description: Jumlah pelanggan unik dengan pesanan selesai
+    type: count_distinct
+    field: customers.id
+  average_order_value:
+    label: Nilai Rata-rata Pesanan
+    description: Pendapatan dibagi jumlah pesanan
+    type: calculated
+    formula: revenue / orders
+
+dimensions:
+  region:
+    label: Wilayah
+    field: customers.region
+  segment:
+    label: Segmen
+    field: customers.segment
+  product_category:
+    label: Kategori Produk
+    field: products.category
+  order_date:
+    label: Tanggal Pesanan
+    field: orders.order_date
+    type: time

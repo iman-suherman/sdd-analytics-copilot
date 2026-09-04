@@ -1,0 +1,31 @@
+service_sku,company_id,service_name,cargo_type,rate_idr
+angkutprima_prod_0001,angkutprima,Powerbank 20.000mAh #1,Elektronik,1834943
+angkutprima_prod_0002,angkutprima,Keripik Singkong #2,F&B,4222427
+angkutprima_prod_0003,angkutprima,Lampu LED Hemat #3,Rumah Tangga,1254813
+angkutprima_prod_0004,angkutprima,Minyak Goreng 2L #4,F&B,2437150
+angkutprima_prod_0005,angkutprima,Sapu Serbaguna #5,Rumah Tangga,2493355
+angkutprima_prod_0006,angkutprima,Sambal Matah Botol #6,F&B,1623094
+angkutprima_prod_0007,angkutprima,Smartphone Nusantara X1 #7,Elektronik,3749708
+angkutprima_prod_0008,angkutprima,Beras Premium 5kg #8,F&B,1711220
+angkutprima_prod_0009,angkutprima,Susu UHT Lokal #9,F&B,2638248
+angkutprima_prod_0010,angkutprima,Sandal Kulit #10,Fashion,591066
+angkutprima_prod_0011,angkutprima,Smartwatch Sehat #11,Elektronik,513002
+angkutprima_prod_0012,angkutprima,Batik Modern Pria #12,Fashion,2851515
+angkutprima_prod_0013,angkutprima,Kopi Gayo 250g #13,F&B,489431
+angkutprima_prod_0014,angkutprima,Sandal Kulit #14,Fashion,171772
+angkutprima_prod_0015,angkutprima,Sandal Kulit #15,Fashion,151992
+angkutprima_prod_0016,angkutprima,Snack Tempe Crispy #16,F&B,1155800
+angkutprima_prod_0017,angkutprima,Susu UHT Lokal #17,F&B,2071929
+angkutprima_prod_0018,angkutprima,Snack Tempe Crispy #18,F&B,4032116
+angkutprima_prod_0019,angkutprima,Snack Tempe Crispy #19,F&B,3159208
+angkutprima_prod_0020,angkutprima,Vacuum Cleaner Mini #20,Rumah Tangga,1257909
+angkutprima_prod_0021,angkutprima,Keripik Singkong #21,F&B,3961218
+angkutprima_prod_0022,angkutprima,Smartwatch Sehat #22,Elektronik,298073
+angkutprima_prod_0023,angkutprima,Dispenser Galon #23,Rumah Tangga,2595012
+angkutprima_prod_0024,angkutprima,Set Peralatan Makan #24,Rumah Tangga,328430
+angkutprima_prod_0025,angkutprima,Jaket Parasut #25,Fashion,1591893
+angkutprima_prod_0026,angkutprima,Sambal Matah Botol #26,F&B,3636666
+angkutprima_prod_0027,angkutprima,Snack Tempe Crispy #27,F&B,4051814
+angkutprima_prod_0028,angkutprima,Teh Celup Melati #28,F&B,1604518
+angkutprima_prod_0029,angkutprima,Batik Modern Pria #29,Fashion,3873457
+angkutprima_prod_0030,angkutprima,Charger GaN 65W #30,Elektronik,1801137

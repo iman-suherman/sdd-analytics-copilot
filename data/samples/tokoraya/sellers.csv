@@ -1,0 +1,501 @@
+seller_id,company_id,seller_name,seller_tier,region,onboarded_at
+tokoraya_cust_0001,tokoraya,PT Pangan Sehat 1,Menengah,Sumatera,2024-11-19
+tokoraya_cust_0002,tokoraya,CV Elektronik Ceria 2,Menengah,Jawa,2024-11-14
+tokoraya_cust_0003,tokoraya,UD Batik Cantik 3,Korporasi,Sumatera,2024-03-15
+tokoraya_cust_0004,tokoraya,Toko Nusantara Digital 4,Menengah,Jabodetabek,2024-11-02
+tokoraya_cust_0005,tokoraya,Toko Nusantara Digital 5,Korporasi,Jawa,2024-03-22
+tokoraya_cust_0006,tokoraya,CV Sumber Rejeki 6,UMKM,Jabodetabek,2024-06-23
+tokoraya_cust_0007,tokoraya,CV Batik Cantik 7,Korporasi,Jabodetabek,2024-07-17
+tokoraya_cust_0008,tokoraya,Toko Citra Sejahtera 8,Korporasi,Jabodetabek,2024-09-25
+tokoraya_cust_0009,tokoraya,UD Laut Biru 9,Korporasi,Jawa,2024-01-19
+tokoraya_cust_0010,tokoraya,Warung Sinar Abadi 10,Korporasi,Indonesia Timur,2024-12-13
+tokoraya_cust_0011,tokoraya,UD Elektronik Ceria 11,Korporasi,Jabodetabek,2024-05-14
+tokoraya_cust_0012,tokoraya,UD Berkah Mandiri 12,UMKM,Jabodetabek,2024-12-08
+tokoraya_cust_0013,tokoraya,Toko Rumah Nyaman 13,UMKM,Sumatera,2024-02-28
+tokoraya_cust_0014,tokoraya,CV Gunung Mas 14,Menengah,Jawa,2024-05-17
+tokoraya_cust_0015,tokoraya,Warung Elektronik Ceria 15,Menengah,Jawa,2024-11-20
+tokoraya_cust_0016,tokoraya,UD Anugerah Prima 16,Menengah,Jawa,2024-04-03
+tokoraya_cust_0017,tokoraya,Warung Sinar Abadi 17,UMKM,Indonesia Timur,2024-02-14
+tokoraya_cust_0018,tokoraya,CV Sumber Rejeki 18,Korporasi,Indonesia Timur,2024-09-20
+tokoraya_cust_0019,tokoraya,UD Elektronik Ceria 19,Menengah,Jabodetabek,2024-05-06
+tokoraya_cust_0020,tokoraya,Warung Mitra Dagang 20,UMKM,Jawa,2024-05-04
+tokoraya_cust_0021,tokoraya,Warung Citra Sejahtera 21,UMKM,Jabodetabek,2024-08-25
+tokoraya_cust_0022,tokoraya,UD Gunung Mas 22,Menengah,Sumatera,2024-03-02
+tokoraya_cust_0023,tokoraya,CV Fashion Lokal 23,Korporasi,Jawa,2024-05-01
+tokoraya_cust_0024,tokoraya,Toko Bumi Lestari 24,UMKM,Sumatera,2024-02-05
+tokoraya_cust_0025,tokoraya,CV Anugerah Prima 25,Menengah,Jawa,2024-06-20
+tokoraya_cust_0026,tokoraya,Toko Tekno Rimba 26,Korporasi,Indonesia Timur,2024-06-18
+tokoraya_cust_0027,tokoraya,UD Citra Sejahtera 27,Korporasi,Jabodetabek,2024-04-09
+tokoraya_cust_0028,tokoraya,CV Nusantara Digital 28,UMKM,Jabodetabek,2024-04-04
+tokoraya_cust_0029,tokoraya,UD Rumah Nyaman 29,Korporasi,Sumatera,2024-06-11
+tokoraya_cust_0030,tokoraya,Toko Rasa Nusantara 30,Menengah,Indonesia Timur,2024-02-25
+tokoraya_cust_0031,tokoraya,Warung Citra Sejahtera 31,Menengah,Indonesia Timur,2024-02-18
+tokoraya_cust_0032,tokoraya,Warung Rasa Nusantara 32,Menengah,Jawa,2024-12-14
+tokoraya_cust_0033,tokoraya,Toko Laut Biru 33,Korporasi,Sumatera,2024-01-05
+tokoraya_cust_0034,tokoraya,Warung Elektronik Ceria 34,UMKM,Indonesia Timur,2024-10-18
+tokoraya_cust_0035,tokoraya,UD Anugerah Prima 35,Menengah,Sumatera,2024-06-25
+tokoraya_cust_0036,tokoraya,PT Mitra Dagang 36,Menengah,Indonesia Timur,2024-04-24
+tokoraya_cust_0037,tokoraya,Warung Elektronik Ceria 37,Korporasi,Jabodetabek,2024-08-21
+tokoraya_cust_0038,tokoraya,PT Nusantara Digital 38,UMKM,Jawa,2024-02-08
+tokoraya_cust_0039,tokoraya,UD Karya Bangsa 39,Menengah,Jawa,2024-07-21
+tokoraya_cust_0040,tokoraya,Toko Indah Makmur 40,Menengah,Jabodetabek,2024-07-13
+tokoraya_cust_0041,tokoraya,Toko Bumi Lestari 41,Korporasi,Jawa,2024-04-05
+tokoraya_cust_0042,tokoraya,PT Nusantara Digital 42,Menengah,Sumatera,2024-08-13
+tokoraya_cust_0043,tokoraya,Toko Pangan Sehat 43,UMKM,Jabodetabek,2024-01-25
+tokoraya_cust_0044,tokoraya,CV Gunung Mas 44,UMKM,Jabodetabek,2024-01-11
+tokoraya_cust_0045,tokoraya,UD Karya Bangsa 45,Korporasi,Sumatera,2024-12-22
+tokoraya_cust_0046,tokoraya,PT Maju Jaya 46,UMKM,Sumatera,2024-07-05
+tokoraya_cust_0047,tokoraya,Toko Fashion Lokal 47,Korporasi,Jabodetabek,2024-09-19
+tokoraya_cust_0048,tokoraya,Warung Pangan Sehat 48,Menengah,Jabodetabek,2024-05-08
+tokoraya_cust_0049,tokoraya,Toko Elektronik Ceria 49,UMKM,Jabodetabek,2024-12-08
+tokoraya_cust_0050,tokoraya,CV Indah Makmur 50,UMKM,Indonesia Timur,2024-07-23
+tokoraya_cust_0051,tokoraya,Toko Fashion Lokal 51,Menengah,Indonesia Timur,2024-09-16
+tokoraya_cust_0052,tokoraya,UD Elektronik Ceria 52,UMKM,Indonesia Timur,2024-04-18
+tokoraya_cust_0053,tokoraya,Toko Anugerah Prima 53,UMKM,Jawa,2024-04-25
+tokoraya_cust_0054,tokoraya,UD Berkah Mandiri 54,UMKM,Sumatera,2024-08-25
+tokoraya_cust_0055,tokoraya,UD Karya Bangsa 55,UMKM,Jawa,2024-06-08
+tokoraya_cust_0056,tokoraya,Warung Pangan Sehat 56,UMKM,Sumatera,2024-03-24
+tokoraya_cust_0057,tokoraya,UD Sumber Rejeki 57,Korporasi,Jawa,2024-06-26
+tokoraya_cust_0058,tokoraya,PT Berkah Mandiri 58,Menengah,Jawa,2024-09-15
+tokoraya_cust_0059,tokoraya,Warung Laut Biru 59,Korporasi,Jabodetabek,2024-05-24
+tokoraya_cust_0060,tokoraya,CV Elektronik Ceria 60,Korporasi,Jabodetabek,2024-04-20
+tokoraya_cust_0061,tokoraya,PT Batik Cantik 61,UMKM,Sumatera,2024-11-10
+tokoraya_cust_0062,tokoraya,UD Pangan Sehat 62,Menengah,Jabodetabek,2024-04-08
+tokoraya_cust_0063,tokoraya,UD Rumah Nyaman 63,Menengah,Jawa,2024-02-22
+tokoraya_cust_0064,tokoraya,CV Citra Sejahtera 64,Korporasi,Jabodetabek,2024-01-10
+tokoraya_cust_0065,tokoraya,UD Nusantara Digital 65,Menengah,Indonesia Timur,2024-11-10
+tokoraya_cust_0066,tokoraya,UD Pangan Sehat 66,UMKM,Sumatera,2024-05-06
+tokoraya_cust_0067,tokoraya,Warung Karya Bangsa 67,Korporasi,Jabodetabek,2024-10-13
+tokoraya_cust_0068,tokoraya,Toko Laut Biru 68,UMKM,Jawa,2024-03-05
+tokoraya_cust_0069,tokoraya,UD Batik Cantik 69,UMKM,Jabodetabek,2024-03-04
+tokoraya_cust_0070,tokoraya,UD Nusantara Digital 70,Korporasi,Sumatera,2024-12-15
+tokoraya_cust_0071,tokoraya,CV Gunung Mas 71,Menengah,Indonesia Timur,2024-04-02
+tokoraya_cust_0072,tokoraya,PT Batik Cantik 72,Korporasi,Indonesia Timur,2024-11-13
+tokoraya_cust_0073,tokoraya,PT Fashion Lokal 73,Korporasi,Sumatera,2024-11-03
+tokoraya_cust_0074,tokoraya,Toko Laut Biru 74,Menengah,Jabodetabek,2024-07-18
+tokoraya_cust_0075,tokoraya,CV Pangan Sehat 75,UMKM,Jabodetabek,2024-10-10
+tokoraya_cust_0076,tokoraya,Toko Nusantara Digital 76,Menengah,Indonesia Timur,2024-06-08
+tokoraya_cust_0077,tokoraya,Toko Nusantara Digital 77,Menengah,Indonesia Timur,2024-06-08
+tokoraya_cust_0078,tokoraya,UD Rasa Nusantara 78,Korporasi,Sumatera,2024-11-22
+tokoraya_cust_0079,tokoraya,Toko Indah Makmur 79,Menengah,Jabodetabek,2024-07-14
+tokoraya_cust_0080,tokoraya,PT Laut Biru 80,Menengah,Jawa,2024-01-20
+tokoraya_cust_0081,tokoraya,CV Batik Cantik 81,Menengah,Jabodetabek,2024-09-27
+tokoraya_cust_0082,tokoraya,Toko Sumber Rejeki 82,Menengah,Indonesia Timur,2024-01-16
+tokoraya_cust_0083,tokoraya,Toko Rumah Nyaman 83,UMKM,Jawa,2024-02-21
+tokoraya_cust_0084,tokoraya,PT Pangan Sehat 84,Menengah,Indonesia Timur,2024-01-26
+tokoraya_cust_0085,tokoraya,Warung Laut Biru 85,UMKM,Jawa,2024-07-18
+tokoraya_cust_0086,tokoraya,Warung Rasa Nusantara 86,UMKM,Indonesia Timur,2024-12-23
+tokoraya_cust_0087,tokoraya,Toko Elektronik Ceria 87,Korporasi,Jabodetabek,2024-12-01
+tokoraya_cust_0088,tokoraya,Toko Rumah Nyaman 88,UMKM,Sumatera,2024-04-24
+tokoraya_cust_0089,tokoraya,UD Maju Jaya 89,Korporasi,Sumatera,2024-02-11
+tokoraya_cust_0090,tokoraya,UD Fashion Lokal 90,Korporasi,Jabodetabek,2024-08-11
+tokoraya_cust_0091,tokoraya,UD Elektronik Ceria 91,UMKM,Jawa,2024-09-01
+tokoraya_cust_0092,tokoraya,CV Rasa Nusantara 92,Menengah,Jawa,2024-11-14
+tokoraya_cust_0093,tokoraya,Warung Berkah Mandiri 93,Korporasi,Sumatera,2024-06-15
+tokoraya_cust_0094,tokoraya,Toko Tekno Rimba 94,Korporasi,Sumatera,2024-08-23
+tokoraya_cust_0095,tokoraya,Warung Berkah Mandiri 95,Menengah,Indonesia Timur,2024-08-05
+tokoraya_cust_0096,tokoraya,UD Elektronik Ceria 96,UMKM,Sumatera,2024-07-16
+tokoraya_cust_0097,tokoraya,Warung Nusantara Digital 97,Korporasi,Indonesia Timur,2024-01-03
+tokoraya_cust_0098,tokoraya,UD Nusantara Digital 98,Menengah,Jabodetabek,2024-01-21
+tokoraya_cust_0099,tokoraya,UD Laut Biru 99,UMKM,Jawa,2024-05-06
+tokoraya_cust_0100,tokoraya,Toko Sumber Rejeki 100,Menengah,Jabodetabek,2024-08-24
+tokoraya_cust_0101,tokoraya,PT Gunung Mas 101,Menengah,Sumatera,2024-08-06
+tokoraya_cust_0102,tokoraya,Toko Tekno Rimba 102,Korporasi,Sumatera,2024-12-27
+tokoraya_cust_0103,tokoraya,UD Anugerah Prima 103,Menengah,Jawa,2024-12-25
+tokoraya_cust_0104,tokoraya,PT Anugerah Prima 104,Menengah,Indonesia Timur,2024-12-07
+tokoraya_cust_0105,tokoraya,UD Batik Cantik 105,Menengah,Indonesia Timur,2024-12-01
+tokoraya_cust_0106,tokoraya,Warung Anugerah Prima 106,Korporasi,Indonesia Timur,2024-12-07
+tokoraya_cust_0107,tokoraya,Warung Batik Cantik 107,Menengah,Sumatera,2024-03-09
+tokoraya_cust_0108,tokoraya,PT Tekno Rimba 108,Menengah,Jawa,2024-05-13
+tokoraya_cust_0109,tokoraya,Toko Elektronik Ceria 109,Menengah,Indonesia Timur,2024-07-25
+tokoraya_cust_0110,tokoraya,UD Batik Cantik 110,Menengah,Jawa,2024-06-17
+tokoraya_cust_0111,tokoraya,CV Anugerah Prima 111,Korporasi,Jawa,2024-01-20
+tokoraya_cust_0112,tokoraya,PT Indah Makmur 112,Korporasi,Jabodetabek,2024-08-08
+tokoraya_cust_0113,tokoraya,CV Batik Cantik 113,Korporasi,Sumatera,2024-09-07
+tokoraya_cust_0114,tokoraya,Warung Maju Jaya 114,Menengah,Jawa,2024-08-14
+tokoraya_cust_0115,tokoraya,Warung Indah Makmur 115,Menengah,Jabodetabek,2024-11-25
+tokoraya_cust_0116,tokoraya,Warung Sumber Rejeki 116,Menengah,Jabodetabek,2024-08-22
+tokoraya_cust_0117,tokoraya,PT Nusantara Digital 117,Korporasi,Jawa,2024-11-17
+tokoraya_cust_0118,tokoraya,Toko Fashion Lokal 118,Korporasi,Indonesia Timur,2024-07-15
+tokoraya_cust_0119,tokoraya,Warung Maju Jaya 119,UMKM,Sumatera,2024-07-26
+tokoraya_cust_0120,tokoraya,Toko Sumber Rejeki 120,UMKM,Jabodetabek,2024-05-20
+tokoraya_cust_0121,tokoraya,Warung Elektronik Ceria 121,Menengah,Jawa,2024-05-19
+tokoraya_cust_0122,tokoraya,UD Tekno Rimba 122,Menengah,Jabodetabek,2024-06-15
+tokoraya_cust_0123,tokoraya,PT Berkah Mandiri 123,UMKM,Jawa,2024-03-13
+tokoraya_cust_0124,tokoraya,Toko Indah Makmur 124,Korporasi,Jabodetabek,2024-05-22
+tokoraya_cust_0125,tokoraya,CV Gunung Mas 125,UMKM,Jawa,2024-09-13
+tokoraya_cust_0126,tokoraya,Warung Mitra Dagang 126,Menengah,Jawa,2024-04-04
+tokoraya_cust_0127,tokoraya,Toko Maju Jaya 127,UMKM,Jabodetabek,2024-01-22
+tokoraya_cust_0128,tokoraya,CV Fashion Lokal 128,UMKM,Sumatera,2024-03-24
+tokoraya_cust_0129,tokoraya,PT Mitra Dagang 129,Menengah,Jawa,2024-01-12
+tokoraya_cust_0130,tokoraya,UD Citra Sejahtera 130,Menengah,Jawa,2024-01-27
+tokoraya_cust_0131,tokoraya,Warung Elektronik Ceria 131,Korporasi,Jabodetabek,2024-09-23
+tokoraya_cust_0132,tokoraya,Warung Citra Sejahtera 132,Korporasi,Indonesia Timur,2024-09-15
+tokoraya_cust_0133,tokoraya,CV Sinar Abadi 133,UMKM,Jabodetabek,2024-11-27
+tokoraya_cust_0134,tokoraya,PT Batik Cantik 134,UMKM,Jabodetabek,2024-09-18
+tokoraya_cust_0135,tokoraya,CV Pangan Sehat 135,UMKM,Sumatera,2024-01-24
+tokoraya_cust_0136,tokoraya,Warung Tekno Rimba 136,Korporasi,Jawa,2024-04-26
+tokoraya_cust_0137,tokoraya,Warung Anugerah Prima 137,Korporasi,Jabodetabek,2024-10-02
+tokoraya_cust_0138,tokoraya,CV Bumi Lestari 138,UMKM,Indonesia Timur,2024-10-05
+tokoraya_cust_0139,tokoraya,UD Tekno Rimba 139,Menengah,Jabodetabek,2024-07-17
+tokoraya_cust_0140,tokoraya,Toko Rasa Nusantara 140,UMKM,Jabodetabek,2024-09-18
+tokoraya_cust_0141,tokoraya,PT Citra Sejahtera 141,Menengah,Jabodetabek,2024-02-27
+tokoraya_cust_0142,tokoraya,Toko Mitra Dagang 142,Menengah,Sumatera,2024-07-12
+tokoraya_cust_0143,tokoraya,UD Batik Cantik 143,UMKM,Jawa,2024-01-18
+tokoraya_cust_0144,tokoraya,PT Indah Makmur 144,UMKM,Indonesia Timur,2024-06-22
+tokoraya_cust_0145,tokoraya,Warung Sumber Rejeki 145,Menengah,Sumatera,2024-03-28
+tokoraya_cust_0146,tokoraya,Warung Bumi Lestari 146,UMKM,Indonesia Timur,2024-02-14
+tokoraya_cust_0147,tokoraya,CV Fashion Lokal 147,UMKM,Jawa,2024-05-21
+tokoraya_cust_0148,tokoraya,CV Bumi Lestari 148,UMKM,Jabodetabek,2024-09-13
+tokoraya_cust_0149,tokoraya,UD Berkah Mandiri 149,Korporasi,Jawa,2024-03-01
+tokoraya_cust_0150,tokoraya,UD Pangan Sehat 150,Korporasi,Jawa,2024-10-03
+tokoraya_cust_0151,tokoraya,CV Karya Bangsa 151,Menengah,Jawa,2024-08-17
+tokoraya_cust_0152,tokoraya,CV Tekno Rimba 152,UMKM,Indonesia Timur,2024-08-14
+tokoraya_cust_0153,tokoraya,CV Laut Biru 153,Korporasi,Indonesia Timur,2024-05-12
+tokoraya_cust_0154,tokoraya,Toko Fashion Lokal 154,Korporasi,Jawa,2024-08-23
+tokoraya_cust_0155,tokoraya,CV Elektronik Ceria 155,UMKM,Indonesia Timur,2024-08-15
+tokoraya_cust_0156,tokoraya,PT Gunung Mas 156,Korporasi,Jawa,2024-08-01
+tokoraya_cust_0157,tokoraya,Warung Indah Makmur 157,Korporasi,Jabodetabek,2024-03-11
+tokoraya_cust_0158,tokoraya,Warung Mitra Dagang 158,UMKM,Sumatera,2024-10-08
+tokoraya_cust_0159,tokoraya,Warung Indah Makmur 159,Korporasi,Jawa,2024-09-22
+tokoraya_cust_0160,tokoraya,Warung Karya Bangsa 160,Menengah,Jawa,2024-08-08
+tokoraya_cust_0161,tokoraya,Toko Fashion Lokal 161,Menengah,Sumatera,2024-07-26
+tokoraya_cust_0162,tokoraya,Warung Citra Sejahtera 162,Korporasi,Indonesia Timur,2024-11-21
+tokoraya_cust_0163,tokoraya,Warung Sumber Rejeki 163,UMKM,Jabodetabek,2024-05-16
+tokoraya_cust_0164,tokoraya,Warung Fashion Lokal 164,Menengah,Jawa,2024-01-09
+tokoraya_cust_0165,tokoraya,Warung Bumi Lestari 165,Menengah,Sumatera,2024-03-03
+tokoraya_cust_0166,tokoraya,CV Citra Sejahtera 166,UMKM,Jawa,2024-08-07
+tokoraya_cust_0167,tokoraya,CV Karya Bangsa 167,UMKM,Jabodetabek,2024-12-18
+tokoraya_cust_0168,tokoraya,CV Indah Makmur 168,Menengah,Jabodetabek,2024-06-17
+tokoraya_cust_0169,tokoraya,UD Rasa Nusantara 169,Menengah,Jawa,2024-08-07
+tokoraya_cust_0170,tokoraya,Warung Maju Jaya 170,Korporasi,Sumatera,2024-04-05
+tokoraya_cust_0171,tokoraya,Toko Maju Jaya 171,UMKM,Sumatera,2024-04-01
+tokoraya_cust_0172,tokoraya,Toko Pangan Sehat 172,Menengah,Indonesia Timur,2024-03-18
+tokoraya_cust_0173,tokoraya,Warung Karya Bangsa 173,UMKM,Indonesia Timur,2024-03-01
+tokoraya_cust_0174,tokoraya,Warung Indah Makmur 174,Korporasi,Sumatera,2024-04-07
+tokoraya_cust_0175,tokoraya,UD Fashion Lokal 175,Korporasi,Jabodetabek,2024-08-21
+tokoraya_cust_0176,tokoraya,Warung Mitra Dagang 176,UMKM,Jawa,2024-11-20
+tokoraya_cust_0177,tokoraya,CV Fashion Lokal 177,Korporasi,Jabodetabek,2024-07-18
+tokoraya_cust_0178,tokoraya,UD Maju Jaya 178,UMKM,Indonesia Timur,2024-12-07
+tokoraya_cust_0179,tokoraya,UD Gunung Mas 179,Menengah,Jawa,2024-08-28
+tokoraya_cust_0180,tokoraya,UD Rumah Nyaman 180,UMKM,Indonesia Timur,2024-10-25
+tokoraya_cust_0181,tokoraya,CV Gunung Mas 181,Menengah,Jawa,2024-01-11
+tokoraya_cust_0182,tokoraya,CV Nusantara Digital 182,UMKM,Jabodetabek,2024-03-22
+tokoraya_cust_0183,tokoraya,CV Anugerah Prima 183,Korporasi,Jabodetabek,2024-12-28
+tokoraya_cust_0184,tokoraya,PT Tekno Rimba 184,UMKM,Indonesia Timur,2024-03-10
+tokoraya_cust_0185,tokoraya,UD Gunung Mas 185,UMKM,Indonesia Timur,2024-10-24
+tokoraya_cust_0186,tokoraya,Warung Berkah Mandiri 186,Korporasi,Jabodetabek,2024-05-07
+tokoraya_cust_0187,tokoraya,Warung Gunung Mas 187,UMKM,Sumatera,2024-05-26
+tokoraya_cust_0188,tokoraya,Toko Rasa Nusantara 188,Korporasi,Jabodetabek,2024-07-25
+tokoraya_cust_0189,tokoraya,PT Batik Cantik 189,Korporasi,Jabodetabek,2024-08-11
+tokoraya_cust_0190,tokoraya,PT Citra Sejahtera 190,Korporasi,Indonesia Timur,2024-01-01
+tokoraya_cust_0191,tokoraya,CV Pangan Sehat 191,UMKM,Indonesia Timur,2024-05-14
+tokoraya_cust_0192,tokoraya,Toko Fashion Lokal 192,Korporasi,Jabodetabek,2024-09-14
+tokoraya_cust_0193,tokoraya,UD Sinar Abadi 193,Korporasi,Sumatera,2024-11-15
+tokoraya_cust_0194,tokoraya,CV Citra Sejahtera 194,Menengah,Jabodetabek,2024-12-10
+tokoraya_cust_0195,tokoraya,Toko Maju Jaya 195,Menengah,Jawa,2024-05-15
+tokoraya_cust_0196,tokoraya,CV Citra Sejahtera 196,UMKM,Jawa,2024-02-01
+tokoraya_cust_0197,tokoraya,Toko Batik Cantik 197,UMKM,Jawa,2024-11-18
+tokoraya_cust_0198,tokoraya,Warung Pangan Sehat 198,UMKM,Jabodetabek,2024-03-20
+tokoraya_cust_0199,tokoraya,CV Indah Makmur 199,Menengah,Sumatera,2024-08-16
+tokoraya_cust_0200,tokoraya,Toko Anugerah Prima 200,Menengah,Jabodetabek,2024-06-04
+tokoraya_cust_0201,tokoraya,UD Nusantara Digital 201,Menengah,Jabodetabek,2024-04-07
+tokoraya_cust_0202,tokoraya,PT Tekno Rimba 202,UMKM,Jawa,2024-08-13
+tokoraya_cust_0203,tokoraya,Toko Sumber Rejeki 203,Korporasi,Jabodetabek,2024-10-07
+tokoraya_cust_0204,tokoraya,UD Mitra Dagang 204,Menengah,Indonesia Timur,2024-06-24
+tokoraya_cust_0205,tokoraya,UD Rasa Nusantara 205,UMKM,Jabodetabek,2024-12-27
+tokoraya_cust_0206,tokoraya,Warung Gunung Mas 206,Korporasi,Sumatera,2024-03-04
+tokoraya_cust_0207,tokoraya,Warung Anugerah Prima 207,Menengah,Jawa,2024-04-17
+tokoraya_cust_0208,tokoraya,PT Pangan Sehat 208,UMKM,Jawa,2024-11-21
+tokoraya_cust_0209,tokoraya,Toko Bumi Lestari 209,Korporasi,Indonesia Timur,2024-02-02
+tokoraya_cust_0210,tokoraya,Warung Anugerah Prima 210,UMKM,Indonesia Timur,2024-08-02
+tokoraya_cust_0211,tokoraya,UD Rasa Nusantara 211,Korporasi,Sumatera,2024-06-23
+tokoraya_cust_0212,tokoraya,CV Karya Bangsa 212,Korporasi,Jawa,2024-02-14
+tokoraya_cust_0213,tokoraya,UD Bumi Lestari 213,Menengah,Sumatera,2024-12-18
+tokoraya_cust_0214,tokoraya,PT Nusantara Digital 214,Korporasi,Jabodetabek,2024-01-22
+tokoraya_cust_0215,tokoraya,PT Gunung Mas 215,Korporasi,Jabodetabek,2024-06-13
+tokoraya_cust_0216,tokoraya,PT Fashion Lokal 216,Menengah,Indonesia Timur,2024-06-11
+tokoraya_cust_0217,tokoraya,PT Berkah Mandiri 217,Korporasi,Sumatera,2024-02-03
+tokoraya_cust_0218,tokoraya,Toko Karya Bangsa 218,UMKM,Sumatera,2024-05-06
+tokoraya_cust_0219,tokoraya,Toko Maju Jaya 219,Korporasi,Jabodetabek,2024-06-27
+tokoraya_cust_0220,tokoraya,Toko Sumber Rejeki 220,UMKM,Jabodetabek,2024-07-28
+tokoraya_cust_0221,tokoraya,PT Rumah Nyaman 221,Korporasi,Jawa,2024-10-19
+tokoraya_cust_0222,tokoraya,UD Citra Sejahtera 222,Menengah,Indonesia Timur,2024-06-08
+tokoraya_cust_0223,tokoraya,Warung Berkah Mandiri 223,Menengah,Jabodetabek,2024-12-11
+tokoraya_cust_0224,tokoraya,CV Pangan Sehat 224,Menengah,Indonesia Timur,2024-05-12
+tokoraya_cust_0225,tokoraya,PT Maju Jaya 225,UMKM,Indonesia Timur,2024-06-02
+tokoraya_cust_0226,tokoraya,UD Gunung Mas 226,Menengah,Indonesia Timur,2024-01-22
+tokoraya_cust_0227,tokoraya,PT Karya Bangsa 227,Menengah,Jawa,2024-09-25
+tokoraya_cust_0228,tokoraya,Toko Berkah Mandiri 228,Menengah,Jawa,2024-12-22
+tokoraya_cust_0229,tokoraya,Toko Fashion Lokal 229,Korporasi,Jawa,2024-11-27
+tokoraya_cust_0230,tokoraya,PT Berkah Mandiri 230,Korporasi,Jawa,2024-09-16
+tokoraya_cust_0231,tokoraya,Toko Anugerah Prima 231,Korporasi,Sumatera,2024-12-27
+tokoraya_cust_0232,tokoraya,CV Sinar Abadi 232,Menengah,Jawa,2024-04-08
+tokoraya_cust_0233,tokoraya,PT Rumah Nyaman 233,Korporasi,Indonesia Timur,2024-06-03
+tokoraya_cust_0234,tokoraya,Toko Gunung Mas 234,Menengah,Jawa,2024-08-27
+tokoraya_cust_0235,tokoraya,PT Rumah Nyaman 235,Menengah,Sumatera,2024-01-09
+tokoraya_cust_0236,tokoraya,CV Tekno Rimba 236,UMKM,Indonesia Timur,2024-07-08
+tokoraya_cust_0237,tokoraya,PT Anugerah Prima 237,Korporasi,Sumatera,2024-12-27
+tokoraya_cust_0238,tokoraya,Warung Fashion Lokal 238,Menengah,Indonesia Timur,2024-03-01
+tokoraya_cust_0239,tokoraya,CV Bumi Lestari 239,Korporasi,Indonesia Timur,2024-04-09
+tokoraya_cust_0240,tokoraya,PT Berkah Mandiri 240,Korporasi,Indonesia Timur,2024-05-04
+tokoraya_cust_0241,tokoraya,UD Citra Sejahtera 241,UMKM,Jabodetabek,2024-04-09
+tokoraya_cust_0242,tokoraya,Warung Pangan Sehat 242,Menengah,Indonesia Timur,2024-09-04
+tokoraya_cust_0243,tokoraya,PT Maju Jaya 243,UMKM,Jabodetabek,2024-08-03
+tokoraya_cust_0244,tokoraya,PT Anugerah Prima 244,UMKM,Indonesia Timur,2024-05-21
+tokoraya_cust_0245,tokoraya,UD Indah Makmur 245,UMKM,Jabodetabek,2024-04-09
+tokoraya_cust_0246,tokoraya,UD Gunung Mas 246,Korporasi,Jawa,2024-08-17
+tokoraya_cust_0247,tokoraya,PT Elektronik Ceria 247,Korporasi,Jabodetabek,2024-06-20
+tokoraya_cust_0248,tokoraya,Warung Berkah Mandiri 248,UMKM,Sumatera,2024-08-16
+tokoraya_cust_0249,tokoraya,Warung Pangan Sehat 249,UMKM,Jabodetabek,2024-02-28
+tokoraya_cust_0250,tokoraya,PT Rumah Nyaman 250,UMKM,Jabodetabek,2024-11-06
+tokoraya_cust_0251,tokoraya,CV Berkah Mandiri 251,Korporasi,Jawa,2024-08-11
+tokoraya_cust_0252,tokoraya,CV Bumi Lestari 252,UMKM,Indonesia Timur,2024-01-25
+tokoraya_cust_0253,tokoraya,PT Rasa Nusantara 253,UMKM,Indonesia Timur,2024-07-26
+tokoraya_cust_0254,tokoraya,Warung Pangan Sehat 254,UMKM,Indonesia Timur,2024-03-23
+tokoraya_cust_0255,tokoraya,Warung Nusantara Digital 255,Korporasi,Sumatera,2024-02-24
+tokoraya_cust_0256,tokoraya,PT Laut Biru 256,Menengah,Sumatera,2024-07-20
+tokoraya_cust_0257,tokoraya,PT Indah Makmur 257,Menengah,Jawa,2024-03-03
+tokoraya_cust_0258,tokoraya,UD Nusantara Digital 258,Menengah,Jabodetabek,2024-10-04
+tokoraya_cust_0259,tokoraya,CV Bumi Lestari 259,UMKM,Jabodetabek,2024-01-22
+tokoraya_cust_0260,tokoraya,UD Laut Biru 260,Menengah,Jawa,2024-07-28
+tokoraya_cust_0261,tokoraya,UD Rumah Nyaman 261,Menengah,Jawa,2024-06-03
+tokoraya_cust_0262,tokoraya,CV Maju Jaya 262,Korporasi,Jabodetabek,2024-12-23
+tokoraya_cust_0263,tokoraya,PT Rasa Nusantara 263,UMKM,Sumatera,2024-06-23
+tokoraya_cust_0264,tokoraya,UD Gunung Mas 264,Korporasi,Jawa,2024-12-28
+tokoraya_cust_0265,tokoraya,Warung Citra Sejahtera 265,Menengah,Sumatera,2024-01-08
+tokoraya_cust_0266,tokoraya,Warung Pangan Sehat 266,UMKM,Sumatera,2024-08-05
+tokoraya_cust_0267,tokoraya,Toko Nusantara Digital 267,UMKM,Indonesia Timur,2024-03-25
+tokoraya_cust_0268,tokoraya,Toko Anugerah Prima 268,Menengah,Jabodetabek,2024-11-08
+tokoraya_cust_0269,tokoraya,PT Sinar Abadi 269,Korporasi,Sumatera,2024-04-15
+tokoraya_cust_0270,tokoraya,UD Sumber Rejeki 270,UMKM,Jabodetabek,2024-02-05
+tokoraya_cust_0271,tokoraya,UD Sinar Abadi 271,Korporasi,Jawa,2024-08-19
+tokoraya_cust_0272,tokoraya,PT Sumber Rejeki 272,UMKM,Sumatera,2024-02-23
+tokoraya_cust_0273,tokoraya,Toko Sumber Rejeki 273,Menengah,Jawa,2024-04-02
+tokoraya_cust_0274,tokoraya,UD Pangan Sehat 274,Menengah,Sumatera,2024-12-17
+tokoraya_cust_0275,tokoraya,Warung Nusantara Digital 275,Menengah,Indonesia Timur,2024-02-25
+tokoraya_cust_0276,tokoraya,Toko Bumi Lestari 276,UMKM,Jawa,2024-06-16
+tokoraya_cust_0277,tokoraya,CV Rasa Nusantara 277,Menengah,Sumatera,2024-11-08
+tokoraya_cust_0278,tokoraya,UD Batik Cantik 278,Korporasi,Sumatera,2024-09-10
+tokoraya_cust_0279,tokoraya,CV Gunung Mas 279,Menengah,Indonesia Timur,2024-03-11
+tokoraya_cust_0280,tokoraya,PT Tekno Rimba 280,Menengah,Indonesia Timur,2024-11-08
+tokoraya_cust_0281,tokoraya,UD Laut Biru 281,Menengah,Indonesia Timur,2024-08-23
+tokoraya_cust_0282,tokoraya,PT Mitra Dagang 282,Menengah,Jawa,2024-04-25
+tokoraya_cust_0283,tokoraya,Toko Indah Makmur 283,Korporasi,Sumatera,2024-10-19
+tokoraya_cust_0284,tokoraya,Warung Bumi Lestari 284,Menengah,Jabodetabek,2024-04-27
+tokoraya_cust_0285,tokoraya,UD Nusantara Digital 285,Korporasi,Indonesia Timur,2024-11-21
+tokoraya_cust_0286,tokoraya,CV Fashion Lokal 286,Korporasi,Indonesia Timur,2024-01-05
+tokoraya_cust_0287,tokoraya,Warung Gunung Mas 287,Korporasi,Indonesia Timur,2024-01-01
+tokoraya_cust_0288,tokoraya,Warung Laut Biru 288,UMKM,Indonesia Timur,2024-05-25
+tokoraya_cust_0289,tokoraya,Toko Anugerah Prima 289,UMKM,Jabodetabek,2024-01-16
+tokoraya_cust_0290,tokoraya,UD Rasa Nusantara 290,Korporasi,Sumatera,2024-05-05
+tokoraya_cust_0291,tokoraya,Toko Tekno Rimba 291,UMKM,Sumatera,2024-07-18
+tokoraya_cust_0292,tokoraya,PT Citra Sejahtera 292,Korporasi,Jabodetabek,2024-02-09
+tokoraya_cust_0293,tokoraya,UD Indah Makmur 293,UMKM,Jabodetabek,2024-05-19
+tokoraya_cust_0294,tokoraya,Warung Rasa Nusantara 294,UMKM,Indonesia Timur,2024-02-27
+tokoraya_cust_0295,tokoraya,UD Pangan Sehat 295,Menengah,Jabodetabek,2024-04-14
+tokoraya_cust_0296,tokoraya,PT Maju Jaya 296,UMKM,Jawa,2024-05-13
+tokoraya_cust_0297,tokoraya,CV Citra Sejahtera 297,Menengah,Jabodetabek,2024-02-28
+tokoraya_cust_0298,tokoraya,PT Bumi Lestari 298,Korporasi,Sumatera,2024-09-05
+tokoraya_cust_0299,tokoraya,CV Indah Makmur 299,Menengah,Sumatera,2024-12-10
+tokoraya_cust_0300,tokoraya,PT Bumi Lestari 300,UMKM,Jabodetabek,2024-03-03
+tokoraya_cust_0301,tokoraya,CV Anugerah Prima 301,Menengah,Jawa,2024-09-07
+tokoraya_cust_0302,tokoraya,PT Citra Sejahtera 302,UMKM,Jawa,2024-05-06
+tokoraya_cust_0303,tokoraya,Toko Rasa Nusantara 303,Korporasi,Indonesia Timur,2024-12-06
+tokoraya_cust_0304,tokoraya,PT Batik Cantik 304,Menengah,Sumatera,2024-06-26
+tokoraya_cust_0305,tokoraya,Warung Citra Sejahtera 305,UMKM,Sumatera,2024-12-26
+tokoraya_cust_0306,tokoraya,PT Fashion Lokal 306,Menengah,Indonesia Timur,2024-04-07
+tokoraya_cust_0307,tokoraya,CV Rasa Nusantara 307,Korporasi,Jawa,2024-09-13
+tokoraya_cust_0308,tokoraya,Toko Tekno Rimba 308,Korporasi,Sumatera,2024-10-25
+tokoraya_cust_0309,tokoraya,PT Tekno Rimba 309,Korporasi,Jawa,2024-02-13
+tokoraya_cust_0310,tokoraya,PT Rumah Nyaman 310,Korporasi,Sumatera,2024-09-09
+tokoraya_cust_0311,tokoraya,UD Nusantara Digital 311,Korporasi,Jabodetabek,2024-02-08
+tokoraya_cust_0312,tokoraya,CV Batik Cantik 312,UMKM,Sumatera,2024-12-16
+tokoraya_cust_0313,tokoraya,Toko Gunung Mas 313,Menengah,Jabodetabek,2024-01-07
+tokoraya_cust_0314,tokoraya,PT Batik Cantik 314,Korporasi,Indonesia Timur,2024-08-05
+tokoraya_cust_0315,tokoraya,Toko Indah Makmur 315,Menengah,Jabodetabek,2024-01-20
+tokoraya_cust_0316,tokoraya,PT Elektronik Ceria 316,UMKM,Indonesia Timur,2024-10-16
+tokoraya_cust_0317,tokoraya,CV Bumi Lestari 317,Menengah,Indonesia Timur,2024-09-16
+tokoraya_cust_0318,tokoraya,Toko Gunung Mas 318,UMKM,Jawa,2024-12-14
+tokoraya_cust_0319,tokoraya,Warung Pangan Sehat 319,Korporasi,Jabodetabek,2024-01-05
+tokoraya_cust_0320,tokoraya,PT Sumber Rejeki 320,Menengah,Indonesia Timur,2024-03-22
+tokoraya_cust_0321,tokoraya,UD Indah Makmur 321,UMKM,Jawa,2024-06-01
+tokoraya_cust_0322,tokoraya,UD Fashion Lokal 322,Korporasi,Jawa,2024-10-15
+tokoraya_cust_0323,tokoraya,PT Rumah Nyaman 323,UMKM,Jawa,2024-01-21
+tokoraya_cust_0324,tokoraya,CV Elektronik Ceria 324,Korporasi,Jawa,2024-10-16
+tokoraya_cust_0325,tokoraya,UD Batik Cantik 325,Menengah,Indonesia Timur,2024-10-15
+tokoraya_cust_0326,tokoraya,UD Fashion Lokal 326,Menengah,Jabodetabek,2024-04-03
+tokoraya_cust_0327,tokoraya,Warung Rasa Nusantara 327,Korporasi,Jabodetabek,2024-10-04
+tokoraya_cust_0328,tokoraya,Warung Nusantara Digital 328,Korporasi,Jawa,2024-12-11
+tokoraya_cust_0329,tokoraya,Warung Tekno Rimba 329,Korporasi,Jawa,2024-08-02
+tokoraya_cust_0330,tokoraya,Warung Laut Biru 330,Menengah,Sumatera,2024-08-16
+tokoraya_cust_0331,tokoraya,Toko Gunung Mas 331,Menengah,Sumatera,2024-05-03
+tokoraya_cust_0332,tokoraya,Warung Gunung Mas 332,UMKM,Sumatera,2024-11-16
+tokoraya_cust_0333,tokoraya,Toko Laut Biru 333,Korporasi,Indonesia Timur,2024-04-19
+tokoraya_cust_0334,tokoraya,Toko Berkah Mandiri 334,UMKM,Jawa,2024-06-06
+tokoraya_cust_0335,tokoraya,UD Rumah Nyaman 335,Korporasi,Indonesia Timur,2024-08-20
+tokoraya_cust_0336,tokoraya,Toko Citra Sejahtera 336,Korporasi,Jawa,2024-03-02
+tokoraya_cust_0337,tokoraya,Toko Berkah Mandiri 337,UMKM,Jabodetabek,2024-08-11
+tokoraya_cust_0338,tokoraya,PT Sinar Abadi 338,Menengah,Jabodetabek,2024-02-05
+tokoraya_cust_0339,tokoraya,Warung Mitra Dagang 339,Korporasi,Jabodetabek,2024-09-01
+tokoraya_cust_0340,tokoraya,Toko Rumah Nyaman 340,Korporasi,Indonesia Timur,2024-01-16
+tokoraya_cust_0341,tokoraya,PT Indah Makmur 341,UMKM,Jabodetabek,2024-11-07
+tokoraya_cust_0342,tokoraya,Toko Pangan Sehat 342,UMKM,Jabodetabek,2024-01-08
+tokoraya_cust_0343,tokoraya,PT Rumah Nyaman 343,UMKM,Indonesia Timur,2024-04-16
+tokoraya_cust_0344,tokoraya,Warung Tekno Rimba 344,UMKM,Jabodetabek,2024-10-17
+tokoraya_cust_0345,tokoraya,PT Mitra Dagang 345,UMKM,Jabodetabek,2024-07-02
+tokoraya_cust_0346,tokoraya,CV Anugerah Prima 346,Menengah,Jabodetabek,2024-06-19
+tokoraya_cust_0347,tokoraya,UD Karya Bangsa 347,Korporasi,Jabodetabek,2024-11-13
+tokoraya_cust_0348,tokoraya,Toko Citra Sejahtera 348,Menengah,Indonesia Timur,2024-08-06
+tokoraya_cust_0349,tokoraya,UD Fashion Lokal 349,UMKM,Jabodetabek,2024-05-18
+tokoraya_cust_0350,tokoraya,Toko Rasa Nusantara 350,Korporasi,Sumatera,2024-12-25
+tokoraya_cust_0351,tokoraya,Warung Mitra Dagang 351,Menengah,Jawa,2024-07-06
+tokoraya_cust_0352,tokoraya,PT Indah Makmur 352,UMKM,Indonesia Timur,2024-10-28
+tokoraya_cust_0353,tokoraya,Warung Bumi Lestari 353,UMKM,Jabodetabek,2024-10-09
+tokoraya_cust_0354,tokoraya,Warung Batik Cantik 354,Menengah,Sumatera,2024-09-27
+tokoraya_cust_0355,tokoraya,UD Rumah Nyaman 355,Menengah,Sumatera,2024-03-19
+tokoraya_cust_0356,tokoraya,CV Laut Biru 356,Korporasi,Jabodetabek,2024-09-19
+tokoraya_cust_0357,tokoraya,CV Sinar Abadi 357,Korporasi,Indonesia Timur,2024-05-28
+tokoraya_cust_0358,tokoraya,CV Tekno Rimba 358,UMKM,Jabodetabek,2024-11-15
+tokoraya_cust_0359,tokoraya,Warung Elektronik Ceria 359,UMKM,Jabodetabek,2024-09-25
+tokoraya_cust_0360,tokoraya,Toko Sinar Abadi 360,Korporasi,Sumatera,2024-07-23
+tokoraya_cust_0361,tokoraya,UD Maju Jaya 361,Menengah,Indonesia Timur,2024-06-08
+tokoraya_cust_0362,tokoraya,PT Rasa Nusantara 362,UMKM,Jabodetabek,2024-08-12
+tokoraya_cust_0363,tokoraya,CV Anugerah Prima 363,Menengah,Sumatera,2024-09-09
+tokoraya_cust_0364,tokoraya,Warung Sumber Rejeki 364,UMKM,Jabodetabek,2024-07-04
+tokoraya_cust_0365,tokoraya,PT Maju Jaya 365,Menengah,Jabodetabek,2024-02-12
+tokoraya_cust_0366,tokoraya,Warung Tekno Rimba 366,UMKM,Jawa,2024-02-27
+tokoraya_cust_0367,tokoraya,UD Tekno Rimba 367,Korporasi,Jabodetabek,2024-04-24
+tokoraya_cust_0368,tokoraya,Warung Mitra Dagang 368,Menengah,Jawa,2024-09-16
+tokoraya_cust_0369,tokoraya,Warung Batik Cantik 369,Korporasi,Sumatera,2024-12-19
+tokoraya_cust_0370,tokoraya,Warung Maju Jaya 370,Korporasi,Indonesia Timur,2024-01-18
+tokoraya_cust_0371,tokoraya,Toko Bumi Lestari 371,Korporasi,Sumatera,2024-12-20
+tokoraya_cust_0372,tokoraya,PT Sumber Rejeki 372,UMKM,Sumatera,2024-06-27
+tokoraya_cust_0373,tokoraya,UD Sinar Abadi 373,UMKM,Jawa,2024-07-22
+tokoraya_cust_0374,tokoraya,PT Sinar Abadi 374,UMKM,Indonesia Timur,2024-08-26
+tokoraya_cust_0375,tokoraya,PT Fashion Lokal 375,Menengah,Jawa,2024-03-14
+tokoraya_cust_0376,tokoraya,Warung Pangan Sehat 376,UMKM,Sumatera,2024-04-01
+tokoraya_cust_0377,tokoraya,UD Sumber Rejeki 377,Korporasi,Jabodetabek,2024-01-25
+tokoraya_cust_0378,tokoraya,PT Pangan Sehat 378,Korporasi,Jawa,2024-06-17
+tokoraya_cust_0379,tokoraya,PT Mitra Dagang 379,Korporasi,Jabodetabek,2024-03-09
+tokoraya_cust_0380,tokoraya,CV Fashion Lokal 380,Korporasi,Indonesia Timur,2024-05-09
+tokoraya_cust_0381,tokoraya,CV Bumi Lestari 381,UMKM,Jabodetabek,2024-03-14
+tokoraya_cust_0382,tokoraya,Warung Maju Jaya 382,Menengah,Sumatera,2024-10-17
+tokoraya_cust_0383,tokoraya,CV Laut Biru 383,UMKM,Jabodetabek,2024-09-21
+tokoraya_cust_0384,tokoraya,PT Gunung Mas 384,Menengah,Indonesia Timur,2024-11-09
+tokoraya_cust_0385,tokoraya,Warung Citra Sejahtera 385,Korporasi,Sumatera,2024-04-25
+tokoraya_cust_0386,tokoraya,Toko Tekno Rimba 386,UMKM,Sumatera,2024-05-14
+tokoraya_cust_0387,tokoraya,PT Gunung Mas 387,UMKM,Indonesia Timur,2024-10-03
+tokoraya_cust_0388,tokoraya,CV Rasa Nusantara 388,UMKM,Indonesia Timur,2024-08-05
+tokoraya_cust_0389,tokoraya,Toko Maju Jaya 389,UMKM,Jawa,2024-02-11
+tokoraya_cust_0390,tokoraya,PT Laut Biru 390,UMKM,Jabodetabek,2024-05-19
+tokoraya_cust_0391,tokoraya,CV Rumah Nyaman 391,Menengah,Jawa,2024-02-15
+tokoraya_cust_0392,tokoraya,Toko Rasa Nusantara 392,Korporasi,Sumatera,2024-09-09
+tokoraya_cust_0393,tokoraya,Warung Gunung Mas 393,Menengah,Jabodetabek,2024-08-02
+tokoraya_cust_0394,tokoraya,CV Anugerah Prima 394,Korporasi,Jawa,2024-12-04
+tokoraya_cust_0395,tokoraya,Toko Pangan Sehat 395,UMKM,Jabodetabek,2024-03-20
+tokoraya_cust_0396,tokoraya,Warung Elektronik Ceria 396,UMKM,Jabodetabek,2024-09-25
+tokoraya_cust_0397,tokoraya,PT Maju Jaya 397,Korporasi,Jabodetabek,2024-07-15
+tokoraya_cust_0398,tokoraya,PT Rasa Nusantara 398,UMKM,Jawa,2024-07-28
+tokoraya_cust_0399,tokoraya,CV Tekno Rimba 399,Korporasi,Sumatera,2024-05-09
+tokoraya_cust_0400,tokoraya,CV Nusantara Digital 400,Korporasi,Sumatera,2024-12-10
+tokoraya_cust_0401,tokoraya,UD Maju Jaya 401,UMKM,Sumatera,2024-04-11
+tokoraya_cust_0402,tokoraya,Toko Karya Bangsa 402,Korporasi,Indonesia Timur,2024-05-03
+tokoraya_cust_0403,tokoraya,Warung Gunung Mas 403,UMKM,Jawa,2024-04-16
+tokoraya_cust_0404,tokoraya,Warung Karya Bangsa 404,UMKM,Jawa,2024-07-26
+tokoraya_cust_0405,tokoraya,CV Maju Jaya 405,Korporasi,Jabodetabek,2024-11-10
+tokoraya_cust_0406,tokoraya,CV Bumi Lestari 406,Korporasi,Indonesia Timur,2024-05-06
+tokoraya_cust_0407,tokoraya,UD Elektronik Ceria 407,Menengah,Sumatera,2024-04-18
+tokoraya_cust_0408,tokoraya,Toko Bumi Lestari 408,UMKM,Sumatera,2024-01-24
+tokoraya_cust_0409,tokoraya,CV Laut Biru 409,UMKM,Indonesia Timur,2024-08-01
+tokoraya_cust_0410,tokoraya,Toko Elektronik Ceria 410,Menengah,Jawa,2024-12-14
+tokoraya_cust_0411,tokoraya,Warung Maju Jaya 411,Menengah,Jawa,2024-07-08
+tokoraya_cust_0412,tokoraya,UD Rasa Nusantara 412,Menengah,Jabodetabek,2024-10-07
+tokoraya_cust_0413,tokoraya,CV Berkah Mandiri 413,Menengah,Jabodetabek,2024-12-02
+tokoraya_cust_0414,tokoraya,Toko Karya Bangsa 414,UMKM,Jabodetabek,2024-11-24
+tokoraya_cust_0415,tokoraya,Warung Gunung Mas 415,Korporasi,Jabodetabek,2024-05-06
+tokoraya_cust_0416,tokoraya,PT Berkah Mandiri 416,Menengah,Jabodetabek,2024-07-07
+tokoraya_cust_0417,tokoraya,PT Berkah Mandiri 417,Menengah,Indonesia Timur,2024-05-28
+tokoraya_cust_0418,tokoraya,Warung Nusantara Digital 418,Korporasi,Sumatera,2024-10-25
+tokoraya_cust_0419,tokoraya,PT Anugerah Prima 419,Menengah,Jabodetabek,2024-11-27
+tokoraya_cust_0420,tokoraya,Toko Citra Sejahtera 420,Korporasi,Indonesia Timur,2024-06-03
+tokoraya_cust_0421,tokoraya,CV Fashion Lokal 421,Korporasi,Sumatera,2024-11-04
+tokoraya_cust_0422,tokoraya,Warung Sinar Abadi 422,Menengah,Sumatera,2024-02-19
+tokoraya_cust_0423,tokoraya,Warung Citra Sejahtera 423,Menengah,Jabodetabek,2024-04-23
+tokoraya_cust_0424,tokoraya,Warung Citra Sejahtera 424,UMKM,Jawa,2024-03-28
+tokoraya_cust_0425,tokoraya,PT Maju Jaya 425,UMKM,Indonesia Timur,2024-03-09
+tokoraya_cust_0426,tokoraya,CV Rasa Nusantara 426,Korporasi,Jabodetabek,2024-12-04
+tokoraya_cust_0427,tokoraya,UD Batik Cantik 427,UMKM,Indonesia Timur,2024-07-04
+tokoraya_cust_0428,tokoraya,PT Tekno Rimba 428,Menengah,Indonesia Timur,2024-05-19
+tokoraya_cust_0429,tokoraya,PT Elektronik Ceria 429,Korporasi,Jabodetabek,2024-09-11
+tokoraya_cust_0430,tokoraya,PT Nusantara Digital 430,UMKM,Jabodetabek,2024-01-17
+tokoraya_cust_0431,tokoraya,Warung Gunung Mas 431,UMKM,Jabodetabek,2024-04-01
+tokoraya_cust_0432,tokoraya,PT Citra Sejahtera 432,Menengah,Sumatera,2024-10-06
+tokoraya_cust_0433,tokoraya,CV Citra Sejahtera 433,UMKM,Sumatera,2024-12-28
+tokoraya_cust_0434,tokoraya,UD Fashion Lokal 434,Menengah,Sumatera,2024-09-15
+tokoraya_cust_0435,tokoraya,CV Sinar Abadi 435,Korporasi,Jabodetabek,2024-08-28
+tokoraya_cust_0436,tokoraya,PT Batik Cantik 436,Korporasi,Indonesia Timur,2024-01-06
+tokoraya_cust_0437,tokoraya,Toko Gunung Mas 437,Korporasi,Jabodetabek,2024-07-21
+tokoraya_cust_0438,tokoraya,UD Tekno Rimba 438,UMKM,Jawa,2024-12-11
+tokoraya_cust_0439,tokoraya,Warung Bumi Lestari 439,UMKM,Jawa,2024-08-03
+tokoraya_cust_0440,tokoraya,UD Fashion Lokal 440,UMKM,Sumatera,2024-06-15
+tokoraya_cust_0441,tokoraya,CV Rasa Nusantara 441,Korporasi,Jawa,2024-09-15
+tokoraya_cust_0442,tokoraya,UD Batik Cantik 442,Korporasi,Sumatera,2024-12-18
+tokoraya_cust_0443,tokoraya,PT Laut Biru 443,Korporasi,Sumatera,2024-05-08
+tokoraya_cust_0444,tokoraya,UD Elektronik Ceria 444,UMKM,Jawa,2024-06-07
+tokoraya_cust_0445,tokoraya,CV Laut Biru 445,Korporasi,Indonesia Timur,2024-03-24
+tokoraya_cust_0446,tokoraya,UD Elektronik Ceria 446,UMKM,Jabodetabek,2024-12-13
+tokoraya_cust_0447,tokoraya,PT Maju Jaya 447,Menengah,Jabodetabek,2024-08-24
+tokoraya_cust_0448,tokoraya,CV Karya Bangsa 448,Menengah,Sumatera,2024-08-10
+tokoraya_cust_0449,tokoraya,Warung Nusantara Digital 449,Korporasi,Jabodetabek,2024-05-14
+tokoraya_cust_0450,tokoraya,Toko Tekno Rimba 450,Korporasi,Sumatera,2024-04-13
+tokoraya_cust_0451,tokoraya,PT Bumi Lestari 451,Korporasi,Indonesia Timur,2024-11-10
+tokoraya_cust_0452,tokoraya,Toko Elektronik Ceria 452,Korporasi,Indonesia Timur,2024-10-07
+tokoraya_cust_0453,tokoraya,Warung Batik Cantik 453,UMKM,Sumatera,2024-06-14
+tokoraya_cust_0454,tokoraya,Toko Gunung Mas 454,Korporasi,Indonesia Timur,2024-02-03
+tokoraya_cust_0455,tokoraya,UD Maju Jaya 455,UMKM,Jawa,2024-11-01
+tokoraya_cust_0456,tokoraya,Toko Rasa Nusantara 456,Menengah,Jawa,2024-01-15
+tokoraya_cust_0457,tokoraya,Warung Karya Bangsa 457,Korporasi,Sumatera,2024-05-27
+tokoraya_cust_0458,tokoraya,CV Rasa Nusantara 458,UMKM,Indonesia Timur,2024-09-15
+tokoraya_cust_0459,tokoraya,Toko Karya Bangsa 459,Menengah,Sumatera,2024-10-22
+tokoraya_cust_0460,tokoraya,Warung Tekno Rimba 460,Menengah,Sumatera,2024-05-08
+tokoraya_cust_0461,tokoraya,CV Mitra Dagang 461,Menengah,Sumatera,2024-09-10
+tokoraya_cust_0462,tokoraya,PT Fashion Lokal 462,Menengah,Jabodetabek,2024-06-04
+tokoraya_cust_0463,tokoraya,UD Anugerah Prima 463,Menengah,Sumatera,2024-09-01
+tokoraya_cust_0464,tokoraya,Warung Laut Biru 464,UMKM,Indonesia Timur,2024-12-18
+tokoraya_cust_0465,tokoraya,Toko Indah Makmur 465,Menengah,Jawa,2024-04-09
+tokoraya_cust_0466,tokoraya,CV Rasa Nusantara 466,UMKM,Indonesia Timur,2024-01-09
+tokoraya_cust_0467,tokoraya,UD Indah Makmur 467,Korporasi,Indonesia Timur,2024-08-15
+tokoraya_cust_0468,tokoraya,UD Indah Makmur 468,Korporasi,Indonesia Timur,2024-12-05
+tokoraya_cust_0469,tokoraya,UD Berkah Mandiri 469,Menengah,Jawa,2024-06-09
+tokoraya_cust_0470,tokoraya,UD Berkah Mandiri 470,UMKM,Jawa,2024-01-06
+tokoraya_cust_0471,tokoraya,PT Gunung Mas 471,Menengah,Jawa,2024-03-02
+tokoraya_cust_0472,tokoraya,Warung Fashion Lokal 472,UMKM,Indonesia Timur,2024-02-17
+tokoraya_cust_0473,tokoraya,Toko Elektronik Ceria 473,UMKM,Sumatera,2024-11-24
+tokoraya_cust_0474,tokoraya,Warung Gunung Mas 474,Menengah,Jabodetabek,2024-12-10
+tokoraya_cust_0475,tokoraya,Warung Maju Jaya 475,Korporasi,Jabodetabek,2024-08-26
+tokoraya_cust_0476,tokoraya,Warung Indah Makmur 476,UMKM,Jawa,2024-02-21
+tokoraya_cust_0477,tokoraya,Warung Laut Biru 477,UMKM,Jabodetabek,2024-04-20
+tokoraya_cust_0478,tokoraya,UD Tekno Rimba 478,Menengah,Jawa,2024-05-03
+tokoraya_cust_0479,tokoraya,UD Pangan Sehat 479,Menengah,Sumatera,2024-03-07
+tokoraya_cust_0480,tokoraya,Warung Sinar Abadi 480,Menengah,Indonesia Timur,2024-04-23
+tokoraya_cust_0481,tokoraya,Toko Anugerah Prima 481,Menengah,Jabodetabek,2024-10-14
+tokoraya_cust_0482,tokoraya,Warung Sinar Abadi 482,Menengah,Jawa,2024-04-23
+tokoraya_cust_0483,tokoraya,UD Berkah Mandiri 483,Menengah,Indonesia Timur,2024-07-17
+tokoraya_cust_0484,tokoraya,Warung Sumber Rejeki 484,UMKM,Jawa,2024-07-26
+tokoraya_cust_0485,tokoraya,Toko Anugerah Prima 485,UMKM,Jawa,2024-12-18
+tokoraya_cust_0486,tokoraya,CV Sumber Rejeki 486,Menengah,Jawa,2024-07-16
+tokoraya_cust_0487,tokoraya,PT Citra Sejahtera 487,UMKM,Jawa,2024-02-09
+tokoraya_cust_0488,tokoraya,Warung Gunung Mas 488,UMKM,Jabodetabek,2024-03-28
+tokoraya_cust_0489,tokoraya,PT Karya Bangsa 489,Korporasi,Indonesia Timur,2024-04-12
+tokoraya_cust_0490,tokoraya,Toko Anugerah Prima 490,UMKM,Jawa,2024-01-05
+tokoraya_cust_0491,tokoraya,UD Anugerah Prima 491,UMKM,Sumatera,2024-08-14
+tokoraya_cust_0492,tokoraya,PT Rumah Nyaman 492,Korporasi,Indonesia Timur,2024-06-02
+tokoraya_cust_0493,tokoraya,Warung Elektronik Ceria 493,Menengah,Indonesia Timur,2024-12-06
+tokoraya_cust_0494,tokoraya,UD Karya Bangsa 494,Menengah,Jabodetabek,2024-12-03
+tokoraya_cust_0495,tokoraya,Toko Batik Cantik 495,UMKM,Sumatera,2024-07-11
+tokoraya_cust_0496,tokoraya,CV Mitra Dagang 496,UMKM,Jawa,2024-01-26
+tokoraya_cust_0497,tokoraya,CV Sumber Rejeki 497,UMKM,Jawa,2024-04-22
+tokoraya_cust_0498,tokoraya,PT Nusantara Digital 498,Menengah,Jawa,2024-03-09
+tokoraya_cust_0499,tokoraya,Warung Batik Cantik 499,Korporasi,Jabodetabek,2024-02-21
+tokoraya_cust_0500,tokoraya,Toko Bumi Lestari 500,UMKM,Jawa,2024-10-05
