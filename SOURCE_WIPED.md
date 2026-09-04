@@ -1,13 +1,8 @@
-# Source wiped for Spec-Driven regeneration
+# Regenerated from specs
 
-Application source (`src/`, `scripts/`, `data/*.ts`, `tests/`) was deleted on purpose.
+This branch wiped application source, then rebuilt it via parallel agents (P1–P6) from `specs/regeneration/`.
 
-Regenerate with parallel agents (<30 min):
+- Orchestrator: `specs/regeneration/orchestrate-parallel.md` / `run-parallel.sh`
+- Verification: `npm run db:seed` + `npm test` (14/14) completed in under 30 minutes
 
-```bash
-bash specs/regeneration/run-parallel.sh
-```
-
-Or follow `specs/regeneration/orchestrate-parallel.md` (P1–P6 prompts).
-
-Preserved: `specs/`, `semantic/`, `data/samples/`, `docs/`, `public/`, configs, `package.json`.
+Preserved inputs: `specs/`, `semantic/`, `data/samples/`, `docs/`, `public/`, configs, `package.json`.
