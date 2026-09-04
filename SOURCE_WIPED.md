@@ -1,6 +1,22 @@
-# Regenerated from specs
+# Source wiped — regenerate with one prompt
 
-App source was wiped, then rebuilt via `@specs/regeneration/prompts/REGENERATE.md` (parallel P1–P6).
+Application source was deleted on purpose (`src/`, `scripts/`, `data/*.ts`, `tests/`).
 
-- Verified: `npm run db:seed` + `npm test` (14/14)
-- Re-run: paste `specs/regeneration/prompts/REGENERATE.md` (below `---`) or `bash specs/regeneration/run-parallel.sh`
+## Single prompt
+
+```
+@specs/regeneration/prompts/REGENERATE.md
+```
+
+Or paste everything below the `---` in that file into one Agent chat.
+
+## CLI
+
+```bash
+agent login   # once
+bash specs/regeneration/run-parallel.sh
+```
+
+## Preserved
+
+`specs/`, `semantic/`, `data/samples/`, `docs/`, `public/`, configs, `package.json`, `.cursor/`
