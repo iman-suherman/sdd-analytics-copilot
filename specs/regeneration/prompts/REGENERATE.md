@@ -68,7 +68,7 @@ Fix any cross-cutting failures. Do not stop until **14** vitest tests pass (or t
 - Analytics: `validateQueryPlan` → `compileQueryPlan` → `executeQueryPlan(plan, companyId)`
 - Agent: `runAnalyticsAgent({ prompt, companyId, conversationId? })` with mock + Vertex; vitest forces `AGENT_BACKEND=mock`
 - Company: `DEFAULT_COMPANY_ID = "tokoraya"`, `companyIdFromRequest`
-- Copilot dock: floating UI, typewriter, resize, fullscreen below header, `ask(prompt)` from home cards
+- Copilot dock: floating UI, typewriter, resize, fullscreen below header, `ask(prompt)` from home cards; waiting state uses explicit loading + visible `Merencanakan & mengeksekusi…`
 - API: OpenAPI paths for companies, analytics/query, agent/chat, dashboards, semantic-model, traces
 
 ## Demo proof (after `npm run demo`)

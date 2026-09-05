@@ -22,7 +22,9 @@ Feature: SDD-012 Copilot dock
   Scenario: Bubble opens analytics panel
     Given the app is running
     When the user opens the bottom-right bubble and sends a prompt
-    Then assistant text appears with typewriter behaviour
+    Then while the agent request is in flight a visible status shows "Merencanakan & mengeksekusi…" with typing dots
+    And that waiting state uses an explicit loading flag for the full round-trip (not useTransition isPending alone)
+    And assistant text appears with typewriter behaviour
     And charts render when the payload includes result
 
 Feature: SDD-013 Vertex ops

@@ -19,6 +19,7 @@ Do **not** create `src/app/api/**`. Do not edit server or data.
 - Bahasa Indonesia copy throughout
 - `CompanyProvider` + header company switcher (`x-company-id` / localStorage)
 - Floating Copilot dock bottom-right: bubble, open chat, resize from top-left, fullscreen below ~`top-14` header, Esc/minimize, typewriter for assistant text, charts/evidence immediately
+- Waiting state: explicit `loading` for the full `/api/agent/chat` round-trip (not `useTransition` `isPending` alone); visible Bahasa text `Merencanakan & mengeksekusi…` plus three dots (never `sr-only`)
 - `CopilotProvider.ask(prompt)` used by home flow cards
 - Home hero with TokoRaya demo cards for the 4-step journey
 - `/copilot?q=` deep-link: open dock with prompt, redirect home

@@ -10,7 +10,7 @@ Implement SDD-012 and SDD-013 plus `specs/agents/analytics-agent.md`.
 
 - `CopilotProvider` with `open`, `ask(prompt?)`, `pendingPrompt`
 - `CopilotDock`: bottom-right bubble; resizable floating panel; fullscreen under app header; Escape; deep-link `/copilot?q=`
-- `CopilotChat`: Bahasa demo chips per company; typewriter assistant markdown; charts/evidence immediate; typing indicator while pending
+- `CopilotChat`: Bahasa demo chips per company; typewriter assistant markdown; charts/evidence immediate; explicit `loading` for the full chat round-trip with **visible** `Merencanakan & mengeksekusi…` + three-dot indicator (not `sr-only`; not `useTransition` `isPending` alone)
 
 ## Agent
 
